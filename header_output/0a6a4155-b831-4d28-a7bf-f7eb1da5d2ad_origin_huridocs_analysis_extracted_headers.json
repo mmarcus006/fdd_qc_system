@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 8,
+    "node_index": 65,
+    "start_node_index": 65,
+    "end_node_index": 88,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 10,
+    "node_index": 89,
+    "start_node_index": 89,
+    "end_node_index": 103,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 11,
+    "node_index": 104,
+    "start_node_index": 104,
+    "end_node_index": 108,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 12,
+    "node_index": 109,
+    "start_node_index": 109,
+    "end_node_index": 112,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 12,
+    "node_index": 113,
+    "start_node_index": 113,
+    "end_node_index": 132,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 14,
+    "node_index": 133,
+    "start_node_index": 133,
+    "end_node_index": 155,
+    "start_page": 14,
+    "end_page": 19,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 19,
+    "node_index": 156,
+    "start_node_index": 156,
+    "end_node_index": 191,
+    "start_page": 19,
+    "end_page": 23,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 23,
+    "node_index": 192,
+    "start_node_index": 192,
+    "end_node_index": 231,
+    "start_page": 23,
+    "end_page": 28,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 28,
+    "node_index": 232,
+    "start_node_index": 232,
+    "end_node_index": 238,
+    "start_page": 28,
+    "end_page": 29,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 29,
+    "node_index": 239,
+    "start_node_index": 239,
+    "end_node_index": 243,
+    "start_page": 29,
+    "end_page": 30,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 30,
+    "node_index": 244,
+    "start_node_index": 244,
+    "end_node_index": 335,
+    "start_page": 30,
+    "end_page": 41,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 41,
+    "node_index": 336,
+    "start_node_index": 336,
+    "end_node_index": 380,
+    "start_page": 41,
+    "end_page": 46,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 46,
+    "node_index": 381,
+    "start_node_index": 381,
+    "end_node_index": 398,
+    "start_page": 46,
+    "end_page": 48,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 48,
+    "node_index": 399,
+    "start_node_index": 399,
+    "end_node_index": 414,
+    "start_page": 48,
+    "end_page": 50,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 50,
+    "node_index": 415,
+    "start_node_index": 415,
+    "end_node_index": 428,
+    "start_page": 50,
+    "end_page": 52,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 52,
+    "node_index": 429,
+    "start_node_index": 429,
+    "end_node_index": 434,
+    "start_page": 52,
+    "end_page": 53,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 53,
+    "node_index": 435,
+    "start_node_index": 435,
+    "end_node_index": 450,
+    "start_page": 53,
+    "end_page": 57,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 57,
+    "node_index": 451,
+    "start_node_index": 451,
+    "end_node_index": 453,
+    "start_page": 57,
+    "end_page": 57,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 57,
+    "node_index": 454,
+    "start_node_index": 454,
+    "end_node_index": 496,
+    "start_page": 57,
+    "end_page": 63,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 63,
+    "node_index": 497,
+    "start_node_index": 497,
+    "end_node_index": 525,
+    "start_page": 63,
+    "end_page": 67,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 67,
+    "node_index": 526,
+    "start_node_index": 526,
+    "end_node_index": 528,
+    "start_page": 67,
+    "end_page": 67,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 67,
+    "node_index": 529,
+    "start_node_index": 529,
+    "end_node_index": 539,
+    "start_page": 67,
+    "end_page": 68,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 68,
+    "node_index": 540,
+    "start_node_index": 540,
+    "end_node_index": 2094,
+    "start_page": 68,
+    "end_page": 256,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Golds_Gym_Franchise_LLC_FDD_2024_ID636970.pdf-dfa18bd8-1af0-466d-bdba-73c0d51ac5f9\\0a6a4155-b831-4d28-a7bf-f7eb1da5d2ad_origin.pdf"
+  }
+]

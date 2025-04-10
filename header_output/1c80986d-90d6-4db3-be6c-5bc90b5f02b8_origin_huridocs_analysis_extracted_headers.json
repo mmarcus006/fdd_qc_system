@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1:   THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 9,
+    "node_index": 69,
+    "start_node_index": 69,
+    "end_node_index": 107,
+    "start_page": 9,
+    "end_page": 19,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2:   BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 19,
+    "node_index": 108,
+    "start_node_index": 108,
+    "end_node_index": 144,
+    "start_page": 19,
+    "end_page": 22,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3:   LITIGATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 22,
+    "node_index": 145,
+    "start_node_index": 145,
+    "end_node_index": 224,
+    "start_page": 22,
+    "end_page": 36,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4:   BANKRUPTCY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 36,
+    "node_index": 225,
+    "start_node_index": 225,
+    "end_node_index": 227,
+    "start_page": 36,
+    "end_page": 36,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5:   INITIAL FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 36,
+    "node_index": 228,
+    "start_node_index": 228,
+    "end_node_index": 239,
+    "start_page": 36,
+    "end_page": 38,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6:   OTHER FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 38,
+    "node_index": 240,
+    "start_node_index": 240,
+    "end_node_index": 261,
+    "start_page": 38,
+    "end_page": 44,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7:   ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 44,
+    "node_index": 262,
+    "start_node_index": 262,
+    "end_node_index": 287,
+    "start_page": 44,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8:   RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 37.28813559322034,
+      "final": 92.42494738008197
+    },
+    "page_number": 49,
+    "node_index": 288,
+    "start_node_index": 288,
+    "end_node_index": 325,
+    "start_page": 49,
+    "end_page": 56,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9:   FRANCHISEE'S OBLIGATIONS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 58.8235294117647,
+      "final": 96.75653594771242
+    },
+    "page_number": 56,
+    "node_index": 326,
+    "start_node_index": 326,
+    "end_node_index": 330,
+    "start_page": 56,
+    "end_page": 57,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10:   FINANCING",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 57,
+    "node_index": 331,
+    "start_node_index": 331,
+    "end_node_index": 335,
+    "start_page": 57,
+    "end_page": 58,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11:  FRANCHISOR'S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS, AND TRAINING",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 58,
+    "node_index": 336,
+    "start_node_index": 336,
+    "end_node_index": 410,
+    "start_page": 58,
+    "end_page": 70,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12:   TERRITORY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 70,
+    "node_index": 411,
+    "start_node_index": 411,
+    "end_node_index": 421,
+    "start_page": 70,
+    "end_page": 72,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13:    TRADEMARKS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.73684210526315,
+      "final": 103.93102855177159
+    },
+    "page_number": 72,
+    "node_index": 422,
+    "start_node_index": 422,
+    "end_node_index": 435,
+    "start_page": 72,
+    "end_page": 75,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14:   PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 99.11504424778761,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.54935218925328
+    },
+    "page_number": 75,
+    "node_index": 436,
+    "start_node_index": 436,
+    "end_node_index": 444,
+    "start_page": 75,
+    "end_page": 77,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15:    OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.91013071895425
+    },
+    "page_number": 77,
+    "node_index": 445,
+    "start_node_index": 445,
+    "end_node_index": 451,
+    "start_page": 77,
+    "end_page": 77,
+    "alignment_score": 0.9820261437908496,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16:   RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.87745098039215
+    },
+    "page_number": 77,
+    "node_index": 452,
+    "start_node_index": 452,
+    "end_node_index": 455,
+    "start_page": 77,
+    "end_page": 78,
+    "alignment_score": 0.9754901960784313,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17:   RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 99.2,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.59183006535947
+    },
+    "page_number": 78,
+    "node_index": 456,
+    "start_node_index": 456,
+    "end_node_index": 465,
+    "start_page": 78,
+    "end_page": 84,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18:   PUBLIC FIGURES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 84,
+    "node_index": 466,
+    "start_node_index": 466,
+    "end_node_index": 467,
+    "start_page": 84,
+    "end_page": 85,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19:   FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 85,
+    "node_index": 468,
+    "start_node_index": 468,
+    "end_node_index": 480,
+    "start_page": 85,
+    "end_page": 87,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20:   OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 87,
+    "node_index": 481,
+    "start_node_index": 481,
+    "end_node_index": 502,
+    "start_page": 87,
+    "end_page": 90,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21:   FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 90,
+    "node_index": 503,
+    "start_node_index": 503,
+    "end_node_index": 505,
+    "start_page": 90,
+    "end_page": 90,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22:   CONTRACTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.11764705882354,
+      "final": 103.81535947712419
+    },
+    "page_number": 90,
+    "node_index": 506,
+    "start_node_index": 506,
+    "end_node_index": 518,
+    "start_page": 90,
+    "end_page": 90,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23:    RECEIPTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 93.33333333333333,
+      "final": 103.65849673202615
+    },
+    "page_number": 90,
+    "node_index": 519,
+    "start_node_index": 519,
+    "end_node_index": 2646,
+    "start_page": 90,
+    "end_page": 344,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\BQ_Concepts_LLC_FDD_2024_ID635565.pdf-f9b3ec5c-2f6b-456e-a639-def9bbe450dc\\1c80986d-90d6-4db3-be6c-5bc90b5f02b8_origin.pdf"
+  }
+]

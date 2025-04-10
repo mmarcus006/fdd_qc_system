@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM PAGE ITEM 1  THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES ....................................... 1 ITEM 2  BUSINESS EXPERIENCE ..................................................................................................................... 4 ITEM 3  LITIGATION ....................................................................................................................................... 6 ITEM 4  BANKRUPTCY.................................................................................................................................... 7 ITEM 5  INITIAL FEES ..................................................................................................................................... 7 ITEM 6  OTHER FEES ...................................................................................................................................... 8 ITEM 7  ESTIMATED INITIAL INVESTMENT .................................................................................................. 11 ITEM 8  RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES .......................................................... 17 ITEM 9  FRANCHISEE’S OBLIGATIONS ......................................................................................................... 20 ITEM 10  FINANCING ................................................................................................................................... 22 ITEM 11  FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS, AND TRAINING .................. 22 ITEM 12  TERRITORY ................................................................................................................................... 29 ITEM 13  TRADEMARKS ............................................................................................................................... 34 ITEM 14  PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION ....................................................... 36 ITEM 15  OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS ....... 37 ITEM 16  RESTRICTIONS ON WHAT THE FRANCHISE MAY SELL .................................................................. 37 ITEM 17  RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION ............................................ 37 ITEM 18  PUBLIC FIGURES ........................................................................................................................... 46 ITEM 19  FINANCIAL PERFORMANCE REPRESENTATIONS .......................................................................... 47 ITEM 21  FINANCIAL STATEMENTS ............................................................................................................. 53 ITEM 22  CONTRACTS .................................................................................................................................. 54 ITEM 23  RECEIPTS ...................................................................................................................................... 54",
+    "match_scores": {
+      "full": 97.6,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.8
+    },
+    "page_number": 6,
+    "node_index": 46,
+    "start_node_index": 46,
+    "end_node_index": 114,
+    "start_page": 6,
+    "end_page": 12,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 86.79245283018868,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.37988654581329
+    },
+    "page_number": 12,
+    "node_index": 115,
+    "start_node_index": 115,
+    "end_node_index": 126,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 85.71428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 77.84897292250234
+    },
+    "page_number": 13,
+    "node_index": 127,
+    "start_node_index": 127,
+    "end_node_index": 142,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "BANKRUPTCY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.98366013071895
+    },
+    "page_number": 14,
+    "node_index": 143,
+    "start_node_index": 143,
+    "end_node_index": 144,
+    "start_page": 14,
+    "end_page": 14,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5",
+    "match_scores": {
+      "full": 30.769230769230774,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 50.38461538461539
+    },
+    "page_number": 14,
+    "node_index": 145,
+    "start_node_index": 145,
+    "end_node_index": 159,
+    "start_page": 14,
+    "end_page": 15,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6",
+    "match_scores": {
+      "full": 33.33333333333333,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 51.6421568627451
+    },
+    "page_number": 15,
+    "node_index": 160,
+    "start_node_index": 160,
+    "end_node_index": 179,
+    "start_page": 15,
+    "end_page": 18,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT FOR A SMALL GJC STORE (UNDER 1,000 SF) WITHOUT DRIVE‐THRU",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.82608695652175
+    },
+    "page_number": 18,
+    "node_index": 180,
+    "start_node_index": 180,
+    "end_node_index": 265,
+    "start_page": 18,
+    "end_page": 27,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.6108776844071
+    },
+    "page_number": 27,
+    "node_index": 266,
+    "start_node_index": 266,
+    "end_node_index": 267,
+    "start_page": 27,
+    "end_page": 27,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "FINANCING",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.99183006535948
+    },
+    "page_number": 29,
+    "node_index": 277,
+    "start_node_index": 277,
+    "end_node_index": 364,
+    "start_page": 29,
+    "end_page": 36,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "O BLIGATION S ECTION IN A GREEMENT D ISCLOSURE D OCUMENT I TEM a. Site selection and acquisition/lease Sections 2A and 3A of Franchise Agreement; Section 3 of the Area Development Agreement Items 7 and 11 b. Pre‐opening purchases/leases Sections 3B and 3C of Franchise Agreement Items 5, 7 and 8 c. Site development and other pre‐opening requirements Sections 3B, 3C and 3D of Franchise Agreement; Section 3 of the Area Development Agreement Items 5, 7 and 11 d. Initial and ongoing training Sections 4A and 4B of Franchise Agreement; Kiosk Addendum Item 11 e. Opening Sections 3D and 3E of Franchise Agreement Items 6 and 11 f. Fees Sections 3F, 8B, 11 and 12 of Franchise Agreement; Kiosk Addendum; Section 2 of the Area Development Agreement Items 5, 6 and 7 g. Compliance with standards and policies/Operations Manual Sections 5, 6 and 8C‐E. of Franchise Agreement Items 8 and 11 h. Trademarks and proprietary information Sections 7 and 10 of Franchise Agreement; Sections 1.4 and 5 of the Area Development Agreement Items 13 and 14",
+    "match_scores": {
+      "full": 36.170212765957444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 53.0769364483382
+    },
+    "page_number": 27,
+    "node_index": 268,
+    "start_node_index": 268,
+    "end_node_index": 276,
+    "start_page": 27,
+    "end_page": 29,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "TERRITORY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 55.0
+    },
+    "page_number": 36,
+    "node_index": 365,
+    "start_node_index": 365,
+    "end_node_index": 416,
+    "start_page": 36,
+    "end_page": 41,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 81.08108108108108,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.54054054054055
+    },
+    "page_number": 41,
+    "node_index": 417,
+    "start_node_index": 417,
+    "end_node_index": 501,
+    "start_page": 41,
+    "end_page": 54,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 76.92307692307692,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.45336852689793
+    },
+    "page_number": 54,
+    "node_index": 502,
+    "start_node_index": 502,
+    "end_node_index": 508,
+    "start_page": 54,
+    "end_page": 55,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 63.529411764705884,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 66.75653594771242
+    },
+    "page_number": 55,
+    "node_index": 509,
+    "start_node_index": 509,
+    "end_node_index": 555,
+    "start_page": 55,
+    "end_page": 61,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "CONTRACTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.967320261437905
+    },
+    "page_number": 61,
+    "node_index": 556,
+    "start_node_index": 556,
+    "end_node_index": 565,
+    "start_page": 61,
+    "end_page": 61,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "RECEIPTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.97549019607843
+    },
+    "page_number": 61,
+    "node_index": 566,
+    "start_node_index": 566,
+    "end_node_index": 2284,
+    "start_page": 61,
+    "end_page": 264,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Gloria_Jeans_Gourmet_Coffees_Franchising_Corp_FDD_2024_ID635457.pdf-c1057599-81ca-45d4-821b-8af05db3e43e\\16058c67-9c98-4a1f-8934-378849416846_origin.pdf"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1:  The Franchisor, and any Parents, Predecessors and Affiliates",
+    "match_scores": {
+      "full": 98.4375,
+      "label": 100,
+      "keywords": 32.83582089552239,
+      "final": 90.7614043751829
+    },
+    "page_number": 10,
+    "node_index": 53,
+    "start_node_index": 53,
+    "end_node_index": 68,
+    "start_page": 10,
+    "end_page": 12,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2:  Business Experience",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 12,
+    "node_index": 69,
+    "start_node_index": 69,
+    "end_node_index": 76,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3:  Litigation",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 12,
+    "node_index": 77,
+    "start_node_index": 77,
+    "end_node_index": 80,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4:  Bankruptcy",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 12,
+    "node_index": 81,
+    "start_node_index": 81,
+    "end_node_index": 83,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5:  Initial Fees",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 13,
+    "node_index": 84,
+    "start_node_index": 84,
+    "end_node_index": 89,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6:  Other Fees OTHER FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 14,
+    "node_index": 90,
+    "start_node_index": 90,
+    "end_node_index": 122,
+    "start_page": 14,
+    "end_page": 22,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7:  Estimated Initial Investment",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 22,
+    "node_index": 123,
+    "start_node_index": 123,
+    "end_node_index": 152,
+    "start_page": 22,
+    "end_page": 27,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8:  Restrictions on Sources of Services and Products",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 37.28813559322034,
+      "final": 92.4331173147225
+    },
+    "page_number": 27,
+    "node_index": 153,
+    "start_node_index": 153,
+    "end_node_index": 167,
+    "start_page": 27,
+    "end_page": 29,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9:  Franchisee's Obligations",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 58.8235294117647,
+      "final": 96.7483660130719
+    },
+    "page_number": 29,
+    "node_index": 168,
+    "start_node_index": 168,
+    "end_node_index": 177,
+    "start_page": 29,
+    "end_page": 32,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10:  Financing",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 32,
+    "node_index": 178,
+    "start_node_index": 178,
+    "end_node_index": 179,
+    "start_page": 32,
+    "end_page": 32,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11:  Franchisor's Assistance, Advertising, Computer Systems, and Training Except as listed below, we are not required to provide you with any assistance.",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.92647058823529
+    },
+    "page_number": 32,
+    "node_index": 180,
+    "start_node_index": 180,
+    "end_node_index": 230,
+    "start_page": 32,
+    "end_page": 39,
+    "alignment_score": 0.9852941176470589,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12:  Territory",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 39,
+    "node_index": 231,
+    "start_node_index": 231,
+    "end_node_index": 237,
+    "start_page": 39,
+    "end_page": 40,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13:  Trademarks",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.73684210526315,
+      "final": 103.93919848641211
+    },
+    "page_number": 40,
+    "node_index": 238,
+    "start_node_index": 238,
+    "end_node_index": 246,
+    "start_page": 40,
+    "end_page": 41,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14:  Patents, Copyrights, and Proprietary Information",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 41,
+    "node_index": 247,
+    "start_node_index": 247,
+    "end_node_index": 252,
+    "start_page": 41,
+    "end_page": 42,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15:  Obligation to Participate in the Actual Operation of the Franchise Business",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.97549019607843
+    },
+    "page_number": 42,
+    "node_index": 253,
+    "start_node_index": 253,
+    "end_node_index": 255,
+    "start_page": 42,
+    "end_page": 42,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16:  Restrictions on What the Franchisee May Sell",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 42,
+    "node_index": 256,
+    "start_node_index": 256,
+    "end_node_index": 260,
+    "start_page": 42,
+    "end_page": 43,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17:  Renewal, Termination, Transfer and Dispute Resolution THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 91.37931034482759,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 100.68148523777327
+    },
+    "page_number": 43,
+    "node_index": 261,
+    "start_node_index": 261,
+    "end_node_index": 274,
+    "start_page": 43,
+    "end_page": 48,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18:  Public Figures",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 48,
+    "node_index": 275,
+    "start_node_index": 275,
+    "end_node_index": 276,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19:  Financial Performance Representations",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 48,
+    "node_index": 277,
+    "start_node_index": 277,
+    "end_node_index": 280,
+    "start_page": 48,
+    "end_page": 49,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20:  Outlets and Franchisee Information",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.97549019607843
+    },
+    "page_number": 49,
+    "node_index": 281,
+    "start_node_index": 281,
+    "end_node_index": 302,
+    "start_page": 49,
+    "end_page": 51,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21:  Financial Statements",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 51,
+    "node_index": 303,
+    "start_node_index": 303,
+    "end_node_index": 304,
+    "start_page": 51,
+    "end_page": 51,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22:  Contracts",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.11764705882354,
+      "final": 103.81535947712419
+    },
+    "page_number": 51,
+    "node_index": 305,
+    "start_node_index": 305,
+    "end_node_index": 310,
+    "start_page": 51,
+    "end_page": 52,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23:  Receipts",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 93.33333333333333,
+      "final": 103.65849673202615
+    },
+    "page_number": 52,
+    "node_index": 311,
+    "start_node_index": 311,
+    "end_node_index": 1467,
+    "start_page": 52,
+    "end_page": 160,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MY_PLACE_HOTELS_OF_AMERICA_LLC_FDD_2024_ID635671.pdf-25484616-0754-412f-aacf-7bfc86bcc024\\1a8dd3e7-e570-47f8-a589-30b3125c28ba_origin.pdf"
+  }
+]

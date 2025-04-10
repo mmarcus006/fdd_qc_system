@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.59812927795791
+    },
+    "page_number": 10,
+    "node_index": 70,
+    "start_node_index": 70,
+    "end_node_index": 185,
+    "start_page": 10,
+    "end_page": 23,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 23,
+    "node_index": 186,
+    "start_node_index": 186,
+    "end_node_index": 210,
+    "start_page": 23,
+    "end_page": 25,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.9673202614379
+    },
+    "page_number": 25,
+    "node_index": 211,
+    "start_node_index": 211,
+    "end_node_index": 250,
+    "start_page": 25,
+    "end_page": 31,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 31,
+    "node_index": 251,
+    "start_node_index": 251,
+    "end_node_index": 253,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 31,
+    "node_index": 254,
+    "start_node_index": 254,
+    "end_node_index": 274,
+    "start_page": 31,
+    "end_page": 34,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 34,
+    "node_index": 275,
+    "start_node_index": 275,
+    "end_node_index": 323,
+    "start_page": 34,
+    "end_page": 44,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 44,
+    "node_index": 324,
+    "start_node_index": 324,
+    "end_node_index": 341,
+    "start_page": 44,
+    "end_page": 47,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 47,
+    "node_index": 342,
+    "start_node_index": 342,
+    "end_node_index": 397,
+    "start_page": 47,
+    "end_page": 53,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 53,
+    "node_index": 398,
+    "start_node_index": 398,
+    "end_node_index": 404,
+    "start_page": 53,
+    "end_page": 54,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 54,
+    "node_index": 405,
+    "start_node_index": 405,
+    "end_node_index": 409,
+    "start_page": 54,
+    "end_page": 55,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 55,
+    "node_index": 410,
+    "start_node_index": 410,
+    "end_node_index": 502,
+    "start_page": 55,
+    "end_page": 65,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 65,
+    "node_index": 503,
+    "start_node_index": 503,
+    "end_node_index": 533,
+    "start_page": 65,
+    "end_page": 69,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 69,
+    "node_index": 534,
+    "start_node_index": 534,
+    "end_node_index": 556,
+    "start_page": 69,
+    "end_page": 72,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 72,
+    "node_index": 557,
+    "start_node_index": 557,
+    "end_node_index": 566,
+    "start_page": 72,
+    "end_page": 73,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.68553459119497
+    },
+    "page_number": 73,
+    "node_index": 567,
+    "start_node_index": 567,
+    "end_node_index": 580,
+    "start_page": 73,
+    "end_page": 75,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 75,
+    "node_index": 581,
+    "start_node_index": 581,
+    "end_node_index": 592,
+    "start_page": 75,
+    "end_page": 76,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 76,
+    "node_index": 593,
+    "start_node_index": 593,
+    "end_node_index": 623,
+    "start_page": 76,
+    "end_page": 85,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 85,
+    "node_index": 624,
+    "start_node_index": 624,
+    "end_node_index": 626,
+    "start_page": 85,
+    "end_page": 85,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 85,
+    "node_index": 627,
+    "start_node_index": 627,
+    "end_node_index": 677,
+    "start_page": 85,
+    "end_page": 91,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 91,
+    "node_index": 678,
+    "start_node_index": 678,
+    "end_node_index": 765,
+    "start_page": 91,
+    "end_page": 104,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.32278669043374
+    },
+    "page_number": 104,
+    "node_index": 766,
+    "start_node_index": 766,
+    "end_node_index": 770,
+    "start_page": 104,
+    "end_page": 104,
+    "alignment_score": 0.9918300653594772,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.32278669043374
+    },
+    "page_number": 104,
+    "node_index": 771,
+    "start_node_index": 771,
+    "end_node_index": 778,
+    "start_page": 104,
+    "end_page": 105,
+    "alignment_score": 0.9918300653594772,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 105,
+    "node_index": 779,
+    "start_node_index": 779,
+    "end_node_index": 4178,
+    "start_page": 105,
+    "end_page": 517,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\MEINEKE_FRANCHISOR_SPV_LLC_FDD_2024_ID636862.pdf-218edd5b-3bcd-4567-b41a-9c4b8cd55d26\\1a91d6ef-e738-4bca-a3f5-4bdab35938f9_origin.pdf"
+  }
+]

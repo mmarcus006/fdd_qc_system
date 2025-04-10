@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 7,
+    "node_index": 27,
+    "start_node_index": 27,
+    "end_node_index": 37,
+    "start_page": 7,
+    "end_page": 8,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 8,
+    "node_index": 38,
+    "start_node_index": 38,
+    "end_node_index": 41,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 42,
+    "start_node_index": 42,
+    "end_node_index": 47,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 48,
+    "start_node_index": 48,
+    "end_node_index": 50,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 51,
+    "start_node_index": 51,
+    "end_node_index": 58,
+    "start_page": 8,
+    "end_page": 9,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 9,
+    "node_index": 59,
+    "start_node_index": 59,
+    "end_node_index": 65,
+    "start_page": 9,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.83333333333333,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.90849673202614
+    },
+    "page_number": 11,
+    "node_index": 66,
+    "start_node_index": 66,
+    "end_node_index": 70,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.7140522875817
+    },
+    "page_number": 12,
+    "node_index": 71,
+    "start_node_index": 71,
+    "end_node_index": 110,
+    "start_page": 12,
+    "end_page": 16,
+    "alignment_score": 0.9428104575163399,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 16,
+    "node_index": 111,
+    "start_node_index": 111,
+    "end_node_index": 116,
+    "start_page": 16,
+    "end_page": 17,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 17,
+    "node_index": 117,
+    "start_node_index": 117,
+    "end_node_index": 120,
+    "start_page": 17,
+    "end_page": 18,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR'S OBLIGATIONS",
+    "match_scores": {
+      "full": 69.38775510204081,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 69.68570761637989
+    },
+    "page_number": 18,
+    "node_index": 121,
+    "start_node_index": 121,
+    "end_node_index": 153,
+    "start_page": 18,
+    "end_page": 20,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 20,
+    "node_index": 154,
+    "start_node_index": 154,
+    "end_node_index": 157,
+    "start_page": 20,
+    "end_page": 20,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 20,
+    "node_index": 158,
+    "start_node_index": 158,
+    "end_node_index": 164,
+    "start_page": 20,
+    "end_page": 21,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 21,
+    "node_index": 165,
+    "start_node_index": 165,
+    "end_node_index": 172,
+    "start_page": 21,
+    "end_page": 22,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 22,
+    "node_index": 173,
+    "start_node_index": 173,
+    "end_node_index": 180,
+    "start_page": 22,
+    "end_page": 23,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 23,
+    "node_index": 181,
+    "start_node_index": 181,
+    "end_node_index": 194,
+    "start_page": 23,
+    "end_page": 26,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 26,
+    "node_index": 195,
+    "start_node_index": 195,
+    "end_node_index": 197,
+    "start_page": 26,
+    "end_page": 26,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 26,
+    "node_index": 198,
+    "start_node_index": 198,
+    "end_node_index": 200,
+    "start_page": 26,
+    "end_page": 26,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 26,
+    "node_index": 201,
+    "start_node_index": 201,
+    "end_node_index": 269,
+    "start_page": 26,
+    "end_page": 36,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Auto_Select_Inc_FDD_2024_ID636874.pdf-34441c1f-9d32-4633-b2c0-dfdd515e4068\\0ed987c0-0891-434b-8531-37e58e65eb26_origin.pdf"
+  }
+]

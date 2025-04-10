@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "FRANCHISE DISCLOSURE DOCUMENT ITEM 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 97.6,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.77549019607842
+    },
+    "page_number": 9,
+    "node_index": 78,
+    "start_node_index": 78,
+    "end_node_index": 99,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.0566037735849
+    },
+    "page_number": 10,
+    "node_index": 100,
+    "start_node_index": 100,
+    "end_node_index": 108,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 11,
+    "node_index": 109,
+    "start_node_index": 109,
+    "end_node_index": 110,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 11,
+    "node_index": 111,
+    "start_node_index": 111,
+    "end_node_index": 112,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.70160884866768
+    },
+    "page_number": 11,
+    "node_index": 113,
+    "start_node_index": 113,
+    "end_node_index": 131,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 12,
+    "node_index": 132,
+    "start_node_index": 132,
+    "end_node_index": 157,
+    "start_page": 12,
+    "end_page": 18,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.27943477860629
+    },
+    "page_number": 18,
+    "node_index": 158,
+    "start_node_index": 158,
+    "end_node_index": 189,
+    "start_page": 18,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54954954954954
+    },
+    "page_number": 21,
+    "node_index": 190,
+    "start_node_index": 190,
+    "end_node_index": 232,
+    "start_page": 21,
+    "end_page": 25,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 25,
+    "node_index": 233,
+    "start_node_index": 233,
+    "end_node_index": 238,
+    "start_page": 25,
+    "end_page": 26,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 26,
+    "node_index": 239,
+    "start_node_index": 239,
+    "end_node_index": 242,
+    "start_page": 26,
+    "end_page": 27,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS, AND TRAINING",
+    "match_scores": {
+      "full": 98.03921568627452,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.01960784313727
+    },
+    "page_number": 27,
+    "node_index": 243,
+    "start_node_index": 243,
+    "end_node_index": 367,
+    "start_page": 27,
+    "end_page": 37,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 37,
+    "node_index": 368,
+    "start_node_index": 368,
+    "end_node_index": 410,
+    "start_page": 37,
+    "end_page": 40,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64864864864865
+    },
+    "page_number": 40,
+    "node_index": 411,
+    "start_node_index": 411,
+    "end_node_index": 448,
+    "start_page": 40,
+    "end_page": 44,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 99.11504424778761,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54935218925328
+    },
+    "page_number": 44,
+    "node_index": 449,
+    "start_node_index": 449,
+    "end_node_index": 474,
+    "start_page": 44,
+    "end_page": 46,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.67736465655445
+    },
+    "page_number": 46,
+    "node_index": 475,
+    "start_node_index": 475,
+    "end_node_index": 493,
+    "start_page": 46,
+    "end_page": 47,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.515639589169
+    },
+    "page_number": 47,
+    "node_index": 494,
+    "start_node_index": 494,
+    "end_node_index": 496,
+    "start_page": 47,
+    "end_page": 47,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 99.2,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.6
+    },
+    "page_number": 47,
+    "node_index": 497,
+    "start_node_index": 497,
+    "end_node_index": 522,
+    "start_page": 47,
+    "end_page": 53,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.88888888888889
+    },
+    "page_number": 53,
+    "node_index": 523,
+    "start_node_index": 523,
+    "end_node_index": 526,
+    "start_page": 53,
+    "end_page": 54,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 54,
+    "node_index": 527,
+    "start_node_index": 527,
+    "end_node_index": 625,
+    "start_page": 54,
+    "end_page": 64,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.39542483660131
+    },
+    "page_number": 64,
+    "node_index": 626,
+    "start_node_index": 626,
+    "end_node_index": 652,
+    "start_page": 64,
+    "end_page": 67,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.11463708290334
+    },
+    "page_number": 67,
+    "node_index": 653,
+    "start_node_index": 653,
+    "end_node_index": 654,
+    "start_page": 67,
+    "end_page": 67,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.53874883286647
+    },
+    "page_number": 67,
+    "node_index": 655,
+    "start_node_index": 655,
+    "end_node_index": 659,
+    "start_page": 67,
+    "end_page": 68,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPT",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.86683006535948
+    },
+    "page_number": 68,
+    "node_index": 660,
+    "start_node_index": 660,
+    "end_node_index": 2292,
+    "start_page": 68,
+    "end_page": 255,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Swig_Franchising_LLC_FDD_2024_ID636590.pdf-fc2a27f4-2930-4e04-b2cc-65f62ef95668\\2db68750-06b6-4502-b5df-27a0667db902_origin.pdf"
+  }
+]

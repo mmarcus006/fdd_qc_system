@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 98.4375,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.21875
+    },
+    "page_number": 7,
+    "node_index": 57,
+    "start_node_index": 57,
+    "end_node_index": 81,
+    "start_page": 7,
+    "end_page": 9,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 9,
+    "node_index": 82,
+    "start_node_index": 82,
+    "end_node_index": 92,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 10,
+    "node_index": 93,
+    "start_node_index": 93,
+    "end_node_index": 94,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 10,
+    "node_index": 95,
+    "start_node_index": 95,
+    "end_node_index": 96,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.70160884866768
+    },
+    "page_number": 10,
+    "node_index": 97,
+    "start_node_index": 97,
+    "end_node_index": 113,
+    "start_page": 10,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 12,
+    "node_index": 114,
+    "start_node_index": 114,
+    "end_node_index": 141,
+    "start_page": 12,
+    "end_page": 17,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.28760471324681
+    },
+    "page_number": 17,
+    "node_index": 142,
+    "start_node_index": 142,
+    "end_node_index": 170,
+    "start_page": 17,
+    "end_page": 21,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.52503974562796
+    },
+    "page_number": 21,
+    "node_index": 171,
+    "start_node_index": 171,
+    "end_node_index": 221,
+    "start_page": 21,
+    "end_page": 25,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE'S OBLIGATIONS",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.19000933706818
+    },
+    "page_number": 25,
+    "node_index": 222,
+    "start_node_index": 222,
+    "end_node_index": 227,
+    "start_page": 25,
+    "end_page": 26,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 26,
+    "node_index": 228,
+    "start_node_index": 228,
+    "end_node_index": 231,
+    "start_page": 26,
+    "end_page": 26,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR'S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 98.6842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.32576539387685
+    },
+    "page_number": 26,
+    "node_index": 232,
+    "start_node_index": 232,
+    "end_node_index": 308,
+    "start_page": 26,
+    "end_page": 35,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 35,
+    "node_index": 309,
+    "start_node_index": 309,
+    "end_node_index": 339,
+    "start_page": 35,
+    "end_page": 38,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 38,
+    "node_index": 340,
+    "start_node_index": 340,
+    "end_node_index": 365,
+    "start_page": 38,
+    "end_page": 42,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.08263305322129
+    },
+    "page_number": 42,
+    "node_index": 366,
+    "start_node_index": 366,
+    "end_node_index": 371,
+    "start_page": 42,
+    "end_page": 43,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.68553459119497
+    },
+    "page_number": 43,
+    "node_index": 372,
+    "start_node_index": 372,
+    "end_node_index": 382,
+    "start_page": 43,
+    "end_page": 44,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.49112978524742
+    },
+    "page_number": 44,
+    "node_index": 383,
+    "start_node_index": 383,
+    "end_node_index": 387,
+    "start_page": 44,
+    "end_page": 45,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.17720851781573
+    },
+    "page_number": 45,
+    "node_index": 388,
+    "start_node_index": 388,
+    "end_node_index": 412,
+    "start_page": 45,
+    "end_page": 52,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.86437908496731
+    },
+    "page_number": 52,
+    "node_index": 413,
+    "start_node_index": 413,
+    "end_node_index": 414,
+    "start_page": 52,
+    "end_page": 52,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 52,
+    "node_index": 415,
+    "start_node_index": 415,
+    "end_node_index": 468,
+    "start_page": 52,
+    "end_page": 58,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.39542483660131
+    },
+    "page_number": 58,
+    "node_index": 469,
+    "start_node_index": 469,
+    "end_node_index": 493,
+    "start_page": 58,
+    "end_page": 62,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10646714826282
+    },
+    "page_number": 62,
+    "node_index": 494,
+    "start_node_index": 494,
+    "end_node_index": 495,
+    "start_page": 62,
+    "end_page": 62,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 62,
+    "node_index": 496,
+    "start_node_index": 496,
+    "end_node_index": 500,
+    "start_page": 62,
+    "end_page": 63,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46850861556744
+    },
+    "page_number": 63,
+    "node_index": 501,
+    "start_node_index": 501,
+    "end_node_index": 2128,
+    "start_page": 63,
+    "end_page": 250,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Trident_Investment_Partners_Inc_FDD_2024_ID635472.pdf-2c8316f5-b75f-4d00-b321-9f161d43f237\\23cdea75-3cb2-45d0-863c-ca1de199a9dc_origin.pdf"
+  }
+]

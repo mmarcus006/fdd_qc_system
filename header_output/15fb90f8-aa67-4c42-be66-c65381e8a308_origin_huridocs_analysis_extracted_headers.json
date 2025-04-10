@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1.  THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES.",
+    "match_scores": {
+      "full": 96.12403100775194,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.0375056999544
+    },
+    "page_number": 10,
+    "node_index": 56,
+    "start_node_index": 56,
+    "end_node_index": 63,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2.  BUSINESS EXPERIENCE.",
+    "match_scores": {
+      "full": 94.54545454545455,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.25638740344624
+    },
+    "page_number": 10,
+    "node_index": 64,
+    "start_node_index": 64,
+    "end_node_index": 82,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3.  LITIGATION.",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93777601130542
+    },
+    "page_number": 11,
+    "node_index": 83,
+    "start_node_index": 83,
+    "end_node_index": 97,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4.  BANKRUPTCY.",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.9296060766649
+    },
+    "page_number": 12,
+    "node_index": 98,
+    "start_node_index": 98,
+    "end_node_index": 101,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5.  INITIAL FEES.",
+    "match_scores": {
+      "full": 92.6829268292683,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.34146341463415
+    },
+    "page_number": 13,
+    "node_index": 102,
+    "start_node_index": 102,
+    "end_node_index": 106,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6.  OTHER FEES.",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93777601130542
+    },
+    "page_number": 13,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 120,
+    "start_page": 13,
+    "end_page": 15,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7.  ESTIMATED INITIAL INVESTMENT.",
+    "match_scores": {
+      "full": 95.89041095890411,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.91252574088996
+    },
+    "page_number": 15,
+    "node_index": 121,
+    "start_node_index": 121,
+    "end_node_index": 144,
+    "start_page": 15,
+    "end_page": 19,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8.  RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES.",
+    "match_scores": {
+      "full": 97.34513274336283,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.65622650240037
+    },
+    "page_number": 19,
+    "node_index": 145,
+    "start_node_index": 145,
+    "end_node_index": 173,
+    "start_page": 19,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9.  FRANCHISEE'S OBLIGATIONS.",
+    "match_scores": {
+      "full": 95.38461538461539,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.68413775766717
+    },
+    "page_number": 21,
+    "node_index": 174,
+    "start_node_index": 174,
+    "end_node_index": 179,
+    "start_page": 21,
+    "end_page": 22,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10.  FINANCING.",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.94594594594594
+    },
+    "page_number": 22,
+    "node_index": 180,
+    "start_node_index": 180,
+    "end_node_index": 181,
+    "start_page": 22,
+    "end_page": 22,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11.  FRANCHISOR'S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 98.03921568627452,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.99509803921569
+    },
+    "page_number": 22,
+    "node_index": 182,
+    "start_node_index": 182,
+    "end_node_index": 246,
+    "start_page": 22,
+    "end_page": 28,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12.  TERRITORY.",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93777601130542
+    },
+    "page_number": 28,
+    "node_index": 247,
+    "start_node_index": 247,
+    "end_node_index": 251,
+    "start_page": 28,
+    "end_page": 28,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13.  TRADEMARKS.",
+    "match_scores": {
+      "full": 92.3076923076923,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.13750628456512
+    },
+    "page_number": 28,
+    "node_index": 252,
+    "start_node_index": 252,
+    "end_node_index": 280,
+    "start_page": 28,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14.  PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION.",
+    "match_scores": {
+      "full": 97.3913043478261,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.67114236999147
+    },
+    "page_number": 31,
+    "node_index": 281,
+    "start_node_index": 281,
+    "end_node_index": 283,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15.  OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS.",
+    "match_scores": {
+      "full": 98.13664596273291,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.06015304672594
+    },
+    "page_number": 31,
+    "node_index": 284,
+    "start_node_index": 284,
+    "end_node_index": 289,
+    "start_page": 31,
+    "end_page": 32,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16.  RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL.",
+    "match_scores": {
+      "full": 97.19626168224299,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56545110255941
+    },
+    "page_number": 32,
+    "node_index": 290,
+    "start_node_index": 290,
+    "end_node_index": 297,
+    "start_page": 32,
+    "end_page": 33,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17.  RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION. THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 79.73856209150327,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.86111111111111
+    },
+    "page_number": 33,
+    "node_index": 298,
+    "start_node_index": 298,
+    "end_node_index": 306,
+    "start_page": 33,
+    "end_page": 35,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18.  PUBLIC FIGURES.",
+    "match_scores": {
+      "full": 93.61702127659575,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.80034070365735
+    },
+    "page_number": 35,
+    "node_index": 307,
+    "start_node_index": 307,
+    "end_node_index": 308,
+    "start_page": 35,
+    "end_page": 35,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19.  FINANCIAL PERFORMANCE REPRESENTATIONS.",
+    "match_scores": {
+      "full": 96.7741935483871,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.36258697027198
+    },
+    "page_number": 35,
+    "node_index": 309,
+    "start_node_index": 309,
+    "end_node_index": 314,
+    "start_page": 35,
+    "end_page": 36,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20.  OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 97.67441860465117,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.81269949840402
+    },
+    "page_number": 36,
+    "node_index": 315,
+    "start_node_index": 315,
+    "end_node_index": 351,
+    "start_page": 36,
+    "end_page": 43,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21.  FINANCIAL STATEMENTS.",
+    "match_scores": {
+      "full": 94.91525423728814,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.45762711864407
+    },
+    "page_number": 43,
+    "node_index": 352,
+    "start_node_index": 352,
+    "end_node_index": 353,
+    "start_page": 43,
+    "end_page": 43,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22.  CONTRACTS.",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93777601130542
+    },
+    "page_number": 43,
+    "node_index": 354,
+    "start_node_index": 354,
+    "end_node_index": 357,
+    "start_page": 43,
+    "end_page": 44,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23.  RECEIPTS.",
+    "match_scores": {
+      "full": 91.42857142857143,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.7061157796452
+    },
+    "page_number": 44,
+    "node_index": 358,
+    "start_node_index": 358,
+    "end_node_index": 1447,
+    "start_page": 44,
+    "end_page": 169,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Hospitality_International_Inc_FDD_2024_ID635817.pdf-390efb43-d92b-4414-b857-ad7025a2d8c0\\15fb90f8-aa67-4c42-be66-c65381e8a308_origin.pdf"
+  }
+]

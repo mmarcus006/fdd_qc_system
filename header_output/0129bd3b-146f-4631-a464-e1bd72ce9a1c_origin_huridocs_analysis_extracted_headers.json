@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1 THE FRA N CHISOR A N D A N Y PARE N TS, PREDECESSORS, A N D AFFILIATES",
+    "match_scores": {
+      "full": 81.88976377952756,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.92854202048274
+    },
+    "page_number": 9,
+    "node_index": 71,
+    "start_node_index": 71,
+    "end_node_index": 101,
+    "start_page": 9,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2 BUSI N ESS EXPERIE N CE",
+    "match_scores": {
+      "full": 83.63636363636364,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 76.80184194890077
+    },
+    "page_number": 11,
+    "node_index": 102,
+    "start_node_index": 102,
+    "end_node_index": 104,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3 LITIGATIO N",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.22222222222223
+    },
+    "page_number": 11,
+    "node_index": 105,
+    "start_node_index": 105,
+    "end_node_index": 106,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4 BA N KRUPTCY",
+    "match_scores": {
+      "full": 86.48648648648648,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.2269033739622
+    },
+    "page_number": 11,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 108,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5 I N ITIAL FEES",
+    "match_scores": {
+      "full": 87.8048780487805,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.90243902439025
+    },
+    "page_number": 11,
+    "node_index": 109,
+    "start_node_index": 109,
+    "end_node_index": 117,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 12,
+    "node_index": 118,
+    "start_node_index": 118,
+    "end_node_index": 134,
+    "start_page": 12,
+    "end_page": 16,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7 ESTIMATED I N ITIAL I N VESTME N T YOUR ESTIMATED I N ITIAL I N VESTME N T - FRA N CHISE AGREEME N T",
+    "match_scores": {
+      "full": 64.58333333333334,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 66.79330065359477
+    },
+    "page_number": 16,
+    "node_index": 135,
+    "start_node_index": 135,
+    "end_node_index": 152,
+    "start_page": 16,
+    "end_page": 19,
+    "alignment_score": 0.9003267973856209,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8 RESTRICTIO N S O N SOURCES OF PRODUCTS A N D SERVICES",
+    "match_scores": {
+      "full": 92.85714285714286,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.41223155929039
+    },
+    "page_number": 19,
+    "node_index": 153,
+    "start_node_index": 153,
+    "end_node_index": 190,
+    "start_page": 19,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9 FRA N CHISEE’S OBLIGATIO N S",
+    "match_scores": {
+      "full": 76.92307692307692,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.43702865761688
+    },
+    "page_number": 21,
+    "node_index": 191,
+    "start_node_index": 191,
+    "end_node_index": 199,
+    "start_page": 21,
+    "end_page": 23,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10 FI N A N CI N G",
+    "match_scores": {
+      "full": 64.86486486486487,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 67.42426249779191
+    },
+    "page_number": 23,
+    "node_index": 200,
+    "start_node_index": 200,
+    "end_node_index": 201,
+    "start_page": 23,
+    "end_page": 23,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11 FRA N CHISOR’S ASSISTA N CE, ADVERTISI N G, COMPUTER SYSTEMS, A N D TRAI N I N G",
+    "match_scores": {
+      "full": 77.41935483870968,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.70967741935485
+    },
+    "page_number": 23,
+    "node_index": 202,
+    "start_node_index": 202,
+    "end_node_index": 283,
+    "start_page": 23,
+    "end_page": 31,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 31,
+    "node_index": 284,
+    "start_node_index": 284,
+    "end_node_index": 304,
+    "start_page": 31,
+    "end_page": 32,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.62413884472707
+    },
+    "page_number": 32,
+    "node_index": 305,
+    "start_node_index": 305,
+    "end_node_index": 327,
+    "start_page": 32,
+    "end_page": 34,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14 PATE N TS, COPYRIGHTS A N D PROPRIETARY I N FORMATIO N",
+    "match_scores": {
+      "full": 88.49557522123894,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.23961767597895
+    },
+    "page_number": 34,
+    "node_index": 328,
+    "start_node_index": 328,
+    "end_node_index": 342,
+    "start_page": 34,
+    "end_page": 35,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 OBLIGATIO N TO PARTICIPATE I N THE ACTUAL OPERATIO N OF THE FRA N CHISE BUSI N ESS",
+    "match_scores": {
+      "full": 88.60759493670886,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.30379746835443
+    },
+    "page_number": 35,
+    "node_index": 343,
+    "start_node_index": 343,
+    "end_node_index": 355,
+    "start_page": 35,
+    "end_page": 36,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16 RESTRICTIO N S O N WHAT THE FRA N CHISEE MAY SELL",
+    "match_scores": {
+      "full": 86.79245283018868,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.37988654581329
+    },
+    "page_number": 36,
+    "node_index": 356,
+    "start_node_index": 356,
+    "end_node_index": 359,
+    "start_page": 36,
+    "end_page": 36,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17 RE N EWAL, TERMI N ATIO N , TRA N SFER, A N D DISPUTE RESOLUTIO N THE FRA N CHISE RELATIO N SHIP",
+    "match_scores": {
+      "full": 58.8235294117647,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 64.40359477124183
+    },
+    "page_number": 36,
+    "node_index": 360,
+    "start_node_index": 360,
+    "end_node_index": 375,
+    "start_page": 36,
+    "end_page": 40,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.87254901960785
+    },
+    "page_number": 40,
+    "node_index": 376,
+    "start_node_index": 376,
+    "end_node_index": 377,
+    "start_page": 40,
+    "end_page": 40,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 FI N A N CIAL PERFORMA N CE REPRESE N TATIO N S",
+    "match_scores": {
+      "full": 75.26881720430107,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 72.63440860215053
+    },
+    "page_number": 40,
+    "node_index": 378,
+    "start_node_index": 378,
+    "end_node_index": 397,
+    "start_page": 40,
+    "end_page": 43,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 OUTLETS A N D FRA N CHISEE I N FORMATIO N Table 1 Systemwide Outlet Summary For Years 2021 to 2023",
+    "match_scores": {
+      "full": 47.55244755244755,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 58.759883906942726
+    },
+    "page_number": 43,
+    "node_index": 398,
+    "start_node_index": 398,
+    "end_node_index": 420,
+    "start_page": 43,
+    "end_page": 45,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 FI N A N CIAL STATEME N TS",
+    "match_scores": {
+      "full": 77.96610169491525,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.97488091281711
+    },
+    "page_number": 45,
+    "node_index": 421,
+    "start_node_index": 421,
+    "end_node_index": 425,
+    "start_page": 45,
+    "end_page": 46,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 CO N TRACTS",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.94594594594594
+    },
+    "page_number": 46,
+    "node_index": 426,
+    "start_node_index": 426,
+    "end_node_index": 432,
+    "start_page": 46,
+    "end_page": 46,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 46,
+    "node_index": 433,
+    "start_node_index": 433,
+    "end_node_index": 1384,
+    "start_page": 46,
+    "end_page": 141,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ISG_Franchise_LLC_FDD_2025_ID637621.pdf-3faeb7d4-a228-453e-a348-a033fbf1c822\\0129bd3b-146f-4631-a464-e1bd72ce9a1c_origin.pdf"
+  }
+]

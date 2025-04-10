@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.80255776851423
+    },
+    "page_number": 8,
+    "node_index": 65,
+    "start_node_index": 65,
+    "end_node_index": 92,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.03209396966332
+    },
+    "page_number": 10,
+    "node_index": 93,
+    "start_node_index": 93,
+    "end_node_index": 110,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 11,
+    "node_index": 111,
+    "start_node_index": 111,
+    "end_node_index": 118,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 12,
+    "node_index": 119,
+    "start_node_index": 119,
+    "end_node_index": 121,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 12,
+    "node_index": 122,
+    "start_node_index": 122,
+    "end_node_index": 135,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 13,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 171,
+    "start_page": 13,
+    "end_page": 18,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 18,
+    "node_index": 172,
+    "start_node_index": 172,
+    "end_node_index": 225,
+    "start_page": 18,
+    "end_page": 24,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 24,
+    "node_index": 226,
+    "start_node_index": 226,
+    "end_node_index": 247,
+    "start_page": 24,
+    "end_page": 26,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE'S OBLIGATIONS",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.18183940242764
+    },
+    "page_number": 26,
+    "node_index": 248,
+    "start_node_index": 248,
+    "end_node_index": 254,
+    "start_page": 26,
+    "end_page": 27,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 27,
+    "node_index": 255,
+    "start_node_index": 255,
+    "end_node_index": 257,
+    "start_page": 27,
+    "end_page": 27,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 27,
+    "node_index": 258,
+    "start_node_index": 258,
+    "end_node_index": 363,
+    "start_page": 27,
+    "end_page": 37,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 37,
+    "node_index": 364,
+    "start_node_index": 364,
+    "end_node_index": 387,
+    "start_page": 37,
+    "end_page": 40,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 40,
+    "node_index": 388,
+    "start_node_index": 388,
+    "end_node_index": 402,
+    "start_page": 40,
+    "end_page": 41,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 41,
+    "node_index": 403,
+    "start_node_index": 403,
+    "end_node_index": 414,
+    "start_page": 41,
+    "end_page": 42,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 42,
+    "node_index": 415,
+    "start_node_index": 415,
+    "end_node_index": 426,
+    "start_page": 42,
+    "end_page": 43,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 43,
+    "node_index": 427,
+    "start_node_index": 427,
+    "end_node_index": 436,
+    "start_page": 43,
+    "end_page": 44,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 44,
+    "node_index": 437,
+    "start_node_index": 437,
+    "end_node_index": 452,
+    "start_page": 44,
+    "end_page": 47,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.86437908496731
+    },
+    "page_number": 47,
+    "node_index": 453,
+    "start_node_index": 453,
+    "end_node_index": 454,
+    "start_page": 47,
+    "end_page": 47,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.44237951590894
+    },
+    "page_number": 47,
+    "node_index": 455,
+    "start_node_index": 455,
+    "end_node_index": 483,
+    "start_page": 47,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 49,
+    "node_index": 484,
+    "start_node_index": 484,
+    "end_node_index": 520,
+    "start_page": 49,
+    "end_page": 54,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10646714826282
+    },
+    "page_number": 54,
+    "node_index": 521,
+    "start_node_index": 521,
+    "end_node_index": 523,
+    "start_page": 54,
+    "end_page": 54,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 54,
+    "node_index": 524,
+    "start_node_index": 524,
+    "end_node_index": 526,
+    "start_page": 54,
+    "end_page": 54,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 54,
+    "node_index": 527,
+    "start_node_index": 527,
+    "end_node_index": 2048,
+    "start_page": 54,
+    "end_page": 216,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\E__G_Franchising_Systems_Inc_FDD_2024_ID636377.pdf-10f6dfac-bd7a-4aec-93a7-0b50d0768a97\\1e64b4ae-2ee6-4ab4-adb0-d72d42bbc047_origin.pdf"
+  }
+]

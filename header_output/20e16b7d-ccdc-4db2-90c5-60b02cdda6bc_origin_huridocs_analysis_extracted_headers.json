@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.58995934331739
+    },
+    "page_number": 8,
+    "node_index": 63,
+    "start_node_index": 63,
+    "end_node_index": 90,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.0566037735849
+    },
+    "page_number": 10,
+    "node_index": 91,
+    "start_node_index": 91,
+    "end_node_index": 99,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 10,
+    "node_index": 100,
+    "start_node_index": 100,
+    "end_node_index": 101,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 10,
+    "node_index": 102,
+    "start_node_index": 102,
+    "end_node_index": 105,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.70160884866768
+    },
+    "page_number": 11,
+    "node_index": 106,
+    "start_node_index": 106,
+    "end_node_index": 135,
+    "start_page": 11,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 13,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 159,
+    "start_page": 13,
+    "end_page": 18,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.28760471324681
+    },
+    "page_number": 18,
+    "node_index": 160,
+    "start_node_index": 160,
+    "end_node_index": 237,
+    "start_page": 18,
+    "end_page": 26,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 26,
+    "node_index": 238,
+    "start_node_index": 238,
+    "end_node_index": 284,
+    "start_page": 26,
+    "end_page": 30,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 30,
+    "node_index": 285,
+    "start_node_index": 285,
+    "end_node_index": 290,
+    "start_page": 30,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 31,
+    "node_index": 291,
+    "start_node_index": 291,
+    "end_node_index": 292,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEM AND TRAINING Except as listed below, we are not required to provide you with any assistance.",
+    "match_scores": {
+      "full": 79.6875,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.74571078431373
+    },
+    "page_number": 31,
+    "node_index": 293,
+    "start_node_index": 293,
+    "end_node_index": 404,
+    "start_page": 31,
+    "end_page": 41,
+    "alignment_score": 0.9803921568627451,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 41,
+    "node_index": 405,
+    "start_node_index": 405,
+    "end_node_index": 443,
+    "start_page": 41,
+    "end_page": 45,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64047871400813
+    },
+    "page_number": 45,
+    "node_index": 444,
+    "start_node_index": 444,
+    "end_node_index": 457,
+    "start_page": 45,
+    "end_page": 47,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09897292250234
+    },
+    "page_number": 47,
+    "node_index": 458,
+    "start_node_index": 458,
+    "end_node_index": 467,
+    "start_page": 47,
+    "end_page": 48,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISED BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.35866013071896
+    },
+    "page_number": 48,
+    "node_index": 468,
+    "start_node_index": 468,
+    "end_node_index": 471,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.49929971988794
+    },
+    "page_number": 48,
+    "node_index": 472,
+    "start_node_index": 472,
+    "end_node_index": 475,
+    "start_page": 48,
+    "end_page": 49,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 87.5,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.74183006535948
+    },
+    "page_number": 49,
+    "node_index": 476,
+    "start_node_index": 476,
+    "end_node_index": 499,
+    "start_page": 49,
+    "end_page": 56,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.87254901960785
+    },
+    "page_number": 56,
+    "node_index": 500,
+    "start_node_index": 500,
+    "end_node_index": 501,
+    "start_page": 56,
+    "end_page": 56,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 56,
+    "node_index": 502,
+    "start_node_index": 502,
+    "end_node_index": 532,
+    "start_page": 56,
+    "end_page": 59,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION Table No. 1: System-wide Outlet Summary For years 2021 to 2023",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.5609756097561
+    },
+    "page_number": 59,
+    "node_index": 533,
+    "start_node_index": 533,
+    "end_node_index": 548,
+    "start_page": 59,
+    "end_page": 61,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.11463708290334
+    },
+    "page_number": 61,
+    "node_index": 549,
+    "start_node_index": 549,
+    "end_node_index": 550,
+    "start_page": 61,
+    "end_page": 61,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 61,
+    "node_index": 551,
+    "start_node_index": 551,
+    "end_node_index": 556,
+    "start_page": 61,
+    "end_page": 61,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.48484848484848
+    },
+    "page_number": 61,
+    "node_index": 557,
+    "start_node_index": 557,
+    "end_node_index": 1535,
+    "start_page": 61,
+    "end_page": 188,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bright_Brothers_Group_LLC_FDD_2024_ID.pdf-4bc4b5ec-e46c-42c3-abc7-753f5e61ad8c\\20e16b7d-ccdc-4db2-90c5-60b02cdda6bc_origin.pdf"
+  }
+]

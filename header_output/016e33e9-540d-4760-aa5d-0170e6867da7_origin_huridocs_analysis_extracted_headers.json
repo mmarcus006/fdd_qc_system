@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.59812927795791
+    },
+    "page_number": 8,
+    "node_index": 69,
+    "start_node_index": 69,
+    "end_node_index": 103,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.03209396966332
+    },
+    "page_number": 10,
+    "node_index": 104,
+    "start_node_index": 104,
+    "end_node_index": 106,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 10,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 113,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 11,
+    "node_index": 114,
+    "start_node_index": 114,
+    "end_node_index": 115,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.70160884866768
+    },
+    "page_number": 11,
+    "node_index": 116,
+    "start_node_index": 116,
+    "end_node_index": 127,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 12,
+    "node_index": 128,
+    "start_node_index": 128,
+    "end_node_index": 146,
+    "start_page": 12,
+    "end_page": 16,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT - FRANCHISE AGREEMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.3113810741688
+    },
+    "page_number": 16,
+    "node_index": 147,
+    "start_node_index": 147,
+    "end_node_index": 163,
+    "start_page": 16,
+    "end_page": 18,
+    "alignment_score": 0.8970588235294118,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.5332096802685
+    },
+    "page_number": 18,
+    "node_index": 164,
+    "start_node_index": 164,
+    "end_node_index": 203,
+    "start_page": 18,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.61904761904762
+    },
+    "page_number": 21,
+    "node_index": 204,
+    "start_node_index": 204,
+    "end_node_index": 212,
+    "start_page": 21,
+    "end_page": 23,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 23,
+    "node_index": 213,
+    "start_node_index": 213,
+    "end_node_index": 214,
+    "start_page": 23,
+    "end_page": 23,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS, AND TRAINING",
+    "match_scores": {
+      "full": 98.03921568627452,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.00326797385623
+    },
+    "page_number": 23,
+    "node_index": 215,
+    "start_node_index": 215,
+    "end_node_index": 290,
+    "start_page": 23,
+    "end_page": 29,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 29,
+    "node_index": 291,
+    "start_node_index": 291,
+    "end_node_index": 317,
+    "start_page": 29,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64047871400813
+    },
+    "page_number": 31,
+    "node_index": 318,
+    "start_node_index": 318,
+    "end_node_index": 341,
+    "start_page": 31,
+    "end_page": 33,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.08263305322129
+    },
+    "page_number": 33,
+    "node_index": 342,
+    "start_node_index": 342,
+    "end_node_index": 359,
+    "start_page": 33,
+    "end_page": 35,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.67736465655445
+    },
+    "page_number": 35,
+    "node_index": 360,
+    "start_node_index": 360,
+    "end_node_index": 372,
+    "start_page": 35,
+    "end_page": 36,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.49929971988794
+    },
+    "page_number": 36,
+    "node_index": 373,
+    "start_node_index": 373,
+    "end_node_index": 376,
+    "start_page": 36,
+    "end_page": 36,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17 RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 96.72131147540983,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.36065573770492
+    },
+    "page_number": 36,
+    "node_index": 377,
+    "start_node_index": 377,
+    "end_node_index": 392,
+    "start_page": 36,
+    "end_page": 40,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.87254901960785
+    },
+    "page_number": 40,
+    "node_index": 393,
+    "start_node_index": 393,
+    "end_node_index": 394,
+    "start_page": 40,
+    "end_page": 40,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.44237951590894
+    },
+    "page_number": 40,
+    "node_index": 395,
+    "start_node_index": 395,
+    "end_node_index": 399,
+    "start_page": 40,
+    "end_page": 41,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 OUTLETS AND FRANCHISEE INFORMATION Table 1 Systemwide Outlet Summary For Years 2021 to 2023",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.5609756097561
+    },
+    "page_number": 41,
+    "node_index": 400,
+    "start_node_index": 400,
+    "end_node_index": 431,
+    "start_page": 41,
+    "end_page": 46,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.12280701754386
+    },
+    "page_number": 46,
+    "node_index": 432,
+    "start_node_index": 432,
+    "end_node_index": 433,
+    "start_page": 46,
+    "end_page": 46,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 46,
+    "node_index": 434,
+    "start_node_index": 434,
+    "end_node_index": 442,
+    "start_page": 46,
+    "end_page": 46,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46850861556744
+    },
+    "page_number": 46,
+    "node_index": 443,
+    "start_node_index": 443,
+    "end_node_index": 1557,
+    "start_page": 46,
+    "end_page": 160,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Chicagos_Pizza_Franchising_Inc_Corp_FDD_2024_ID636912.pdf-1a6a9455-bb7a-4e1b-8d4c-b81300305b0f\\016e33e9-540d-4760-aa5d-0170e6867da7_origin.pdf"
+  }
+]

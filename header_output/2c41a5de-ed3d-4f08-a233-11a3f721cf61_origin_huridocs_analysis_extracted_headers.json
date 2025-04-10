@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 9,
+    "node_index": 71,
+    "start_node_index": 71,
+    "end_node_index": 98,
+    "start_page": 9,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 11,
+    "node_index": 99,
+    "start_node_index": 99,
+    "end_node_index": 111,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 12,
+    "node_index": 112,
+    "start_node_index": 112,
+    "end_node_index": 125,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.9673202614379
+    },
+    "page_number": 14,
+    "node_index": 126,
+    "start_node_index": 126,
+    "end_node_index": 128,
+    "start_page": 14,
+    "end_page": 14,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 14,
+    "node_index": 129,
+    "start_node_index": 129,
+    "end_node_index": 159,
+    "start_page": 14,
+    "end_page": 17,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.9673202614379
+    },
+    "page_number": 17,
+    "node_index": 160,
+    "start_node_index": 160,
+    "end_node_index": 196,
+    "start_page": 17,
+    "end_page": 25,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 25,
+    "node_index": 197,
+    "start_node_index": 197,
+    "end_node_index": 225,
+    "start_page": 25,
+    "end_page": 30,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 30,
+    "node_index": 226,
+    "start_node_index": 226,
+    "end_node_index": 265,
+    "start_page": 30,
+    "end_page": 34,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 34,
+    "node_index": 266,
+    "start_node_index": 266,
+    "end_node_index": 272,
+    "start_page": 34,
+    "end_page": 35,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 35,
+    "node_index": 273,
+    "start_node_index": 273,
+    "end_node_index": 275,
+    "start_page": 35,
+    "end_page": 35,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 35,
+    "node_index": 276,
+    "start_node_index": 276,
+    "end_node_index": 378,
+    "start_page": 35,
+    "end_page": 47,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 47,
+    "node_index": 379,
+    "start_node_index": 379,
+    "end_node_index": 408,
+    "start_page": 47,
+    "end_page": 50,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.32278669043374
+    },
+    "page_number": 50,
+    "node_index": 409,
+    "start_node_index": 409,
+    "end_node_index": 419,
+    "start_page": 50,
+    "end_page": 51,
+    "alignment_score": 0.9918300653594772,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 51,
+    "node_index": 420,
+    "start_node_index": 420,
+    "end_node_index": 433,
+    "start_page": 51,
+    "end_page": 53,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 53,
+    "node_index": 434,
+    "start_node_index": 434,
+    "end_node_index": 440,
+    "start_page": 53,
+    "end_page": 53,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 53,
+    "node_index": 441,
+    "start_node_index": 441,
+    "end_node_index": 454,
+    "start_page": 53,
+    "end_page": 55,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 55,
+    "node_index": 455,
+    "start_node_index": 455,
+    "end_node_index": 467,
+    "start_page": 55,
+    "end_page": 58,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.31461675579322
+    },
+    "page_number": 58,
+    "node_index": 468,
+    "start_node_index": 468,
+    "end_node_index": 470,
+    "start_page": 58,
+    "end_page": 58,
+    "alignment_score": 0.9901960784313726,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 58,
+    "node_index": 471,
+    "start_node_index": 471,
+    "end_node_index": 557,
+    "start_page": 58,
+    "end_page": 71,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 71,
+    "node_index": 558,
+    "start_node_index": 558,
+    "end_node_index": 577,
+    "start_page": 71,
+    "end_page": 73,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 73,
+    "node_index": 578,
+    "start_node_index": 578,
+    "end_node_index": 580,
+    "start_page": 73,
+    "end_page": 73,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 73,
+    "node_index": 581,
+    "start_node_index": 581,
+    "end_node_index": 588,
+    "start_page": 73,
+    "end_page": 74,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 74,
+    "node_index": 589,
+    "start_node_index": 589,
+    "end_node_index": 1754,
+    "start_page": 74,
+    "end_page": 210,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Heavyweight_Waste_Franchise_Partners_LLC_FDD_2024_ID637146.pdf-17d3ded1-1b04-4b95-baf4-964195b9cb42\\2c41a5de-ed3d-4f08-a233-11a3f721cf61_origin.pdf"
+  }
+]

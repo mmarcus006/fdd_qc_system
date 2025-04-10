@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1: THE FRANCHISOR AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.59812927795791
+    },
+    "page_number": 6,
+    "node_index": 45,
+    "start_node_index": 45,
+    "end_node_index": 59,
+    "start_page": 6,
+    "end_page": 7,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2: BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 7,
+    "node_index": 60,
+    "start_node_index": 60,
+    "end_node_index": 65,
+    "start_page": 7,
+    "end_page": 7,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3: LITIGATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 7,
+    "node_index": 66,
+    "start_node_index": 66,
+    "end_node_index": 67,
+    "start_page": 7,
+    "end_page": 7,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4: BANKRUPTCY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 7,
+    "node_index": 68,
+    "start_node_index": 68,
+    "end_node_index": 69,
+    "start_page": 7,
+    "end_page": 7,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5: INITIAL FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 7,
+    "node_index": 70,
+    "start_node_index": 70,
+    "end_node_index": 93,
+    "start_page": 7,
+    "end_page": 10,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6: OTHER FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 10,
+    "node_index": 94,
+    "start_node_index": 94,
+    "end_node_index": 121,
+    "start_page": 10,
+    "end_page": 13,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7: ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 13,
+    "node_index": 122,
+    "start_node_index": 122,
+    "end_node_index": 145,
+    "start_page": 13,
+    "end_page": 16,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8: RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 37.28813559322034,
+      "final": 92.45762711864407
+    },
+    "page_number": 16,
+    "node_index": 146,
+    "start_node_index": 146,
+    "end_node_index": 172,
+    "start_page": 16,
+    "end_page": 18,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9: FRANCHISEE'S OBLIGATIONS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 58.8235294117647,
+      "final": 96.75653594771242
+    },
+    "page_number": 18,
+    "node_index": 173,
+    "start_node_index": 173,
+    "end_node_index": 181,
+    "start_page": 18,
+    "end_page": 19,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10: FINANCING",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 19,
+    "node_index": 182,
+    "start_node_index": 182,
+    "end_node_index": 183,
+    "start_page": 19,
+    "end_page": 19,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11: FRANCHISOR'S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 99.34640522875817,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.6486928104575
+    },
+    "page_number": 19,
+    "node_index": 184,
+    "start_node_index": 184,
+    "end_node_index": 244,
+    "start_page": 19,
+    "end_page": 24,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12: TERRITORY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 24,
+    "node_index": 245,
+    "start_node_index": 245,
+    "end_node_index": 260,
+    "start_page": 24,
+    "end_page": 25,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13: TRADEMARKS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.73684210526315,
+      "final": 103.94736842105263
+    },
+    "page_number": 25,
+    "node_index": 261,
+    "start_node_index": 261,
+    "end_node_index": 275,
+    "start_page": 25,
+    "end_page": 26,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14: PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 99.11504424778761,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.5575221238938
+    },
+    "page_number": 26,
+    "node_index": 276,
+    "start_node_index": 276,
+    "end_node_index": 288,
+    "start_page": 26,
+    "end_page": 27,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15: OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 27,
+    "node_index": 289,
+    "start_node_index": 289,
+    "end_node_index": 293,
+    "start_page": 27,
+    "end_page": 28,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16: RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.97549019607843
+    },
+    "page_number": 28,
+    "node_index": 294,
+    "start_node_index": 294,
+    "end_node_index": 300,
+    "start_page": 28,
+    "end_page": 28,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17: RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 105.0
+    },
+    "page_number": 28,
+    "node_index": 301,
+    "start_node_index": 301,
+    "end_node_index": 316,
+    "start_page": 28,
+    "end_page": 32,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18: PUBLIC FIGURES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.98366013071896
+    },
+    "page_number": 32,
+    "node_index": 317,
+    "start_node_index": 317,
+    "end_node_index": 320,
+    "start_page": 32,
+    "end_page": 33,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19: FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.97549019607843
+    },
+    "page_number": 33,
+    "node_index": 321,
+    "start_node_index": 321,
+    "end_node_index": 326,
+    "start_page": 33,
+    "end_page": 34,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20: OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 34,
+    "node_index": 327,
+    "start_node_index": 327,
+    "end_node_index": 349,
+    "start_page": 34,
+    "end_page": 37,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21: FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.99183006535948
+    },
+    "page_number": 37,
+    "node_index": 350,
+    "start_node_index": 350,
+    "end_node_index": 351,
+    "start_page": 37,
+    "end_page": 37,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22: CONTRACTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.11764705882354,
+      "final": 103.81535947712419
+    },
+    "page_number": 37,
+    "node_index": 352,
+    "start_node_index": 352,
+    "end_node_index": 356,
+    "start_page": 37,
+    "end_page": 38,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23: RECEIPTS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 93.33333333333333,
+      "final": 103.65032679738563
+    },
+    "page_number": 38,
+    "node_index": 357,
+    "start_node_index": 357,
+    "end_node_index": 1440,
+    "start_page": 38,
+    "end_page": 150,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Game_Truck_Licensing_LLC_FDD_2024_ID636738.pdf-dff31e2d-a2d0-466c-9089-490cb86093d2\\0b1c70b1-40ed-4f7b-8262-ad4984d1d963_origin.pdf"
+  }
+]

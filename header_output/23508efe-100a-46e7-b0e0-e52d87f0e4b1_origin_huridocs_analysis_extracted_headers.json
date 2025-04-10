@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 98.4375,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.20241013071896
+    },
+    "page_number": 9,
+    "node_index": 69,
+    "start_node_index": 69,
+    "end_node_index": 114,
+    "start_page": 9,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 12,
+    "node_index": 115,
+    "start_node_index": 115,
+    "end_node_index": 131,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 13,
+    "node_index": 132,
+    "start_node_index": 132,
+    "end_node_index": 133,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 13,
+    "node_index": 134,
+    "start_node_index": 134,
+    "end_node_index": 135,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.71794871794872
+    },
+    "page_number": 13,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 168,
+    "start_page": 13,
+    "end_page": 15,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES Franchise Agreement",
+    "match_scores": {
+      "full": 90.9090909090909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.43820558526441
+    },
+    "page_number": 15,
+    "node_index": 169,
+    "start_node_index": 169,
+    "end_node_index": 204,
+    "start_page": 15,
+    "end_page": 22,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT ORANGE LEAF Traditional Store",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.81791702188123
+    },
+    "page_number": 22,
+    "node_index": 205,
+    "start_node_index": 205,
+    "end_node_index": 257,
+    "start_page": 22,
+    "end_page": 29,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.5332096802685
+    },
+    "page_number": 29,
+    "node_index": 258,
+    "start_node_index": 258,
+    "end_node_index": 298,
+    "start_page": 29,
+    "end_page": 33,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 33,
+    "node_index": 299,
+    "start_node_index": 299,
+    "end_node_index": 305,
+    "start_page": 33,
+    "end_page": 34,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 34,
+    "node_index": 306,
+    "start_node_index": 306,
+    "end_node_index": 307,
+    "start_page": 34,
+    "end_page": 34,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING Except as listed below, Orange Leaf FC, LLC is not required to provide you with any assistance.",
+    "match_scores": {
+      "full": 79.6875,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.43525326797385
+    },
+    "page_number": 34,
+    "node_index": 308,
+    "start_node_index": 308,
+    "end_node_index": 386,
+    "start_page": 34,
+    "end_page": 41,
+    "alignment_score": 0.9183006535947712,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 41,
+    "node_index": 387,
+    "start_node_index": 387,
+    "end_node_index": 426,
+    "start_page": 41,
+    "end_page": 45,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64864864864865
+    },
+    "page_number": 45,
+    "node_index": 427,
+    "start_node_index": 427,
+    "end_node_index": 448,
+    "start_page": 45,
+    "end_page": 47,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 99.11504424778761,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.53301231997223
+    },
+    "page_number": 47,
+    "node_index": 449,
+    "start_node_index": 449,
+    "end_node_index": 458,
+    "start_page": 47,
+    "end_page": 48,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.67736465655445
+    },
+    "page_number": 48,
+    "node_index": 459,
+    "start_node_index": 459,
+    "end_node_index": 462,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.515639589169
+    },
+    "page_number": 48,
+    "node_index": 463,
+    "start_node_index": 463,
+    "end_node_index": 471,
+    "start_page": 48,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.17720851781573
+    },
+    "page_number": 49,
+    "node_index": 472,
+    "start_node_index": 472,
+    "end_node_index": 511,
+    "start_page": 49,
+    "end_page": 57,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.88071895424837
+    },
+    "page_number": 57,
+    "node_index": 512,
+    "start_node_index": 512,
+    "end_node_index": 513,
+    "start_page": 57,
+    "end_page": 57,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.44237951590894
+    },
+    "page_number": 57,
+    "node_index": 514,
+    "start_node_index": 514,
+    "end_node_index": 537,
+    "start_page": 57,
+    "end_page": 59,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.39542483660131
+    },
+    "page_number": 59,
+    "node_index": 538,
+    "start_node_index": 538,
+    "end_node_index": 572,
+    "start_page": 59,
+    "end_page": 63,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.12280701754386
+    },
+    "page_number": 63,
+    "node_index": 573,
+    "start_node_index": 573,
+    "end_node_index": 576,
+    "start_page": 63,
+    "end_page": 63,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 63,
+    "node_index": 577,
+    "start_node_index": 577,
+    "end_node_index": 583,
+    "start_page": 63,
+    "end_page": 64,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPT",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.85866013071896
+    },
+    "page_number": 64,
+    "node_index": 584,
+    "start_node_index": 584,
+    "end_node_index": 2128,
+    "start_page": 64,
+    "end_page": 214,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Orange_Leaf_FC_LLC_FDD_2024_ID636186.pdf-a039b179-6785-40ed-8d63-df710b53e2b2\\23508efe-100a-46e7-b0e0-e52d87f0e4b1_origin.pdf"
+  }
+]

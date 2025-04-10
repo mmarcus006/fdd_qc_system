@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1: THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 98.4375,
+      "label": 100,
+      "keywords": 32.83582089552239,
+      "final": 90.56532594381036
+    },
+    "page_number": 6,
+    "node_index": 49,
+    "start_node_index": 49,
+    "end_node_index": 77,
+    "start_page": 6,
+    "end_page": 8,
+    "alignment_score": 0.9558823529411765,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2: BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.60620915032679
+    },
+    "page_number": 8,
+    "node_index": 78,
+    "start_node_index": 78,
+    "end_node_index": 101,
+    "start_page": 8,
+    "end_page": 9,
+    "alignment_score": 0.5212418300653594,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3: LITIGATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.09150326797385
+    },
+    "page_number": 9,
+    "node_index": 102,
+    "start_node_index": 102,
+    "end_node_index": 106,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.4183006535947712,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4: BANKRUPTCY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.20588235294117
+    },
+    "page_number": 10,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 108,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.4411764705882353,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5: INITIAL FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.14869281045752
+    },
+    "page_number": 10,
+    "node_index": 109,
+    "start_node_index": 109,
+    "end_node_index": 114,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.4297385620915033,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6: OTHER FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.16503267973856
+    },
+    "page_number": 10,
+    "node_index": 115,
+    "start_node_index": 115,
+    "end_node_index": 141,
+    "start_page": 10,
+    "end_page": 15,
+    "alignment_score": 0.43300653594771243,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7: ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 103.00653594771242
+    },
+    "page_number": 15,
+    "node_index": 142,
+    "start_node_index": 142,
+    "end_node_index": 166,
+    "start_page": 15,
+    "end_page": 18,
+    "alignment_score": 0.6013071895424836,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8: RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 37.28813559322034,
+      "final": 91.65697352387282
+    },
+    "page_number": 18,
+    "node_index": 167,
+    "start_node_index": 167,
+    "end_node_index": 180,
+    "start_page": 18,
+    "end_page": 19,
+    "alignment_score": 0.8398692810457516,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9: FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 96.875,
+      "label": 100,
+      "keywords": 58.8235294117647,
+      "final": 93.06985294117646
+    },
+    "page_number": 19,
+    "node_index": 181,
+    "start_node_index": 181,
+    "end_node_index": 186,
+    "start_page": 19,
+    "end_page": 20,
+    "alignment_score": 0.5735294117647058,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10: FINANCING",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.08333333333333
+    },
+    "page_number": 20,
+    "node_index": 187,
+    "start_node_index": 187,
+    "end_node_index": 198,
+    "start_page": 20,
+    "end_page": 21,
+    "alignment_score": 0.41666666666666663,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11: FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 98.03921568627452,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.01960784313727
+    },
+    "page_number": 21,
+    "node_index": 199,
+    "start_node_index": 199,
+    "end_node_index": 285,
+    "start_page": 21,
+    "end_page": 28,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12: TERRITORY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.09150326797385
+    },
+    "page_number": 28,
+    "node_index": 286,
+    "start_node_index": 286,
+    "end_node_index": 304,
+    "start_page": 28,
+    "end_page": 30,
+    "alignment_score": 0.4183006535947712,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13: TRADEMARKS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 94.73684210526315,
+      "final": 101.14508083935328
+    },
+    "page_number": 30,
+    "node_index": 305,
+    "start_node_index": 305,
+    "end_node_index": 318,
+    "start_page": 30,
+    "end_page": 31,
+    "alignment_score": 0.4395424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14: PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 99.11504424778761,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 103.67516918271733
+    },
+    "page_number": 31,
+    "node_index": 319,
+    "start_node_index": 319,
+    "end_node_index": 328,
+    "start_page": 31,
+    "end_page": 32,
+    "alignment_score": 0.8235294117647058,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15: OBLIGATIONS OF THE FRANCHISEE TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 93.02325581395348,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 101.51162790697674
+    },
+    "page_number": 32,
+    "node_index": 329,
+    "start_node_index": 329,
+    "end_node_index": 333,
+    "start_page": 32,
+    "end_page": 33,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16: RESTRICTION ON WHAT FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 95.04950495049505,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 101.1930531288423
+    },
+    "page_number": 33,
+    "node_index": 334,
+    "start_node_index": 334,
+    "end_node_index": 338,
+    "start_page": 33,
+    "end_page": 33,
+    "alignment_score": 0.7336601307189543,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17: RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 99.2,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 104.01993464052288
+    },
+    "page_number": 33,
+    "node_index": 339,
+    "start_node_index": 339,
+    "end_node_index": 357,
+    "start_page": 33,
+    "end_page": 38,
+    "alignment_score": 0.8839869281045751,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18: PUBLIC FIGURES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 102.31209150326798
+    },
+    "page_number": 38,
+    "node_index": 358,
+    "start_node_index": 358,
+    "end_node_index": 359,
+    "start_page": 38,
+    "end_page": 38,
+    "alignment_score": 0.4624183006535948,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19: FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 103.64379084967321
+    },
+    "page_number": 38,
+    "node_index": 360,
+    "start_node_index": 360,
+    "end_node_index": 391,
+    "start_page": 38,
+    "end_page": 43,
+    "alignment_score": 0.7287581699346406,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20: OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 103.49673202614379
+    },
+    "page_number": 43,
+    "node_index": 392,
+    "start_node_index": 392,
+    "end_node_index": 411,
+    "start_page": 43,
+    "end_page": 46,
+    "alignment_score": 0.6993464052287581,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Grand_Welcome_Franchising_LLC_FDD_2024_ID636101.pdf-a18ee85d-f434-4731-a95a-00700143d082\\17e9029e-4297-4aa7-a33a-e386b88a9366_origin.pdf"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7943878338737
+    },
+    "page_number": 9,
+    "node_index": 62,
+    "start_node_index": 62,
+    "end_node_index": 89,
+    "start_page": 9,
+    "end_page": 11,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 11,
+    "node_index": 90,
+    "start_node_index": 90,
+    "end_node_index": 100,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 12,
+    "node_index": 101,
+    "start_node_index": 101,
+    "end_node_index": 103,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 12,
+    "node_index": 104,
+    "start_node_index": 104,
+    "end_node_index": 106,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7097787833082
+    },
+    "page_number": 13,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 110,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 13,
+    "node_index": 111,
+    "start_node_index": 111,
+    "end_node_index": 140,
+    "start_page": 13,
+    "end_page": 19,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.28760471324681
+    },
+    "page_number": 19,
+    "node_index": 141,
+    "start_node_index": 141,
+    "end_node_index": 165,
+    "start_page": 19,
+    "end_page": 22,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 22,
+    "node_index": 166,
+    "start_node_index": 166,
+    "end_node_index": 207,
+    "start_page": 22,
+    "end_page": 26,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.61904761904762
+    },
+    "page_number": 26,
+    "node_index": 208,
+    "start_node_index": 208,
+    "end_node_index": 212,
+    "start_page": 26,
+    "end_page": 27,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 27,
+    "node_index": 213,
+    "start_node_index": 213,
+    "end_node_index": 214,
+    "start_page": 27,
+    "end_page": 27,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.66787065703474
+    },
+    "page_number": 27,
+    "node_index": 215,
+    "start_node_index": 215,
+    "end_node_index": 304,
+    "start_page": 27,
+    "end_page": 36,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 36,
+    "node_index": 305,
+    "start_node_index": 305,
+    "end_node_index": 318,
+    "start_page": 36,
+    "end_page": 37,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 37,
+    "node_index": 319,
+    "start_node_index": 319,
+    "end_node_index": 331,
+    "start_page": 37,
+    "end_page": 38,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09897292250234
+    },
+    "page_number": 38,
+    "node_index": 332,
+    "start_node_index": 332,
+    "end_node_index": 341,
+    "start_page": 38,
+    "end_page": 39,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 39,
+    "node_index": 342,
+    "start_node_index": 342,
+    "end_node_index": 346,
+    "start_page": 39,
+    "end_page": 40,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTION ON WHAT FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 94.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.0
+    },
+    "page_number": 40,
+    "node_index": 347,
+    "start_node_index": 347,
+    "end_node_index": 352,
+    "start_page": 40,
+    "end_page": 40,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.19354838709677
+    },
+    "page_number": 40,
+    "node_index": 353,
+    "start_node_index": 353,
+    "end_node_index": 366,
+    "start_page": 40,
+    "end_page": 45,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.88071895424837
+    },
+    "page_number": 45,
+    "node_index": 367,
+    "start_node_index": 367,
+    "end_node_index": 368,
+    "start_page": 45,
+    "end_page": 45,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.42603964662788
+    },
+    "page_number": 45,
+    "node_index": 369,
+    "start_node_index": 369,
+    "end_node_index": 373,
+    "start_page": 45,
+    "end_page": 47,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.38725490196077
+    },
+    "page_number": 47,
+    "node_index": 374,
+    "start_node_index": 374,
+    "end_node_index": 393,
+    "start_page": 47,
+    "end_page": 49,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.11463708290334
+    },
+    "page_number": 49,
+    "node_index": 394,
+    "start_node_index": 394,
+    "end_node_index": 395,
+    "start_page": 49,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 49,
+    "node_index": 396,
+    "start_node_index": 396,
+    "end_node_index": 401,
+    "start_page": 49,
+    "end_page": 50,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPT",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.875
+    },
+    "page_number": 50,
+    "node_index": 402,
+    "start_node_index": 402,
+    "end_node_index": 1696,
+    "start_page": 50,
+    "end_page": 235,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Dryer_Vent_Superheroes_Franchising_LLC_FDD_2024_ID637010.pdf-5126ce9f-4c22-460b-b8e3-83aaae994efc\\00a72862-7472-473d-87c4-863010fa4835_origin.pdf"
+  }
+]

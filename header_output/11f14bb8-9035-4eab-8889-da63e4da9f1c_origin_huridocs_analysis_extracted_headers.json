@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.58995934331739
+    },
+    "page_number": 8,
+    "node_index": 76,
+    "start_node_index": 76,
+    "end_node_index": 90,
+    "start_page": 8,
+    "end_page": 9,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04843383894438
+    },
+    "page_number": 9,
+    "node_index": 91,
+    "start_node_index": 91,
+    "end_node_index": 97,
+    "start_page": 9,
+    "end_page": 9,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 9,
+    "node_index": 98,
+    "start_node_index": 98,
+    "end_node_index": 111,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.53874883286647
+    },
+    "page_number": 10,
+    "node_index": 112,
+    "start_node_index": 112,
+    "end_node_index": 113,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.69343891402714
+    },
+    "page_number": 10,
+    "node_index": 114,
+    "start_node_index": 114,
+    "end_node_index": 116,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 10,
+    "node_index": 117,
+    "start_node_index": 117,
+    "end_node_index": 124,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.80974708724071
+    },
+    "page_number": 11,
+    "node_index": 125,
+    "start_node_index": 125,
+    "end_node_index": 135,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 12,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 147,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE ’ S OBLIGATIONS",
+    "match_scores": {
+      "full": 92.3076923076923,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.12933634992459
+    },
+    "page_number": 13,
+    "node_index": 148,
+    "start_node_index": 148,
+    "end_node_index": 154,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 14,
+    "node_index": 155,
+    "start_node_index": 155,
+    "end_node_index": 156,
+    "start_page": 14,
+    "end_page": 14,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 14,
+    "node_index": 157,
+    "start_node_index": 157,
+    "end_node_index": 179,
+    "start_page": 14,
+    "end_page": 16,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 16,
+    "node_index": 180,
+    "start_node_index": 180,
+    "end_node_index": 188,
+    "start_page": 16,
+    "end_page": 17,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 17,
+    "node_index": 189,
+    "start_node_index": 189,
+    "end_node_index": 201,
+    "start_page": 17,
+    "end_page": 18,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09080298786182
+    },
+    "page_number": 18,
+    "node_index": 202,
+    "start_node_index": 202,
+    "end_node_index": 206,
+    "start_page": 18,
+    "end_page": 18,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISED BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.36683006535948
+    },
+    "page_number": 18,
+    "node_index": 207,
+    "start_node_index": 207,
+    "end_node_index": 213,
+    "start_page": 18,
+    "end_page": 19,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.49929971988794
+    },
+    "page_number": 19,
+    "node_index": 214,
+    "start_node_index": 214,
+    "end_node_index": 220,
+    "start_page": 19,
+    "end_page": 20,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 96.72131147540983,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.34431586842388
+    },
+    "page_number": 20,
+    "node_index": 221,
+    "start_node_index": 221,
+    "end_node_index": 230,
+    "start_page": 20,
+    "end_page": 22,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.86437908496731
+    },
+    "page_number": 22,
+    "node_index": 231,
+    "start_node_index": 231,
+    "end_node_index": 232,
+    "start_page": 22,
+    "end_page": 22,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.42603964662788
+    },
+    "page_number": 22,
+    "node_index": 233,
+    "start_node_index": 233,
+    "end_node_index": 239,
+    "start_page": 22,
+    "end_page": 23,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION T ABLE N O . 1 Systemwide Outlet Summary For Years 2021 to 2023",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.54463574047506
+    },
+    "page_number": 23,
+    "node_index": 240,
+    "start_node_index": 240,
+    "end_node_index": 285,
+    "start_page": 23,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10646714826282
+    },
+    "page_number": 31,
+    "node_index": 286,
+    "start_node_index": 286,
+    "end_node_index": 287,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.53874883286647
+    },
+    "page_number": 31,
+    "node_index": 288,
+    "start_node_index": 288,
+    "end_node_index": 289,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46850861556744
+    },
+    "page_number": 31,
+    "node_index": 290,
+    "start_node_index": 290,
+    "end_node_index": 1166,
+    "start_page": 31,
+    "end_page": 132,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Sign_Gypsies_Franchising_LLC_FDD_2024_ID636226.pdf-0d39e47d-9eb2-4060-bf45-37f29331ddde\\11f14bb8-9035-4eab-8889-da63e4da9f1c_origin.pdf"
+  }
+]

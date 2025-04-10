@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 98.4375,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.21058006535948
+    },
+    "page_number": 9,
+    "node_index": 90,
+    "start_node_index": 90,
+    "end_node_index": 122,
+    "start_page": 9,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 11,
+    "node_index": 123,
+    "start_node_index": 123,
+    "end_node_index": 144,
+    "start_page": 11,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 13,
+    "node_index": 145,
+    "start_node_index": 145,
+    "end_node_index": 167,
+    "start_page": 13,
+    "end_page": 16,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 16,
+    "node_index": 168,
+    "start_node_index": 168,
+    "end_node_index": 174,
+    "start_page": 16,
+    "end_page": 17,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 17,
+    "node_index": 175,
+    "start_node_index": 175,
+    "end_node_index": 187,
+    "start_page": 17,
+    "end_page": 18,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 18,
+    "node_index": 188,
+    "start_node_index": 188,
+    "end_node_index": 237,
+    "start_page": 18,
+    "end_page": 25,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 25,
+    "node_index": 238,
+    "start_node_index": 238,
+    "end_node_index": 326,
+    "start_page": 25,
+    "end_page": 35,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 35,
+    "node_index": 327,
+    "start_node_index": 327,
+    "end_node_index": 361,
+    "start_page": 35,
+    "end_page": 38,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 38,
+    "node_index": 362,
+    "start_node_index": 362,
+    "end_node_index": 379,
+    "start_page": 38,
+    "end_page": 41,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 41,
+    "node_index": 380,
+    "start_node_index": 380,
+    "end_node_index": 382,
+    "start_page": 41,
+    "end_page": 41,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 41,
+    "node_index": 383,
+    "start_node_index": 383,
+    "end_node_index": 490,
+    "start_page": 41,
+    "end_page": 50,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 50,
+    "node_index": 491,
+    "start_node_index": 491,
+    "end_node_index": 518,
+    "start_page": 50,
+    "end_page": 53,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 53,
+    "node_index": 519,
+    "start_node_index": 519,
+    "end_node_index": 535,
+    "start_page": 53,
+    "end_page": 54,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 54,
+    "node_index": 536,
+    "start_node_index": 536,
+    "end_node_index": 543,
+    "start_page": 54,
+    "end_page": 55,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 55,
+    "node_index": 544,
+    "start_node_index": 544,
+    "end_node_index": 547,
+    "start_page": 55,
+    "end_page": 55,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 55,
+    "node_index": 548,
+    "start_node_index": 548,
+    "end_node_index": 555,
+    "start_page": 55,
+    "end_page": 56,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 56,
+    "node_index": 556,
+    "start_node_index": 556,
+    "end_node_index": 619,
+    "start_page": 56,
+    "end_page": 69,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 69,
+    "node_index": 620,
+    "start_node_index": 620,
+    "end_node_index": 625,
+    "start_page": 69,
+    "end_page": 70,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 70,
+    "node_index": 626,
+    "start_node_index": 626,
+    "end_node_index": 632,
+    "start_page": 70,
+    "end_page": 71,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.40359477124183
+    },
+    "page_number": 71,
+    "node_index": 633,
+    "start_node_index": 633,
+    "end_node_index": 661,
+    "start_page": 71,
+    "end_page": 73,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 73,
+    "node_index": 662,
+    "start_node_index": 662,
+    "end_node_index": 666,
+    "start_page": 73,
+    "end_page": 74,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 74,
+    "node_index": 667,
+    "start_node_index": 667,
+    "end_node_index": 677,
+    "start_page": 74,
+    "end_page": 74,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 74,
+    "node_index": 678,
+    "start_node_index": 678,
+    "end_node_index": 2538,
+    "start_page": 74,
+    "end_page": 284,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Larks_LLC_FDD_2024_ID636091.pdf-eff7edfd-61d1-44ae-8860-86a4e8d26cb8\\1b2fa54e-0c16-47f6-a6be-a80fa7f4d095_origin.pdf"
+  }
+]

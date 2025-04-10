@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRA N CHISOR A N D A N Y PARE N TS, PREDECESSORS A N D AFFILIATES",
+    "match_scores": {
+      "full": 77.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.88071895424837
+    },
+    "page_number": 8,
+    "node_index": 77,
+    "start_node_index": 77,
+    "end_node_index": 104,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSI N ESS EXPERIE N CE",
+    "match_scores": {
+      "full": 83.63636363636364,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 76.81001188354129
+    },
+    "page_number": 10,
+    "node_index": 105,
+    "start_node_index": 105,
+    "end_node_index": 109,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATIO N",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.21405228758171
+    },
+    "page_number": 10,
+    "node_index": 110,
+    "start_node_index": 110,
+    "end_node_index": 143,
+    "start_page": 10,
+    "end_page": 15,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BA N KRUPTCY",
+    "match_scores": {
+      "full": 86.48648648648648,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.23507330860272
+    },
+    "page_number": 15,
+    "node_index": 144,
+    "start_node_index": 144,
+    "end_node_index": 145,
+    "start_page": 15,
+    "end_page": 15,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 I N ITIAL FEES",
+    "match_scores": {
+      "full": 87.8048780487805,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.89426908974973
+    },
+    "page_number": 15,
+    "node_index": 146,
+    "start_node_index": 146,
+    "end_node_index": 155,
+    "start_page": 15,
+    "end_page": 16,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 16,
+    "node_index": 156,
+    "start_node_index": 156,
+    "end_node_index": 187,
+    "start_page": 16,
+    "end_page": 22,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED I N ITIAL I N VESTME N T YOUR ESTIMATED I N ITIAL I N VESTME N T",
+    "match_scores": {
+      "full": 81.57894736842105,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.78130374957
+    },
+    "page_number": 22,
+    "node_index": 188,
+    "start_node_index": 188,
+    "end_node_index": 216,
+    "start_page": 22,
+    "end_page": 25,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIO N S O N SOURCES OF PRODUCTS A N D SERVICES",
+    "match_scores": {
+      "full": 92.85714285714286,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.42040149393091
+    },
+    "page_number": 25,
+    "node_index": 217,
+    "start_node_index": 217,
+    "end_node_index": 261,
+    "start_page": 25,
+    "end_page": 29,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRA N CHISEE’S OBLIGATIO N S",
+    "match_scores": {
+      "full": 76.92307692307692,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.44519859225741
+    },
+    "page_number": 29,
+    "node_index": 262,
+    "start_node_index": 262,
+    "end_node_index": 267,
+    "start_page": 29,
+    "end_page": 30,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FI N A N CI N G",
+    "match_scores": {
+      "full": 64.86486486486487,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 67.42426249779191
+    },
+    "page_number": 30,
+    "node_index": 268,
+    "start_node_index": 268,
+    "end_node_index": 278,
+    "start_page": 30,
+    "end_page": 31,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRA N CHISOR’S ASSISTA N CE, ADVERTISI N G, COMPUTER SYSTEMS A N D TRAI N I N G",
+    "match_scores": {
+      "full": 75.32467532467533,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 72.65416772769714
+    },
+    "page_number": 31,
+    "node_index": 279,
+    "start_node_index": 279,
+    "end_node_index": 339,
+    "start_page": 31,
+    "end_page": 37,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 37,
+    "node_index": 340,
+    "start_node_index": 340,
+    "end_node_index": 374,
+    "start_page": 37,
+    "end_page": 40,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64864864864865
+    },
+    "page_number": 40,
+    "node_index": 375,
+    "start_node_index": 375,
+    "end_node_index": 384,
+    "start_page": 40,
+    "end_page": 41,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATE N TS, COPYRIGHTS A N D PROPRIETARY I N FORMATIO N",
+    "match_scores": {
+      "full": 88.49557522123894,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.23961767597895
+    },
+    "page_number": 41,
+    "node_index": 385,
+    "start_node_index": 385,
+    "end_node_index": 390,
+    "start_page": 41,
+    "end_page": 42,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATIO N TO PARTICIPATE I N THE ACTUAL OPERATIO N OF THE FRA N CHISE BUSI N ESS",
+    "match_scores": {
+      "full": 88.60759493670886,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.30379746835443
+    },
+    "page_number": 42,
+    "node_index": 391,
+    "start_node_index": 391,
+    "end_node_index": 394,
+    "start_page": 42,
+    "end_page": 42,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIO N S O N PRODUCTS A N D SERVICES SOLD",
+    "match_scores": {
+      "full": 57.69230769230769,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 63.83798391151333
+    },
+    "page_number": 42,
+    "node_index": 395,
+    "start_node_index": 395,
+    "end_node_index": 399,
+    "start_page": 42,
+    "end_page": 43,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RE N EWAL, TERMI N ATIO N , TRA N SFER A N D DISPUTE RESOLUTIO N THE FRA N CHISE RELATIO N SHIP",
+    "match_scores": {
+      "full": 59.21052631578947,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 64.59709322325422
+    },
+    "page_number": 43,
+    "node_index": 400,
+    "start_node_index": 400,
+    "end_node_index": 414,
+    "start_page": 43,
+    "end_page": 47,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.86437908496731
+    },
+    "page_number": 47,
+    "node_index": 415,
+    "start_node_index": 415,
+    "end_node_index": 416,
+    "start_page": 47,
+    "end_page": 47,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FI N A N CIAL PERFORMA N CE REPRESE N TATIO N S",
+    "match_scores": {
+      "full": 75.26881720430107,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 72.62623866751001
+    },
+    "page_number": 47,
+    "node_index": 417,
+    "start_node_index": 417,
+    "end_node_index": 421,
+    "start_page": 47,
+    "end_page": 48,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS A N D FRA N CHISEE I N FORMATIO N SYSTEMWIDE OUTLET SUMMARY FOR YEARS 2021 to 2023",
+    "match_scores": {
+      "full": 50.370370370370374,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 60.152505446623096
+    },
+    "page_number": 48,
+    "node_index": 422,
+    "start_node_index": 422,
+    "end_node_index": 438,
+    "start_page": 48,
+    "end_page": 49,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FI N A N CIAL STATEME N TS",
+    "match_scores": {
+      "full": 77.96610169491525,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.9667109781766
+    },
+    "page_number": 49,
+    "node_index": 439,
+    "start_node_index": 439,
+    "end_node_index": 440,
+    "start_page": 49,
+    "end_page": 49,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 49,
+    "node_index": 441,
+    "start_node_index": 441,
+    "end_node_index": 451,
+    "start_page": 49,
+    "end_page": 50,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.47667855020796
+    },
+    "page_number": 50,
+    "node_index": 452,
+    "start_node_index": 452,
+    "end_node_index": 2130,
+    "start_page": 50,
+    "end_page": 205,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Vizta_Tint_Holdings_INC_FDD_2024_ID636747.pdf-8772df22-0e38-4f00-8d01-fbc61072c5fb\\0935d10b-0c88-4a99-99b6-7db0ec59a851_origin.pdf"
+  }
+]

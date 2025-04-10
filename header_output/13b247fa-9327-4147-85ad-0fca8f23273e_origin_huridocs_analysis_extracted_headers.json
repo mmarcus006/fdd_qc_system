@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.58178940867685
+    },
+    "page_number": 9,
+    "node_index": 72,
+    "start_node_index": 72,
+    "end_node_index": 105,
+    "start_page": 9,
+    "end_page": 12,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 12,
+    "node_index": 106,
+    "start_node_index": 106,
+    "end_node_index": 112,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.9673202614379
+    },
+    "page_number": 12,
+    "node_index": 113,
+    "start_node_index": 113,
+    "end_node_index": 143,
+    "start_page": 12,
+    "end_page": 16,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 16,
+    "node_index": 144,
+    "start_node_index": 144,
+    "end_node_index": 148,
+    "start_page": 16,
+    "end_page": 16,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7097787833082
+    },
+    "page_number": 16,
+    "node_index": 149,
+    "start_node_index": 149,
+    "end_node_index": 170,
+    "start_page": 16,
+    "end_page": 18,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 18,
+    "node_index": 171,
+    "start_node_index": 171,
+    "end_node_index": 187,
+    "start_page": 18,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT FOR A SINGLE UNIT FRANCHISE",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.82608695652175
+    },
+    "page_number": 21,
+    "node_index": 188,
+    "start_node_index": 188,
+    "end_node_index": 225,
+    "start_page": 21,
+    "end_page": 26,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 26,
+    "node_index": 226,
+    "start_node_index": 226,
+    "end_node_index": 261,
+    "start_page": 26,
+    "end_page": 29,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 29,
+    "node_index": 262,
+    "start_node_index": 262,
+    "end_node_index": 270,
+    "start_page": 29,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 31,
+    "node_index": 271,
+    "start_node_index": 271,
+    "end_node_index": 273,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS, AND TRAINING",
+    "match_scores": {
+      "full": 98.03921568627452,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.00326797385623
+    },
+    "page_number": 31,
+    "node_index": 274,
+    "start_node_index": 274,
+    "end_node_index": 365,
+    "start_page": 31,
+    "end_page": 42,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 42,
+    "node_index": 366,
+    "start_node_index": 366,
+    "end_node_index": 378,
+    "start_page": 42,
+    "end_page": 44,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 44,
+    "node_index": 379,
+    "start_node_index": 379,
+    "end_node_index": 396,
+    "start_page": 44,
+    "end_page": 46,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 99.11504424778761,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54118225461276
+    },
+    "page_number": 46,
+    "node_index": 397,
+    "start_node_index": 397,
+    "end_node_index": 404,
+    "start_page": 46,
+    "end_page": 47,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.32278669043374
+    },
+    "page_number": 47,
+    "node_index": 405,
+    "start_node_index": 405,
+    "end_node_index": 413,
+    "start_page": 47,
+    "end_page": 48,
+    "alignment_score": 0.9918300653594772,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.49929971988794
+    },
+    "page_number": 48,
+    "node_index": 414,
+    "start_node_index": 414,
+    "end_node_index": 417,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 87.5,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.73366013071896
+    },
+    "page_number": 48,
+    "node_index": 418,
+    "start_node_index": 418,
+    "end_node_index": 432,
+    "start_page": 48,
+    "end_page": 52,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.86437908496731
+    },
+    "page_number": 52,
+    "node_index": 433,
+    "start_node_index": 433,
+    "end_node_index": 434,
+    "start_page": 52,
+    "end_page": 52,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 52,
+    "node_index": 435,
+    "start_node_index": 435,
+    "end_node_index": 441,
+    "start_page": 52,
+    "end_page": 53,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.40359477124183
+    },
+    "page_number": 53,
+    "node_index": 442,
+    "start_node_index": 442,
+    "end_node_index": 484,
+    "start_page": 53,
+    "end_page": 59,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 CONTRACTS",
+    "match_scores": {
+      "full": 56.52173913043478,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 63.24452969593634
+    },
+    "page_number": 59,
+    "node_index": 485,
+    "start_node_index": 485,
+    "end_node_index": 490,
+    "start_page": 59,
+    "end_page": 59,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 59,
+    "node_index": 491,
+    "start_node_index": 491,
+    "end_node_index": 2036,
+    "start_page": 59,
+    "end_page": 227,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Pursuant to the VRFA, the FTC Cover Page and the ITEM 23 Receipts at Exhibit M are modified by adding the word “calendar” between the words “14” and “days” at the end of the second Section so each reads as follows:",
+    "match_scores": {
+      "full": 86.66666666666667,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.32516339869282
+    },
+    "page_number": 227,
+    "node_index": 2037,
+    "start_node_index": 2037,
+    "end_node_index": 2415,
+    "start_page": 227,
+    "end_page": 288,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Quiz_Holdings_LLC_FDD_2024_ID636692.pdf-eb784669-6180-4010-95d7-a601290bfd33\\13b247fa-9327-4147-85ad-0fca8f23273e_origin.pdf"
+  }
+]

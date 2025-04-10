@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "and",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.967320261437905
+    },
+    "page_number": 70,
+    "node_index": 649,
+    "start_node_index": 649,
+    "end_node_index": 1357,
+    "start_page": 70,
+    "end_page": 134,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 92.6829268292683,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 51.33329347999363
+    },
+    "page_number": 7,
+    "node_index": 64,
+    "start_node_index": 64,
+    "end_node_index": 648,
+    "start_page": 7,
+    "end_page": 70,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "FDD Item 3",
+    "match_scores": {
+      "full": 57.142857142857146,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 60.213585434173666
+    },
+    "page_number": 134,
+    "node_index": 1358,
+    "start_node_index": 1358,
+    "end_node_index": 1459,
+    "start_page": 134,
+    "end_page": 141,
+    "alignment_score": 0.32843137254901966,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "FDD Item 9",
+    "match_scores": {
+      "full": 57.142857142857146,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 60.205415499533146
+    },
+    "page_number": 141,
+    "node_index": 1460,
+    "start_node_index": 1460,
+    "end_node_index": 1592,
+    "start_page": 141,
+    "end_page": 158,
+    "alignment_score": 0.326797385620915,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Performance",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 51.88725490196079
+    },
+    "page_number": 158,
+    "node_index": 1593,
+    "start_node_index": 1593,
+    "end_node_index": 1680,
+    "start_page": 158,
+    "end_page": 166,
+    "alignment_score": 0.37745098039215685,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Stratify_LLC_FDD_2024_ID636538.pdf-dc7f584b-2e33-4b19-b32c-b413749bfa40\\24cc7834-1bdb-47b8-89b6-eac434d04a72_origin.pdf"
+  }
+]

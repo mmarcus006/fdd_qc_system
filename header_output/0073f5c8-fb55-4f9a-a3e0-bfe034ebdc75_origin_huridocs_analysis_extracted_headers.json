@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1. THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 96.875,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.19240196078431
+    },
+    "page_number": 6,
+    "node_index": 37,
+    "start_node_index": 37,
+    "end_node_index": 51,
+    "start_page": 6,
+    "end_page": 7,
+    "alignment_score": 0.9509803921568627,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.32625272331155
+    },
+    "page_number": 7,
+    "node_index": 52,
+    "start_node_index": 52,
+    "end_node_index": 74,
+    "start_page": 7,
+    "end_page": 9,
+    "alignment_score": 0.6356209150326797,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.84477124183007
+    },
+    "page_number": 9,
+    "node_index": 75,
+    "start_node_index": 75,
+    "end_node_index": 76,
+    "start_page": 9,
+    "end_page": 9,
+    "alignment_score": 0.5245098039215687,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.91013071895425
+    },
+    "page_number": 9,
+    "node_index": 77,
+    "start_node_index": 77,
+    "end_node_index": 78,
+    "start_page": 9,
+    "end_page": 9,
+    "alignment_score": 0.5375816993464052,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.18790849673202
+    },
+    "page_number": 9,
+    "node_index": 79,
+    "start_node_index": 79,
+    "end_node_index": 89,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.5375816993464052,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.86928104575163
+    },
+    "page_number": 10,
+    "node_index": 90,
+    "start_node_index": 90,
+    "end_node_index": 103,
+    "start_page": 10,
+    "end_page": 12,
+    "alignment_score": 0.5294117647058824,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 97.22222222222223,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.3529411764706
+    },
+    "page_number": 12,
+    "node_index": 104,
+    "start_node_index": 104,
+    "end_node_index": 145,
+    "start_page": 12,
+    "end_page": 16,
+    "alignment_score": 0.7483660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10714285714286
+    },
+    "page_number": 16,
+    "node_index": 146,
+    "start_node_index": 146,
+    "end_node_index": 156,
+    "start_page": 16,
+    "end_page": 18,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.39624183006536
+    },
+    "page_number": 18,
+    "node_index": 157,
+    "start_node_index": 157,
+    "end_node_index": 161,
+    "start_page": 18,
+    "end_page": 19,
+    "alignment_score": 0.7042483660130718,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.80392156862746
+    },
+    "page_number": 19,
+    "node_index": 162,
+    "start_node_index": 162,
+    "end_node_index": 164,
+    "start_page": 19,
+    "end_page": 20,
+    "alignment_score": 0.5163398692810457,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11. FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 96.73202614379085,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.24346405228758
+    },
+    "page_number": 20,
+    "node_index": 165,
+    "start_node_index": 165,
+    "end_node_index": 227,
+    "start_page": 20,
+    "end_page": 26,
+    "alignment_score": 0.9754901960784313,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.80392156862746
+    },
+    "page_number": 26,
+    "node_index": 228,
+    "start_node_index": 228,
+    "end_node_index": 238,
+    "start_page": 26,
+    "end_page": 27,
+    "alignment_score": 0.5163398692810457,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.07266941864465
+    },
+    "page_number": 27,
+    "node_index": 239,
+    "start_node_index": 239,
+    "end_node_index": 256,
+    "start_page": 27,
+    "end_page": 30,
+    "alignment_score": 0.5408496732026145,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 97.34513274336283,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.65622650240037
+    },
+    "page_number": 30,
+    "node_index": 257,
+    "start_node_index": 257,
+    "end_node_index": 265,
+    "start_page": 30,
+    "end_page": 31,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.12990196078431
+    },
+    "page_number": 31,
+    "node_index": 266,
+    "start_node_index": 266,
+    "end_node_index": 269,
+    "start_page": 31,
+    "end_page": 31,
+    "alignment_score": 0.9509803921568627,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.82784560365026
+    },
+    "page_number": 31,
+    "node_index": 270,
+    "start_node_index": 270,
+    "end_node_index": 275,
+    "start_page": 31,
+    "end_page": 32,
+    "alignment_score": 0.954248366013072,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 97.6,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.45686274509804
+    },
+    "page_number": 32,
+    "node_index": 276,
+    "start_node_index": 276,
+    "end_node_index": 298,
+    "start_page": 32,
+    "end_page": 40,
+    "alignment_score": 0.9313725490196079,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.69373401534529
+    },
+    "page_number": 40,
+    "node_index": 299,
+    "start_node_index": 299,
+    "end_node_index": 301,
+    "start_page": 40,
+    "end_page": 41,
+    "alignment_score": 0.5735294117647058,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19. FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 97.82608695652173,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.34114805342428
+    },
+    "page_number": 41,
+    "node_index": 302,
+    "start_node_index": 302,
+    "end_node_index": 304,
+    "start_page": 41,
+    "end_page": 41,
+    "alignment_score": 0.8856209150326797,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20. OUTLETS AND FRANCHISE INFORMATION",
+    "match_scores": {
+      "full": 96.47058823529412,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.37745098039215
+    },
+    "page_number": 41,
+    "node_index": 305,
+    "start_node_index": 305,
+    "end_node_index": 327,
+    "start_page": 41,
+    "end_page": 44,
+    "alignment_score": 0.8284313725490196,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.56017579445572
+    },
+    "page_number": 44,
+    "node_index": 328,
+    "start_node_index": 328,
+    "end_node_index": 330,
+    "start_page": 44,
+    "end_page": 44,
+    "alignment_score": 0.6568627450980392,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22. CONTRACTS",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.82843137254902
+    },
+    "page_number": 44,
+    "node_index": 331,
+    "start_node_index": 331,
+    "end_node_index": 346,
+    "start_page": 44,
+    "end_page": 45,
+    "alignment_score": 0.5212418300653594,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23. RECEIPTS",
+    "match_scores": {
+      "full": 94.11764705882354,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.55882352941177
+    },
+    "page_number": 45,
+    "node_index": 347,
+    "start_node_index": 347,
+    "end_node_index": 2436,
+    "start_page": 45,
+    "end_page": 262,
+    "alignment_score": 0.5,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Monical_Pizza_Corporation_FDD_2024_ID636100.pdf-a4e4a79f-61e9-4d37-b30e-8548a1d5a626\\0073f5c8-fb55-4f9a-a3e0-bfe034ebdc75_origin.pdf"
+  }
+]

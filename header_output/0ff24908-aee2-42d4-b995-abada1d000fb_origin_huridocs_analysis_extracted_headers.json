@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 98.4375,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.21058006535948
+    },
+    "page_number": 8,
+    "node_index": 61,
+    "start_node_index": 61,
+    "end_node_index": 82,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04843383894438
+    },
+    "page_number": 10,
+    "node_index": 83,
+    "start_node_index": 83,
+    "end_node_index": 102,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 11,
+    "node_index": 103,
+    "start_node_index": 103,
+    "end_node_index": 104,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 11,
+    "node_index": 105,
+    "start_node_index": 105,
+    "end_node_index": 106,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7097787833082
+    },
+    "page_number": 11,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 117,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 12,
+    "node_index": 118,
+    "start_node_index": 118,
+    "end_node_index": 138,
+    "start_page": 12,
+    "end_page": 17,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.81791702188123
+    },
+    "page_number": 17,
+    "node_index": 139,
+    "start_node_index": 139,
+    "end_node_index": 168,
+    "start_page": 17,
+    "end_page": 20,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 20,
+    "node_index": 169,
+    "start_node_index": 169,
+    "end_node_index": 185,
+    "start_page": 20,
+    "end_page": 22,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.6108776844071
+    },
+    "page_number": 22,
+    "node_index": 186,
+    "start_node_index": 186,
+    "end_node_index": 190,
+    "start_page": 22,
+    "end_page": 23,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 23,
+    "node_index": 191,
+    "start_node_index": 191,
+    "end_node_index": 192,
+    "start_page": 23,
+    "end_page": 23,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.67604059167526
+    },
+    "page_number": 23,
+    "node_index": 193,
+    "start_node_index": 193,
+    "end_node_index": 268,
+    "start_page": 23,
+    "end_page": 29,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 29,
+    "node_index": 269,
+    "start_node_index": 269,
+    "end_node_index": 283,
+    "start_page": 29,
+    "end_page": 30,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64864864864865
+    },
+    "page_number": 30,
+    "node_index": 284,
+    "start_node_index": 284,
+    "end_node_index": 299,
+    "start_page": 30,
+    "end_page": 32,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09897292250234
+    },
+    "page_number": 32,
+    "node_index": 300,
+    "start_node_index": 300,
+    "end_node_index": 307,
+    "start_page": 32,
+    "end_page": 33,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 33,
+    "node_index": 308,
+    "start_node_index": 308,
+    "end_node_index": 314,
+    "start_page": 33,
+    "end_page": 34,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 34,
+    "node_index": 315,
+    "start_node_index": 315,
+    "end_node_index": 318,
+    "start_page": 34,
+    "end_page": 34,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.17720851781573
+    },
+    "page_number": 34,
+    "node_index": 319,
+    "start_node_index": 319,
+    "end_node_index": 330,
+    "start_page": 34,
+    "end_page": 37,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.85620915032679
+    },
+    "page_number": 37,
+    "node_index": 331,
+    "start_node_index": 331,
+    "end_node_index": 332,
+    "start_page": 37,
+    "end_page": 37,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 37,
+    "node_index": 333,
+    "start_node_index": 333,
+    "end_node_index": 383,
+    "start_page": 37,
+    "end_page": 43,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.39542483660131
+    },
+    "page_number": 43,
+    "node_index": 384,
+    "start_node_index": 384,
+    "end_node_index": 402,
+    "start_page": 43,
+    "end_page": 45,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10646714826282
+    },
+    "page_number": 45,
+    "node_index": 403,
+    "start_node_index": 403,
+    "end_node_index": 404,
+    "start_page": 45,
+    "end_page": 45,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 45,
+    "node_index": 405,
+    "start_node_index": 405,
+    "end_node_index": 406,
+    "start_page": 45,
+    "end_page": 45,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.47667855020796
+    },
+    "page_number": 45,
+    "node_index": 407,
+    "start_node_index": 407,
+    "end_node_index": 1537,
+    "start_page": 45,
+    "end_page": 158,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Speedy_Freight_Franchising_LLC_FDD_2025_ID637708.pdf-b74cc2db-9bdc-4c4b-98ee-1d82f84ab34b\\0ff24908-aee2-42d4-b995-abada1d000fb_origin.pdf"
+  }
+]

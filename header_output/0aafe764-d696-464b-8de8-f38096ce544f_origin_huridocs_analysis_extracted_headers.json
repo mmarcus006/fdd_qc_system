@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1. THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 96.875,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.42116013071896
+    },
+    "page_number": 8,
+    "node_index": 58,
+    "start_node_index": 58,
+    "end_node_index": 105,
+    "start_page": 8,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.14814814814815
+    },
+    "page_number": 12,
+    "node_index": 106,
+    "start_node_index": 106,
+    "end_node_index": 135,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.20588235294119
+    },
+    "page_number": 14,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 158,
+    "start_page": 14,
+    "end_page": 16,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.20588235294119
+    },
+    "page_number": 16,
+    "node_index": 159,
+    "start_node_index": 159,
+    "end_node_index": 160,
+    "start_page": 16,
+    "end_page": 16,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.49183006535948
+    },
+    "page_number": 16,
+    "node_index": 161,
+    "start_node_index": 161,
+    "end_node_index": 175,
+    "start_page": 16,
+    "end_page": 17,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES 1",
+    "match_scores": {
+      "full": 90.9090909090909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.45454545454545
+    },
+    "page_number": 17,
+    "node_index": 176,
+    "start_node_index": 176,
+    "end_node_index": 216,
+    "start_page": 17,
+    "end_page": 26,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.81791702188123
+    },
+    "page_number": 26,
+    "node_index": 217,
+    "start_node_index": 217,
+    "end_node_index": 275,
+    "start_page": 26,
+    "end_page": 36,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09897292250234
+    },
+    "page_number": 36,
+    "node_index": 276,
+    "start_node_index": 276,
+    "end_node_index": 332,
+    "start_page": 36,
+    "end_page": 41,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.875
+    },
+    "page_number": 41,
+    "node_index": 333,
+    "start_node_index": 333,
+    "end_node_index": 341,
+    "start_page": 41,
+    "end_page": 43,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.21405228758171
+    },
+    "page_number": 43,
+    "node_index": 342,
+    "start_node_index": 342,
+    "end_node_index": 352,
+    "start_page": 43,
+    "end_page": 44,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11.",
+    "match_scores": {
+      "full": 66.66666666666666,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 68.30882352941175
+    },
+    "page_number": 44,
+    "node_index": 353,
+    "start_node_index": 353,
+    "end_node_index": 423,
+    "start_page": 44,
+    "end_page": 50,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.20588235294119
+    },
+    "page_number": 50,
+    "node_index": 424,
+    "start_node_index": 424,
+    "end_node_index": 455,
+    "start_page": 50,
+    "end_page": 53,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.36025111799106
+    },
+    "page_number": 53,
+    "node_index": 456,
+    "start_node_index": 456,
+    "end_node_index": 484,
+    "start_page": 53,
+    "end_page": 59,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 97.34513274336283,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.65622650240037
+    },
+    "page_number": 59,
+    "node_index": 485,
+    "start_node_index": 485,
+    "end_node_index": 491,
+    "start_page": 59,
+    "end_page": 60,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.375
+    },
+    "page_number": 60,
+    "node_index": 492,
+    "start_node_index": 492,
+    "end_node_index": 495,
+    "start_page": 60,
+    "end_page": 60,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 60,
+    "node_index": 496,
+    "start_node_index": 496,
+    "end_node_index": 505,
+    "start_page": 60,
+    "end_page": 61,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 97.6,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.79183006535948
+    },
+    "page_number": 61,
+    "node_index": 506,
+    "start_node_index": 506,
+    "end_node_index": 540,
+    "start_page": 61,
+    "end_page": 71,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.80157715260017
+    },
+    "page_number": 71,
+    "node_index": 541,
+    "start_node_index": 541,
+    "end_node_index": 542,
+    "start_page": 71,
+    "end_page": 71,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19. FINANCIAL PERFORMANCE REPRESENTATION",
+    "match_scores": {
+      "full": 96.7032967032967,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.34347841700783
+    },
+    "page_number": 71,
+    "node_index": 543,
+    "start_node_index": 543,
+    "end_node_index": 586,
+    "start_page": 71,
+    "end_page": 75,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "representations  either  orally  or  in  writing.    If  you  are  purchasing  an  existing  outlet,  however,  we  may provide  you  with  the  actual  records  of  that  outlet.  If  you  receive  any  other  financial  performance information or projections of your future income, you should report it to the franchisor’s management by contacting  Prabs  Moodley at  550  S.  Hope  St,  Suite  2100  Los  Angeles,  CA  90071,  (310)  237-2326,  the Federal Trade Commission, and the appropriate state regulatory agencies.ITEM 20. OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 88.31168831168831,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.13950428656312
+    },
+    "page_number": 75,
+    "node_index": 587,
+    "start_node_index": 587,
+    "end_node_index": 642,
+    "start_page": 75,
+    "end_page": 80,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.27586206896552
+    },
+    "page_number": 80,
+    "node_index": 643,
+    "start_node_index": 643,
+    "end_node_index": 644,
+    "start_page": 80,
+    "end_page": 80,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22.",
+    "match_scores": {
+      "full": 66.66666666666666,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 68.30882352941175
+    },
+    "page_number": 80,
+    "node_index": 645,
+    "start_node_index": 645,
+    "end_node_index": 649,
+    "start_page": 80,
+    "end_page": 80,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23.",
+    "match_scores": {
+      "full": 66.66666666666666,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 68.32516339869281
+    },
+    "page_number": 80,
+    "node_index": 650,
+    "start_node_index": 650,
+    "end_node_index": 3474,
+    "start_page": 80,
+    "end_page": 422,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Super_Magnificent_Coffee_Company_Ireland_Limited_FDD_2024_ID636934.pdf-fedb47d1-9cde-4f9c-b00c-bc981ea8820c\\0aafe764-d696-464b-8de8-f38096ce544f_origin.pdf"
+  }
+]

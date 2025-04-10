@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "THE FRANCHISOR AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 92.43697478991596,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 51.21031746031746
+    },
+    "page_number": 6,
+    "node_index": 42,
+    "start_node_index": 42,
+    "end_node_index": 73,
+    "start_page": 6,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 74,
+    "start_node_index": 74,
+    "end_node_index": 80,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "LITIGATION",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 81,
+    "start_node_index": 81,
+    "end_node_index": 82,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "BANKRUPTCY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.98366013071895
+    },
+    "page_number": 8,
+    "node_index": 83,
+    "start_node_index": 83,
+    "end_node_index": 102,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "1 The development fee is considered fully earned and is nonrefundable. Please see Item 5 for information on incentive programs that may offer a discount on the initial franchise fee. The amounts stated in the",
+    "match_scores": {
+      "full": 75.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 72.49183006535948
+    },
+    "page_number": 17,
+    "node_index": 142,
+    "start_node_index": 142,
+    "end_node_index": 167,
+    "start_page": 17,
+    "end_page": 20,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "OTHER FEES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 55.0
+    },
+    "page_number": 10,
+    "node_index": 103,
+    "start_node_index": 103,
+    "end_node_index": 141,
+    "start_page": 10,
+    "end_page": 17,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "We estimate that assuming the estimated minimum initial costs to begin operations and other financial obligations are within the ranges described in Item 7 of this disclosure document, the proportion of your purchases  and  leases  of  goods  and  services  from  approved  suppliers  or  of  products  that  meet  our specifications to be approximately 75% of all the purchases and leases in establishing your Roni's Mac Bar",
+    "match_scores": {
+      "full": 75.86206896551724,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 72.88201487491548
+    },
+    "page_number": 22,
+    "node_index": 199,
+    "start_node_index": 199,
+    "end_node_index": 219,
+    "start_page": 22,
+    "end_page": 26,
+    "alignment_score": 0.9901960784313726,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.99183006535948
+    },
+    "page_number": 20,
+    "node_index": 168,
+    "start_node_index": 168,
+    "end_node_index": 198,
+    "start_page": 20,
+    "end_page": 22,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "FINANCING",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.99183006535948
+    },
+    "page_number": 26,
+    "node_index": 220,
+    "start_node_index": 220,
+    "end_node_index": 323,
+    "start_page": 26,
+    "end_page": 34,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Your Franchise Agreement does not give you any other options, rights of first refusal, or similar rights to acquire additional franchises within the territory or contiguous territories. Your Territory rights are not dependent  on  achieving  a  specific  sales  volume  or  market  penetration.    We  may  establish  another franchise or company-owned location in the Territory if you fail to comply with the Franchise Agreement. Except as disclosed in Item 12, no other circumstances permit us to modify your territorial rights.",
+    "match_scores": {
+      "full": 87.5,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.70098039215686
+    },
+    "page_number": 34,
+    "node_index": 324,
+    "start_node_index": 324,
+    "end_node_index": 335,
+    "start_page": 34,
+    "end_page": 36,
+    "alignment_score": 0.9901960784313726,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "TRADEMARKS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.98366013071895
+    },
+    "page_number": 36,
+    "node_index": 336,
+    "start_node_index": 336,
+    "end_node_index": 347,
+    "start_page": 36,
+    "end_page": 37,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 90.38461538461539,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 50.175967823026646
+    },
+    "page_number": 37,
+    "node_index": 348,
+    "start_node_index": 348,
+    "end_node_index": 358,
+    "start_page": 37,
+    "end_page": 38,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.98366013071895
+    },
+    "page_number": 38,
+    "node_index": 359,
+    "start_node_index": 359,
+    "end_node_index": 365,
+    "start_page": 38,
+    "end_page": 39,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.99183006535948
+    },
+    "page_number": 39,
+    "node_index": 366,
+    "start_node_index": 366,
+    "end_node_index": 1507,
+    "start_page": 39,
+    "end_page": 177,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 67.85056446821153
+    },
+    "page_number": 177,
+    "node_index": 1508,
+    "start_node_index": 1508,
+    "end_node_index": 1709,
+    "start_page": 177,
+    "end_page": 197,
+    "alignment_score": 0.29738562091503273,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ronis_Mac_Bar_Franchising_LLC_FDD_2024_ID637310.pdf-610f18cc-07ec-4617-92cb-1ab2010214f7\\19d3ad1c-715b-4db3-8a10-87aaee097e1e_origin.pdf"
+  }
+]

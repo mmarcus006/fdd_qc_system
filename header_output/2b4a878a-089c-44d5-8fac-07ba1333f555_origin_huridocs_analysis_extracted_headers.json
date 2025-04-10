@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.80255776851423
+    },
+    "page_number": 8,
+    "node_index": 62,
+    "start_node_index": 62,
+    "end_node_index": 117,
+    "start_page": 8,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.0566037735849
+    },
+    "page_number": 13,
+    "node_index": 118,
+    "start_node_index": 118,
+    "end_node_index": 137,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 14,
+    "node_index": 138,
+    "start_node_index": 138,
+    "end_node_index": 157,
+    "start_page": 14,
+    "end_page": 16,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 16,
+    "node_index": 158,
+    "start_node_index": 158,
+    "end_node_index": 168,
+    "start_page": 16,
+    "end_page": 16,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "3. ITEM 5:  INITIAL FEE",
+    "match_scores": {
+      "full": 90.47619047619048,
+      "label": 100,
+      "keywords": 100.0,
+      "final": 98.16293183940243
+    },
+    "page_number": 69,
+    "node_index": 616,
+    "start_node_index": 616,
+    "end_node_index": 2367,
+    "start_page": 69,
+    "end_page": 260,
+    "alignment_score": 0.5849673202614378,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 16,
+    "node_index": 169,
+    "start_node_index": 169,
+    "end_node_index": 190,
+    "start_page": 16,
+    "end_page": 22,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.27943477860629
+    },
+    "page_number": 22,
+    "node_index": 191,
+    "start_node_index": 191,
+    "end_node_index": 222,
+    "start_page": 22,
+    "end_page": 25,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 25,
+    "node_index": 223,
+    "start_node_index": 223,
+    "end_node_index": 246,
+    "start_page": 25,
+    "end_page": 27,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 27,
+    "node_index": 247,
+    "start_node_index": 247,
+    "end_node_index": 252,
+    "start_page": 27,
+    "end_page": 28,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 28,
+    "node_index": 253,
+    "start_node_index": 253,
+    "end_node_index": 254,
+    "start_page": 28,
+    "end_page": 28,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6597007223942
+    },
+    "page_number": 28,
+    "node_index": 255,
+    "start_node_index": 255,
+    "end_node_index": 345,
+    "start_page": 28,
+    "end_page": 36,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 36,
+    "node_index": 346,
+    "start_node_index": 346,
+    "end_node_index": 370,
+    "start_page": 36,
+    "end_page": 38,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 38,
+    "node_index": 371,
+    "start_node_index": 371,
+    "end_node_index": 385,
+    "start_page": 38,
+    "end_page": 40,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10714285714286
+    },
+    "page_number": 40,
+    "node_index": 386,
+    "start_node_index": 386,
+    "end_node_index": 398,
+    "start_page": 40,
+    "end_page": 41,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISED BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.35866013071896
+    },
+    "page_number": 41,
+    "node_index": 399,
+    "start_node_index": 399,
+    "end_node_index": 405,
+    "start_page": 41,
+    "end_page": 42,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.50746965452848
+    },
+    "page_number": 42,
+    "node_index": 406,
+    "start_node_index": 406,
+    "end_node_index": 412,
+    "start_page": 42,
+    "end_page": 42,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.18537845245625
+    },
+    "page_number": 42,
+    "node_index": 413,
+    "start_node_index": 413,
+    "end_node_index": 425,
+    "start_page": 42,
+    "end_page": 45,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.88071895424837
+    },
+    "page_number": 45,
+    "node_index": 426,
+    "start_node_index": 426,
+    "end_node_index": 427,
+    "start_page": 45,
+    "end_page": 45,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.44237951590894
+    },
+    "page_number": 45,
+    "node_index": 428,
+    "start_node_index": 428,
+    "end_node_index": 470,
+    "start_page": 45,
+    "end_page": 50,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.41176470588235
+    },
+    "page_number": 50,
+    "node_index": 471,
+    "start_node_index": 471,
+    "end_node_index": 501,
+    "start_page": 50,
+    "end_page": 56,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10646714826282
+    },
+    "page_number": 56,
+    "node_index": 502,
+    "start_node_index": 502,
+    "end_node_index": 503,
+    "start_page": 56,
+    "end_page": 56,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 56,
+    "node_index": 504,
+    "start_node_index": 504,
+    "end_node_index": 505,
+    "start_page": 56,
+    "end_page": 56,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.47667855020796
+    },
+    "page_number": 56,
+    "node_index": 506,
+    "start_node_index": 506,
+    "end_node_index": 615,
+    "start_page": 56,
+    "end_page": 69,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\ABCSP_LLC_FDD_2024_ID636213.pdf-1b71baad-d4c4-4b66-98e4-4953a3f55908\\2b4a878a-089c-44d5-8fac-07ba1333f555_origin.pdf"
+  }
+]

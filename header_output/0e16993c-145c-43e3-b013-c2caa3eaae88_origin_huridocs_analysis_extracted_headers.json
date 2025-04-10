@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1. THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 97.67441860465117,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.76367989056088
+    },
+    "page_number": 9,
+    "node_index": 80,
+    "start_node_index": 80,
+    "end_node_index": 99,
+    "start_page": 9,
+    "end_page": 11,
+    "alignment_score": 0.9852941176470589,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.85239651416123
+    },
+    "page_number": 11,
+    "node_index": 100,
+    "start_node_index": 100,
+    "end_node_index": 122,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.5408496732026145,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.37091503267975
+    },
+    "page_number": 12,
+    "node_index": 123,
+    "start_node_index": 123,
+    "end_node_index": 124,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.4297385620915033,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.46895424836602
+    },
+    "page_number": 12,
+    "node_index": 125,
+    "start_node_index": 125,
+    "end_node_index": 126,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.44934640522875813,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.69771241830065
+    },
+    "page_number": 12,
+    "node_index": 127,
+    "start_node_index": 127,
+    "end_node_index": 143,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 0.4395424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.43627450980392
+    },
+    "page_number": 14,
+    "node_index": 144,
+    "start_node_index": 144,
+    "end_node_index": 164,
+    "start_page": 14,
+    "end_page": 19,
+    "alignment_score": 0.44281045751633985,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 97.22222222222223,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.72385620915033
+    },
+    "page_number": 19,
+    "node_index": 165,
+    "start_node_index": 165,
+    "end_node_index": 199,
+    "start_page": 19,
+    "end_page": 22,
+    "alignment_score": 0.6225490196078431,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.41269841269842
+    },
+    "page_number": 22,
+    "node_index": 200,
+    "start_node_index": 200,
+    "end_node_index": 220,
+    "start_page": 22,
+    "end_page": 25,
+    "alignment_score": 0.8611111111111112,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.84885620915033
+    },
+    "page_number": 25,
+    "node_index": 221,
+    "start_node_index": 221,
+    "end_node_index": 226,
+    "start_page": 25,
+    "end_page": 26,
+    "alignment_score": 0.5947712418300654,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.35457516339869
+    },
+    "page_number": 26,
+    "node_index": 227,
+    "start_node_index": 227,
+    "end_node_index": 228,
+    "start_page": 26,
+    "end_page": 26,
+    "alignment_score": 0.42647058823529416,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11. FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS, AND TRAINING",
+    "match_scores": {
+      "full": 97.40259740259741,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56240981240981
+    },
+    "page_number": 26,
+    "node_index": 229,
+    "start_node_index": 229,
+    "end_node_index": 337,
+    "start_page": 26,
+    "end_page": 37,
+    "alignment_score": 0.9722222222222222,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.37908496732027
+    },
+    "page_number": 37,
+    "node_index": 338,
+    "start_node_index": 338,
+    "end_node_index": 366,
+    "start_page": 37,
+    "end_page": 40,
+    "alignment_score": 0.43137254901960786,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.63966288269694
+    },
+    "page_number": 40,
+    "node_index": 367,
+    "start_node_index": 367,
+    "end_node_index": 382,
+    "start_page": 40,
+    "end_page": 42,
+    "alignment_score": 0.45424836601307195,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.3875128998968
+    },
+    "page_number": 42,
+    "node_index": 383,
+    "start_node_index": 383,
+    "end_node_index": 389,
+    "start_page": 42,
+    "end_page": 43,
+    "alignment_score": 0.8529411764705882,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.97467320261438
+    },
+    "page_number": 43,
+    "node_index": 390,
+    "start_node_index": 390,
+    "end_node_index": 395,
+    "start_page": 43,
+    "end_page": 43,
+    "alignment_score": 0.9199346405228759,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.0925514860032
+    },
+    "page_number": 43,
+    "node_index": 396,
+    "start_node_index": 396,
+    "end_node_index": 404,
+    "start_page": 43,
+    "end_page": 44,
+    "alignment_score": 0.8071895424836601,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.78151260504202
+    },
+    "page_number": 44,
+    "node_index": 405,
+    "start_node_index": 405,
+    "end_node_index": 430,
+    "start_page": 44,
+    "end_page": 50,
+    "alignment_score": 0.9150326797385621,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.21170787155442
+    },
+    "page_number": 50,
+    "node_index": 431,
+    "start_node_index": 431,
+    "end_node_index": 432,
+    "start_page": 50,
+    "end_page": 50,
+    "alignment_score": 0.4771241830065359,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19. FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 97.82608695652173,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.66304347826087
+    },
+    "page_number": 50,
+    "node_index": 433,
+    "start_node_index": 433,
+    "end_node_index": 455,
+    "start_page": 50,
+    "end_page": 53,
+    "alignment_score": 0.75,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20. OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 97.67441860465117,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.39113087095303
+    },
+    "page_number": 53,
+    "node_index": 456,
+    "start_node_index": 456,
+    "end_node_index": 477,
+    "start_page": 53,
+    "end_page": 55,
+    "alignment_score": 0.7107843137254901,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.02913004282173
+    },
+    "page_number": 55,
+    "node_index": 478,
+    "start_node_index": 478,
+    "end_node_index": 482,
+    "start_page": 55,
+    "end_page": 56,
+    "alignment_score": 0.5506535947712419,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22. CONTRACTS",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.41176470588236
+    },
+    "page_number": 56,
+    "node_index": 483,
+    "start_node_index": 483,
+    "end_node_index": 2134,
+    "start_page": 56,
+    "end_page": 233,
+    "alignment_score": 0.43790849673202614,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPT",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.02369281045752
+    },
+    "page_number": 233,
+    "node_index": 2135,
+    "start_node_index": 2135,
+    "end_node_index": 2155,
+    "start_page": 233,
+    "end_page": 234,
+    "alignment_score": 0.4297385620915033,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pvolve_Development_LLC_FDD_2024_ID.pdf-24ea170b-793c-4a8d-baf0-75e24c0e93c9\\0e16993c-145c-43e3-b013-c2caa3eaae88_origin.pdf"
+  }
+]

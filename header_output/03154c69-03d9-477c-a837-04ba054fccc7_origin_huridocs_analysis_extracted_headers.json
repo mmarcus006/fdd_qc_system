@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.19000933706818
+    },
+    "page_number": 8,
+    "node_index": 67,
+    "start_node_index": 67,
+    "end_node_index": 107,
+    "start_page": 8,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04843383894438
+    },
+    "page_number": 11,
+    "node_index": 108,
+    "start_node_index": 108,
+    "end_node_index": 115,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 11,
+    "node_index": 116,
+    "start_node_index": 116,
+    "end_node_index": 117,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 11,
+    "node_index": 118,
+    "start_node_index": 118,
+    "end_node_index": 122,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7097787833082
+    },
+    "page_number": 12,
+    "node_index": 123,
+    "start_node_index": 123,
+    "end_node_index": 142,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 14,
+    "node_index": 143,
+    "start_node_index": 143,
+    "end_node_index": 177,
+    "start_page": 14,
+    "end_page": 20,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.80974708724071
+    },
+    "page_number": 20,
+    "node_index": 178,
+    "start_node_index": 178,
+    "end_node_index": 245,
+    "start_page": 20,
+    "end_page": 29,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 29,
+    "node_index": 246,
+    "start_node_index": 246,
+    "end_node_index": 287,
+    "start_page": 29,
+    "end_page": 33,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 33,
+    "node_index": 288,
+    "start_node_index": 288,
+    "end_node_index": 297,
+    "start_page": 33,
+    "end_page": 35,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 35,
+    "node_index": 298,
+    "start_node_index": 298,
+    "end_node_index": 307,
+    "start_page": 35,
+    "end_page": 36,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.67604059167526
+    },
+    "page_number": 36,
+    "node_index": 308,
+    "start_node_index": 308,
+    "end_node_index": 376,
+    "start_page": 36,
+    "end_page": 43,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 43,
+    "node_index": 377,
+    "start_node_index": 377,
+    "end_node_index": 400,
+    "start_page": 43,
+    "end_page": 45,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64047871400813
+    },
+    "page_number": 45,
+    "node_index": 401,
+    "start_node_index": 401,
+    "end_node_index": 412,
+    "start_page": 45,
+    "end_page": 46,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09080298786182
+    },
+    "page_number": 46,
+    "node_index": 413,
+    "start_node_index": 413,
+    "end_node_index": 418,
+    "start_page": 46,
+    "end_page": 47,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.67736465655445
+    },
+    "page_number": 47,
+    "node_index": 419,
+    "start_node_index": 419,
+    "end_node_index": 421,
+    "start_page": 47,
+    "end_page": 47,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.52380952380952
+    },
+    "page_number": 47,
+    "node_index": 422,
+    "start_node_index": 422,
+    "end_node_index": 426,
+    "start_page": 47,
+    "end_page": 48,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION The Franchise Relationship Under a Single Unit Franchise Agreement",
+    "match_scores": {
+      "full": 87.5,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.74183006535948
+    },
+    "page_number": 48,
+    "node_index": 427,
+    "start_node_index": 427,
+    "end_node_index": 455,
+    "start_page": 48,
+    "end_page": 55,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.87254901960785
+    },
+    "page_number": 55,
+    "node_index": 456,
+    "start_node_index": 456,
+    "end_node_index": 460,
+    "start_page": 55,
+    "end_page": 56,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.45054945054946
+    },
+    "page_number": 56,
+    "node_index": 461,
+    "start_node_index": 461,
+    "end_node_index": 466,
+    "start_page": 56,
+    "end_page": 57,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION TABLE NO. 1 SYSTEMWIDE OUTLET SUMMARY FOR YEARS 2021 to 2023",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.54463574047506
+    },
+    "page_number": 57,
+    "node_index": 467,
+    "start_node_index": 467,
+    "end_node_index": 507,
+    "start_page": 57,
+    "end_page": 65,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.12280701754386
+    },
+    "page_number": 65,
+    "node_index": 508,
+    "start_node_index": 508,
+    "end_node_index": 509,
+    "start_page": 65,
+    "end_page": 65,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.57142857142857
+    },
+    "page_number": 65,
+    "node_index": 510,
+    "start_node_index": 510,
+    "end_node_index": 518,
+    "start_page": 65,
+    "end_page": 66,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46850861556744
+    },
+    "page_number": 66,
+    "node_index": 519,
+    "start_node_index": 519,
+    "end_node_index": 2511,
+    "start_page": 66,
+    "end_page": 276,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CWE_American_LLC_FDD_2024_ID636445.pdf-c4a171a7-7f69-4668-899b-6559e7272cb5\\03154c69-03d9-477c-a837-04ba054fccc7_origin.pdf"
+  }
+]

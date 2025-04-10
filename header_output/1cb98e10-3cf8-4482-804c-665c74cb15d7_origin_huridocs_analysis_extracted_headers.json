@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 9,
+    "node_index": 60,
+    "start_node_index": 60,
+    "end_node_index": 94,
+    "start_page": 9,
+    "end_page": 12,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 12,
+    "node_index": 95,
+    "start_node_index": 95,
+    "end_node_index": 104,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 13,
+    "node_index": 105,
+    "start_node_index": 105,
+    "end_node_index": 108,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 13,
+    "node_index": 109,
+    "start_node_index": 109,
+    "end_node_index": 111,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 13,
+    "node_index": 112,
+    "start_node_index": 112,
+    "end_node_index": 134,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 14,
+    "node_index": 135,
+    "start_node_index": 135,
+    "end_node_index": 150,
+    "start_page": 14,
+    "end_page": 18,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.29577464788733
+    },
+    "page_number": 18,
+    "node_index": 151,
+    "start_node_index": 151,
+    "end_node_index": 182,
+    "start_page": 18,
+    "end_page": 24,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.5332096802685
+    },
+    "page_number": 24,
+    "node_index": 183,
+    "start_node_index": 183,
+    "end_node_index": 199,
+    "start_page": 24,
+    "end_page": 25,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9 FRANCHISEE'S OBLIGATIONS",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.18183940242764
+    },
+    "page_number": 25,
+    "node_index": 200,
+    "start_node_index": 200,
+    "end_node_index": 210,
+    "start_page": 25,
+    "end_page": 28,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 28,
+    "node_index": 211,
+    "start_node_index": 211,
+    "end_node_index": 215,
+    "start_page": 28,
+    "end_page": 29,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 29,
+    "node_index": 216,
+    "start_node_index": 216,
+    "end_node_index": 285,
+    "start_page": 29,
+    "end_page": 34,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 34,
+    "node_index": 286,
+    "start_node_index": 286,
+    "end_node_index": 324,
+    "start_page": 34,
+    "end_page": 38,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64047871400813
+    },
+    "page_number": 38,
+    "node_index": 325,
+    "start_node_index": 325,
+    "end_node_index": 345,
+    "start_page": 38,
+    "end_page": 43,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 43,
+    "node_index": 346,
+    "start_node_index": 346,
+    "end_node_index": 376,
+    "start_page": 43,
+    "end_page": 47,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 47,
+    "node_index": 377,
+    "start_node_index": 377,
+    "end_node_index": 379,
+    "start_page": 47,
+    "end_page": 47,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 47,
+    "node_index": 380,
+    "start_node_index": 380,
+    "end_node_index": 402,
+    "start_page": 47,
+    "end_page": 53,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17 Renewal, Termination, Transfer And Dispute Resolution",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.01380982500527
+    },
+    "page_number": 68,
+    "node_index": 538,
+    "start_node_index": 538,
+    "end_node_index": 1756,
+    "start_page": 68,
+    "end_page": 218,
+    "alignment_score": 0.9640522875816994,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.86437908496731
+    },
+    "page_number": 53,
+    "node_index": 403,
+    "start_node_index": 403,
+    "end_node_index": 405,
+    "start_page": 53,
+    "end_page": 54,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 54,
+    "node_index": 406,
+    "start_node_index": 406,
+    "end_node_index": 408,
+    "start_page": 54,
+    "end_page": 54,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 54,
+    "node_index": 409,
+    "start_node_index": 409,
+    "end_node_index": 443,
+    "start_page": 54,
+    "end_page": 61,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10646714826282
+    },
+    "page_number": 61,
+    "node_index": 444,
+    "start_node_index": 444,
+    "end_node_index": 445,
+    "start_page": 61,
+    "end_page": 61,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 61,
+    "node_index": 446,
+    "start_node_index": 446,
+    "end_node_index": 450,
+    "start_page": 61,
+    "end_page": 61,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 61,
+    "node_index": 451,
+    "start_node_index": 451,
+    "end_node_index": 537,
+    "start_page": 61,
+    "end_page": 68,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Ram_Jack_Systems_Distribution_LLC_FDD_2024_ID637183.pdf-467b65a6-1bc8-4f62-8afb-e9141ee0fc0e\\1cb98e10-3cf8-4482-804c-665c74cb15d7_origin.pdf"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM  1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.76987802995214
+    },
+    "page_number": 8,
+    "node_index": 60,
+    "start_node_index": 60,
+    "end_node_index": 85,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9901960784313726,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM  2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.81804168208163
+    },
+    "page_number": 10,
+    "node_index": 86,
+    "start_node_index": 86,
+    "end_node_index": 98,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.5522875816993464,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM  3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.8671802054155
+    },
+    "page_number": 11,
+    "node_index": 99,
+    "start_node_index": 99,
+    "end_node_index": 125,
+    "start_page": 11,
+    "end_page": 13,
+    "alignment_score": 0.45915032679738566,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM  4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93253968253968
+    },
+    "page_number": 13,
+    "node_index": 126,
+    "start_node_index": 126,
+    "end_node_index": 127,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 0.4722222222222222,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM  5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.05455002513825
+    },
+    "page_number": 13,
+    "node_index": 128,
+    "start_node_index": 128,
+    "end_node_index": 136,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.4673202614379085,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM  6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.85901027077497
+    },
+    "page_number": 14,
+    "node_index": 137,
+    "start_node_index": 137,
+    "end_node_index": 199,
+    "start_page": 14,
+    "end_page": 21,
+    "alignment_score": 0.4575163398692811,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM  7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.55557856945596
+    },
+    "page_number": 21,
+    "node_index": 200,
+    "start_node_index": 200,
+    "end_node_index": 220,
+    "start_page": 21,
+    "end_page": 23,
+    "alignment_score": 0.6519607843137255,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM  8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.89595477830771
+    },
+    "page_number": 23,
+    "node_index": 221,
+    "start_node_index": 221,
+    "end_node_index": 231,
+    "start_page": 23,
+    "end_page": 24,
+    "alignment_score": 0.869281045751634,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM  9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.65826330532214
+    },
+    "page_number": 24,
+    "node_index": 232,
+    "start_node_index": 232,
+    "end_node_index": 237,
+    "start_page": 24,
+    "end_page": 25,
+    "alignment_score": 0.607843137254902,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM  10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.80999066293184
+    },
+    "page_number": 25,
+    "node_index": 238,
+    "start_node_index": 238,
+    "end_node_index": 248,
+    "start_page": 25,
+    "end_page": 26,
+    "alignment_score": 0.44771241830065356,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM  11 FRANCHISOR’S  ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6597007223942
+    },
+    "page_number": 26,
+    "node_index": 249,
+    "start_node_index": 249,
+    "end_node_index": 358,
+    "start_page": 26,
+    "end_page": 34,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM  12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.82633053221288
+    },
+    "page_number": 34,
+    "node_index": 359,
+    "start_node_index": 359,
+    "end_node_index": 398,
+    "start_page": 34,
+    "end_page": 36,
+    "alignment_score": 0.4509803921568627,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM  13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.00975975975976
+    },
+    "page_number": 36,
+    "node_index": 399,
+    "start_node_index": 399,
+    "end_node_index": 412,
+    "start_page": 36,
+    "end_page": 38,
+    "alignment_score": 0.4722222222222222,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM  14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46171802054155
+    },
+    "page_number": 38,
+    "node_index": 413,
+    "start_node_index": 413,
+    "end_node_index": 415,
+    "start_page": 38,
+    "end_page": 38,
+    "alignment_score": 0.8709150326797386,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM  15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.66102478727339
+    },
+    "page_number": 38,
+    "node_index": 416,
+    "start_node_index": 416,
+    "end_node_index": 425,
+    "start_page": 38,
+    "end_page": 39,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM  16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.67413632119514
+    },
+    "page_number": 39,
+    "node_index": 426,
+    "start_node_index": 426,
+    "end_node_index": 427,
+    "start_page": 39,
+    "end_page": 39,
+    "alignment_score": 0.8300653594771241,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM  17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.85858106683533
+    },
+    "page_number": 39,
+    "node_index": 428,
+    "start_node_index": 428,
+    "end_node_index": 441,
+    "start_page": 39,
+    "end_page": 43,
+    "alignment_score": 0.9330065359477124,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM  18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.38071895424837
+    },
+    "page_number": 43,
+    "node_index": 442,
+    "start_node_index": 442,
+    "end_node_index": 443,
+    "start_page": 43,
+    "end_page": 43,
+    "alignment_score": 0.49836601307189543,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM  19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.30675860087625
+    },
+    "page_number": 43,
+    "node_index": 444,
+    "start_node_index": 444,
+    "end_node_index": 446,
+    "start_page": 43,
+    "end_page": 43,
+    "alignment_score": 0.7712418300653595,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM  20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.05555555555556
+    },
+    "page_number": 43,
+    "node_index": 447,
+    "start_node_index": 447,
+    "end_node_index": 471,
+    "start_page": 43,
+    "end_page": 48,
+    "alignment_score": 0.7287581699346406,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM  21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.98228414172686
+    },
+    "page_number": 48,
+    "node_index": 472,
+    "start_node_index": 472,
+    "end_node_index": 473,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.5718954248366013,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM  22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.85084033613445
+    },
+    "page_number": 48,
+    "node_index": 474,
+    "start_node_index": 474,
+    "end_node_index": 1560,
+    "start_page": 48,
+    "end_page": 200,
+    "alignment_score": 0.4558823529411765,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Receipts",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.97549019607843
+    },
+    "page_number": 200,
+    "node_index": 1561,
+    "start_node_index": 1561,
+    "end_node_index": 1578,
+    "start_page": 200,
+    "end_page": 202,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Realty_Executives_Intl_SVCS_LLC_FDD_2024_ID636154.pdf-db1fc7e1-84dc-4653-8f00-9a9ce5e5e266\\09a417f6-d57b-43c3-ab2c-3e10b6c74272_origin.pdf"
+  }
+]

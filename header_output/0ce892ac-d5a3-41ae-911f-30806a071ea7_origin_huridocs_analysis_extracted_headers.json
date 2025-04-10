@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.81072770315475
+    },
+    "page_number": 7,
+    "node_index": 45,
+    "start_node_index": 45,
+    "end_node_index": 59,
+    "start_page": 7,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 60,
+    "start_node_index": 60,
+    "end_node_index": 71,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 8,
+    "node_index": 72,
+    "start_node_index": 72,
+    "end_node_index": 74,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 8,
+    "node_index": 75,
+    "start_node_index": 75,
+    "end_node_index": 77,
+    "start_page": 8,
+    "end_page": 8,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 8,
+    "node_index": 78,
+    "start_node_index": 78,
+    "end_node_index": 86,
+    "start_page": 8,
+    "end_page": 9,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 9,
+    "node_index": 87,
+    "start_node_index": 87,
+    "end_node_index": 93,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.82608695652175
+    },
+    "page_number": 10,
+    "node_index": 94,
+    "start_node_index": 94,
+    "end_node_index": 114,
+    "start_page": 10,
+    "end_page": 12,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 12,
+    "node_index": 115,
+    "start_node_index": 115,
+    "end_node_index": 126,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 14,
+    "node_index": 127,
+    "start_node_index": 127,
+    "end_node_index": 133,
+    "start_page": 14,
+    "end_page": 15,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 15,
+    "node_index": 134,
+    "start_node_index": 134,
+    "end_node_index": 136,
+    "start_page": 15,
+    "end_page": 15,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 15,
+    "node_index": 137,
+    "start_node_index": 137,
+    "end_node_index": 195,
+    "start_page": 15,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 21,
+    "node_index": 196,
+    "start_node_index": 196,
+    "end_node_index": 206,
+    "start_page": 21,
+    "end_page": 22,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 22,
+    "node_index": 207,
+    "start_node_index": 207,
+    "end_node_index": 218,
+    "start_page": 22,
+    "end_page": 23,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 23,
+    "node_index": 219,
+    "start_node_index": 219,
+    "end_node_index": 226,
+    "start_page": 23,
+    "end_page": 23,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 23,
+    "node_index": 227,
+    "start_node_index": 227,
+    "end_node_index": 233,
+    "start_page": 23,
+    "end_page": 24,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 24,
+    "node_index": 234,
+    "start_node_index": 234,
+    "end_node_index": 236,
+    "start_page": 24,
+    "end_page": 24,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 24,
+    "node_index": 237,
+    "start_node_index": 237,
+    "end_node_index": 247,
+    "start_page": 24,
+    "end_page": 26,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.88071895424837
+    },
+    "page_number": 26,
+    "node_index": 248,
+    "start_node_index": 248,
+    "end_node_index": 249,
+    "start_page": 26,
+    "end_page": 26,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 26,
+    "node_index": 250,
+    "start_node_index": 250,
+    "end_node_index": 255,
+    "start_page": 26,
+    "end_page": 27,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 LIST OF OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.55280567511558
+    },
+    "page_number": 27,
+    "node_index": 256,
+    "start_node_index": 256,
+    "end_node_index": 285,
+    "start_page": 27,
+    "end_page": 32,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 32,
+    "node_index": 286,
+    "start_node_index": 286,
+    "end_node_index": 288,
+    "start_page": 32,
+    "end_page": 32,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 32,
+    "node_index": 289,
+    "start_node_index": 289,
+    "end_node_index": 291,
+    "start_page": 32,
+    "end_page": 32,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 32,
+    "node_index": 292,
+    "start_node_index": 292,
+    "end_node_index": 1029,
+    "start_page": 32,
+    "end_page": 99,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Groutsmith_Franchising_Inc_FDD_2024_ID636770.pdf-ecafd2d7-68ff-4bbd-819d-c37f95c8ddf8\\0ce892ac-d5a3-41ae-911f-30806a071ea7_origin.pdf"
+  }
+]

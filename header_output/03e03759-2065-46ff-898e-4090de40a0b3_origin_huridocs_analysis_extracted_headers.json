@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 9,
+    "node_index": 82,
+    "start_node_index": 82,
+    "end_node_index": 113,
+    "start_page": 9,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04843383894438
+    },
+    "page_number": 12,
+    "node_index": 114,
+    "start_node_index": 114,
+    "end_node_index": 133,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 13,
+    "node_index": 134,
+    "start_node_index": 134,
+    "end_node_index": 136,
+    "start_page": 13,
+    "end_page": 13,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.9673202614379
+    },
+    "page_number": 13,
+    "node_index": 137,
+    "start_node_index": 137,
+    "end_node_index": 141,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 14,
+    "node_index": 142,
+    "start_node_index": 142,
+    "end_node_index": 173,
+    "start_page": 14,
+    "end_page": 17,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 17,
+    "node_index": 174,
+    "start_node_index": 174,
+    "end_node_index": 212,
+    "start_page": 17,
+    "end_page": 22,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 22,
+    "node_index": 213,
+    "start_node_index": 213,
+    "end_node_index": 236,
+    "start_page": 22,
+    "end_page": 25,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 25,
+    "node_index": 237,
+    "start_node_index": 237,
+    "end_node_index": 269,
+    "start_page": 25,
+    "end_page": 28,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 28,
+    "node_index": 270,
+    "start_node_index": 270,
+    "end_node_index": 278,
+    "start_page": 28,
+    "end_page": 30,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 30,
+    "node_index": 279,
+    "start_node_index": 279,
+    "end_node_index": 322,
+    "start_page": 30,
+    "end_page": 36,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 36,
+    "node_index": 323,
+    "start_node_index": 323,
+    "end_node_index": 398,
+    "start_page": 36,
+    "end_page": 44,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 44,
+    "node_index": 399,
+    "start_node_index": 399,
+    "end_node_index": 417,
+    "start_page": 44,
+    "end_page": 46,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 46,
+    "node_index": 418,
+    "start_node_index": 418,
+    "end_node_index": 433,
+    "start_page": 46,
+    "end_page": 48,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 48,
+    "node_index": 434,
+    "start_node_index": 434,
+    "end_node_index": 442,
+    "start_page": 48,
+    "end_page": 49,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 49,
+    "node_index": 443,
+    "start_node_index": 443,
+    "end_node_index": 447,
+    "start_page": 49,
+    "end_page": 49,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 49,
+    "node_index": 448,
+    "start_node_index": 448,
+    "end_node_index": 454,
+    "start_page": 49,
+    "end_page": 50,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.32278669043374
+    },
+    "page_number": 50,
+    "node_index": 455,
+    "start_node_index": 455,
+    "end_node_index": 472,
+    "start_page": 50,
+    "end_page": 54,
+    "alignment_score": 0.9918300653594772,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 54,
+    "node_index": 473,
+    "start_node_index": 473,
+    "end_node_index": 475,
+    "start_page": 54,
+    "end_page": 54,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 54,
+    "node_index": 476,
+    "start_node_index": 476,
+    "end_node_index": 541,
+    "start_page": 54,
+    "end_page": 63,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 63,
+    "node_index": 542,
+    "start_node_index": 542,
+    "end_node_index": 588,
+    "start_page": 63,
+    "end_page": 69,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 69,
+    "node_index": 589,
+    "start_node_index": 589,
+    "end_node_index": 591,
+    "start_page": 69,
+    "end_page": 69,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33095662507426
+    },
+    "page_number": 69,
+    "node_index": 592,
+    "start_node_index": 592,
+    "end_node_index": 607,
+    "start_page": 69,
+    "end_page": 69,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 69,
+    "node_index": 608,
+    "start_node_index": 608,
+    "end_node_index": 2493,
+    "start_page": 69,
+    "end_page": 273,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\SPRING_GREEN_LAWN_CARE_CORP_FDD_2024_ID635486.pdf-3293da23-d20c-4a6b-8cce-be6bafeeea01\\03e03759-2065-46ff-898e-4090de40a0b3_origin.pdf"
+  }
+]

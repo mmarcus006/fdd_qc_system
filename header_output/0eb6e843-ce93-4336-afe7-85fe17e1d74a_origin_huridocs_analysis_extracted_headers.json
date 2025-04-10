@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1. THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 96.875,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.11887254901961
+    },
+    "page_number": 8,
+    "node_index": 61,
+    "start_node_index": 61,
+    "end_node_index": 89,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9362745098039216,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.03213507625273
+    },
+    "page_number": 10,
+    "node_index": 90,
+    "start_node_index": 90,
+    "end_node_index": 104,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.576797385620915,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.59150326797386
+    },
+    "page_number": 11,
+    "node_index": 105,
+    "start_node_index": 105,
+    "end_node_index": 108,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.4738562091503268,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.68137254901961
+    },
+    "page_number": 12,
+    "node_index": 109,
+    "start_node_index": 109,
+    "end_node_index": 110,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.49183006535947715,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.91830065359477
+    },
+    "page_number": 12,
+    "node_index": 111,
+    "start_node_index": 111,
+    "end_node_index": 119,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.4836601307189542,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.63235294117648
+    },
+    "page_number": 13,
+    "node_index": 120,
+    "start_node_index": 120,
+    "end_node_index": 136,
+    "start_page": 13,
+    "end_page": 15,
+    "alignment_score": 0.4820261437908496,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 97.22222222222223,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.05882352941177
+    },
+    "page_number": 15,
+    "node_index": 137,
+    "start_node_index": 137,
+    "end_node_index": 237,
+    "start_page": 15,
+    "end_page": 25,
+    "alignment_score": 0.6895424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS & SERVICES",
+    "match_scores": {
+      "full": 95.14563106796116,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.05810965162765
+    },
+    "page_number": 25,
+    "node_index": 238,
+    "start_node_index": 238,
+    "end_node_index": 264,
+    "start_page": 25,
+    "end_page": 29,
+    "alignment_score": 0.8970588235294118,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.1266339869281
+    },
+    "page_number": 29,
+    "node_index": 265,
+    "start_node_index": 265,
+    "end_node_index": 269,
+    "start_page": 29,
+    "end_page": 30,
+    "alignment_score": 0.6503267973856209,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.56699346405229
+    },
+    "page_number": 30,
+    "node_index": 270,
+    "start_node_index": 270,
+    "end_node_index": 271,
+    "start_page": 30,
+    "end_page": 30,
+    "alignment_score": 0.46895424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11. FRANCHISOR’S ASSISTANCE, ADVERTISING COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 96.05263157894737,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.01814585483316
+    },
+    "page_number": 30,
+    "node_index": 272,
+    "start_node_index": 272,
+    "end_node_index": 357,
+    "start_page": 30,
+    "end_page": 38,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.57516339869282
+    },
+    "page_number": 38,
+    "node_index": 358,
+    "start_node_index": 358,
+    "end_node_index": 397,
+    "start_page": 38,
+    "end_page": 42,
+    "alignment_score": 0.47058823529411764,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.84391124871
+    },
+    "page_number": 42,
+    "node_index": 398,
+    "start_node_index": 398,
+    "end_node_index": 416,
+    "start_page": 42,
+    "end_page": 44,
+    "alignment_score": 0.4950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHT & PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 90.9090909090909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.90715983363042
+    },
+    "page_number": 44,
+    "node_index": 417,
+    "start_node_index": 417,
+    "end_node_index": 423,
+    "start_page": 44,
+    "end_page": 45,
+    "alignment_score": 0.8905228758169934,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.21977124183006
+    },
+    "page_number": 45,
+    "node_index": 424,
+    "start_node_index": 424,
+    "end_node_index": 426,
+    "start_page": 45,
+    "end_page": 45,
+    "alignment_score": 0.9689542483660131,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. THE RESTRICTIONS OF WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 96.22641509433963,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.75373042298682
+    },
+    "page_number": 45,
+    "node_index": 427,
+    "start_node_index": 427,
+    "end_node_index": 431,
+    "start_page": 45,
+    "end_page": 46,
+    "alignment_score": 0.9281045751633987,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 87.5,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.73366013071896
+    },
+    "page_number": 46,
+    "node_index": 432,
+    "start_node_index": 432,
+    "end_node_index": 441,
+    "start_page": 46,
+    "end_page": 48,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.42412617220802
+    },
+    "page_number": 48,
+    "node_index": 442,
+    "start_node_index": 442,
+    "end_node_index": 443,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.5196078431372548,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19. FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 97.82608695652173,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.01435066780336
+    },
+    "page_number": 48,
+    "node_index": 444,
+    "start_node_index": 444,
+    "end_node_index": 468,
+    "start_page": 48,
+    "end_page": 51,
+    "alignment_score": 0.8202614379084967,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20. OUTLETS AND FRANCHISE INFORMATION",
+    "match_scores": {
+      "full": 96.47058823529412,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.19444444444444
+    },
+    "page_number": 51,
+    "node_index": 469,
+    "start_node_index": 469,
+    "end_node_index": 495,
+    "start_page": 51,
+    "end_page": 54,
+    "alignment_score": 0.9918300653594772,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.29056795131847
+    },
+    "page_number": 54,
+    "node_index": 496,
+    "start_node_index": 496,
+    "end_node_index": 497,
+    "start_page": 54,
+    "end_page": 54,
+    "alignment_score": 0.6029411764705883,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22. CONTRACTS",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.61601307189544
+    },
+    "page_number": 54,
+    "node_index": 498,
+    "start_node_index": 498,
+    "end_node_index": 503,
+    "start_page": 54,
+    "end_page": 55,
+    "alignment_score": 0.4787581699346405,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23. RECEIPTS",
+    "match_scores": {
+      "full": 94.11764705882354,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.31372549019608
+    },
+    "page_number": 55,
+    "node_index": 504,
+    "start_node_index": 504,
+    "end_node_index": 1139,
+    "start_page": 55,
+    "end_page": 135,
+    "alignment_score": 0.4509803921568627,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\WIO_Franchising_LLC_FDD_2024_ID637314.pdf-1cba3e42-7c02-4692-8358-3f8bf967133d\\0eb6e843-ce93-4336-afe7-85fe17e1d74a_origin.pdf"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Item 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 99.21259842519684,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.58178940867685
+    },
+    "page_number": 9,
+    "node_index": 81,
+    "start_node_index": 81,
+    "end_node_index": 106,
+    "start_page": 9,
+    "end_page": 12,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "Item 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.04026390430386
+    },
+    "page_number": 12,
+    "node_index": 107,
+    "start_node_index": 107,
+    "end_node_index": 127,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "Item 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 13,
+    "node_index": 128,
+    "start_node_index": 128,
+    "end_node_index": 133,
+    "start_page": 13,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "Item 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 14,
+    "node_index": 134,
+    "start_node_index": 134,
+    "end_node_index": 135,
+    "start_page": 14,
+    "end_page": 14,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.70160884866768
+    },
+    "page_number": 14,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 142,
+    "start_page": 14,
+    "end_page": 15,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "Item 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 15,
+    "node_index": 143,
+    "start_node_index": 143,
+    "end_node_index": 171,
+    "start_page": 15,
+    "end_page": 20,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.82608695652175
+    },
+    "page_number": 20,
+    "node_index": 172,
+    "start_node_index": 172,
+    "end_node_index": 194,
+    "start_page": 20,
+    "end_page": 23,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "Item 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.5332096802685
+    },
+    "page_number": 23,
+    "node_index": 195,
+    "start_node_index": 195,
+    "end_node_index": 211,
+    "start_page": 23,
+    "end_page": 25,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.6108776844071
+    },
+    "page_number": 25,
+    "node_index": 212,
+    "start_node_index": 212,
+    "end_node_index": 220,
+    "start_page": 25,
+    "end_page": 27,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 27,
+    "node_index": 221,
+    "start_node_index": 221,
+    "end_node_index": 222,
+    "start_page": 27,
+    "end_page": 27,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "Item 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEM, AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.67604059167526
+    },
+    "page_number": 27,
+    "node_index": 223,
+    "start_node_index": 223,
+    "end_node_index": 331,
+    "start_page": 27,
+    "end_page": 39,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "Item 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.546918767507
+    },
+    "page_number": 39,
+    "node_index": 332,
+    "start_node_index": 332,
+    "end_node_index": 348,
+    "start_page": 39,
+    "end_page": 41,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "Item 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.6323087793676
+    },
+    "page_number": 41,
+    "node_index": 349,
+    "start_node_index": 349,
+    "end_node_index": 367,
+    "start_page": 41,
+    "end_page": 44,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "Item 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.08263305322129
+    },
+    "page_number": 44,
+    "node_index": 368,
+    "start_node_index": 368,
+    "end_node_index": 373,
+    "start_page": 44,
+    "end_page": 45,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.68553459119497
+    },
+    "page_number": 45,
+    "node_index": 374,
+    "start_node_index": 374,
+    "end_node_index": 375,
+    "start_page": 45,
+    "end_page": 45,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.49112978524742
+    },
+    "page_number": 45,
+    "node_index": 376,
+    "start_node_index": 376,
+    "end_node_index": 380,
+    "start_page": 45,
+    "end_page": 46,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "Item 17 RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP",
+    "match_scores": {
+      "full": 96.72131147540983,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.3524858030644
+    },
+    "page_number": 46,
+    "node_index": 381,
+    "start_node_index": 381,
+    "end_node_index": 397,
+    "start_page": 46,
+    "end_page": 51,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.87254901960785
+    },
+    "page_number": 51,
+    "node_index": 398,
+    "start_node_index": 398,
+    "end_node_index": 399,
+    "start_page": 51,
+    "end_page": 51,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.43420958126842
+    },
+    "page_number": 51,
+    "node_index": 400,
+    "start_node_index": 400,
+    "end_node_index": 472,
+    "start_page": 51,
+    "end_page": 60,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "Item 20 OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 98.82352941176471,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.39542483660131
+    },
+    "page_number": 60,
+    "node_index": 473,
+    "start_node_index": 473,
+    "end_node_index": 507,
+    "start_page": 60,
+    "end_page": 67,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.11463708290334
+    },
+    "page_number": 67,
+    "node_index": 508,
+    "start_node_index": 508,
+    "end_node_index": 512,
+    "start_page": 67,
+    "end_page": 67,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 67,
+    "node_index": 513,
+    "start_node_index": 513,
+    "end_node_index": 515,
+    "start_page": 67,
+    "end_page": 67,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46033868092691
+    },
+    "page_number": 67,
+    "node_index": 516,
+    "start_node_index": 516,
+    "end_node_index": 2222,
+    "start_page": 67,
+    "end_page": 250,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Mosquito_Hunters_LLC_FDD_2024_ID636791.pdf-0b479936-dbc5-4f7f-827f-09010f65ef26\\095fb94a-fa4e-4f2c-a9d2-0f8f976f2004_origin.pdf"
+  }
+]

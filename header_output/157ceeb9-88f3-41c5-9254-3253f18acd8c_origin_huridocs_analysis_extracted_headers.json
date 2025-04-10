@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "Page Item 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS AND AFFILIATES ...................................................................................................................... 8 Item 2 BUSINESS EXPERIENCE ............................................................................................... 12 Item 3 LITIGATION .................................................................................................................... 13 Item 4 BANKRUPTCY ................................................................................................................ 14 Item 5 INITIAL FEES .................................................................................................................. 14 Item 6 OTHER FEES.................................................................................................................... 16 Item 7 ESTIMATED INITIAL INVESTMENT .......................................................................... 23 Item 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES ............................ 27 Item 9 FRANCHISEE’S OBLIGATIONS ................................................................................... 30 Item 10 FINANCING ................................................................................................................... 32 Item 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING........................................................................................... 32 Item 12 TERRITORY ................................................................................................................... 40 Item 13 TRADEMARKS .............................................................................................................. 44 Item 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION.......................... 46 Item 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS ........................................................................................ 46 Item 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL .................................. 47 Item 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION THE FRANCHISE RELATIONSHIP .................................................... 47 Item 18 PUBLIC FIGURES ......................................................................................................... 57 Item 19 FINANCIAL PERFORMANCE REPRESENTATIONS ............................................... 57 Item 20 OUTLETS AND FRANCHISEE INFORMATION ....................................................... 61 Item 21 FINANCIAL STATEMENTS ......................................................................................... 67 Item 22 CONTRACTS ................................................................................................................. 68 Item 23 RECEIPTS ....................................................................................................................... 68",
+    "match_scores": {
+      "full": 84.68468468468468,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 77.33417240770181
+    },
+    "page_number": 7,
+    "node_index": 65,
+    "start_node_index": 65,
+    "end_node_index": 133,
+    "start_page": 7,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "(2) As of the date of this Disclosure Document, Jamie Vokes is primarily responsible for the training program. Jamie has more than 20 years of experience with us, as further described in Item 2.",
+    "match_scores": {
+      "full": 71.42857142857143,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 70.71428571428572
+    },
+    "page_number": 39,
+    "node_index": 328,
+    "start_node_index": 328,
+    "end_node_index": 554,
+    "start_page": 39,
+    "end_page": 70,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "3. Item 3.",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 68.67572786690434
+    },
+    "page_number": 70,
+    "node_index": 555,
+    "start_node_index": 555,
+    "end_node_index": 579,
+    "start_page": 70,
+    "end_page": 72,
+    "alignment_score": 0.4624183006535948,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "BANKRUPTCY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.97549019607843
+    },
+    "page_number": 14,
+    "node_index": 134,
+    "start_node_index": 134,
+    "end_node_index": 327,
+    "start_page": 14,
+    "end_page": 39,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "Item 5.",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 67.80154486036838
+    },
+    "page_number": 72,
+    "node_index": 580,
+    "start_node_index": 580,
+    "end_node_index": 590,
+    "start_page": 72,
+    "end_page": 73,
+    "alignment_score": 0.2875816993464052,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "2. Item 6.",
+    "match_scores": {
+      "full": 57.142857142857146,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 60.88352007469654
+    },
+    "page_number": 73,
+    "node_index": 591,
+    "start_node_index": 591,
+    "end_node_index": 592,
+    "start_page": 73,
+    "end_page": 73,
+    "alignment_score": 0.4624183006535948,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "Item 7 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "“We are the sole supplier of the following products and services necessary for the operation of your Business: (a) Shop Set-Up Services; (b) Technology (including proprietary and other software, modem, printer/printer  accessories) and Computer  Connection Services; (c)  Signs  and  Equipment  that  contain  the  PIRTEK  marks  (including  uniforms,  branded equipment necessary to outfit the MSSUs, printed forms and stationary, promotional items such as caps), and (d) opening and ongoing Inventory requirements (including hydraulic, industrial and specialist hoses; hose fittings, adapters, and accessories). You will pay the then-current price in effect at the time for all products and services you purchase from us and our affiliates. In some cases (and as noted in Item 8), the cost of Inventory and the other products and services referenced above may be higher than the prevailing market price of similar products and services on the market. In other cases, such as with respect to our PIRTEK-branded equipment and materials, we are unable to determine the prevailing market rate as no third-party currently is authorized to distribute our branded equipment and materials.",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.06134878193701
+    },
+    "page_number": 74,
+    "node_index": 600,
+    "start_node_index": 600,
+    "end_node_index": 615,
+    "start_page": 74,
+    "end_page": 76,
+    "alignment_score": 0.9395424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "Item 9 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "Item 10 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "AND",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.967320261437905
+    },
+    "page_number": 147,
+    "node_index": 1191,
+    "start_node_index": 1191,
+    "end_node_index": 1190,
+    "start_page": 147,
+    "end_page": 147,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "TERRITORY",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 55.0
+    },
+    "page_number": 209,
+    "node_index": 1749,
+    "start_node_index": 1749,
+    "end_node_index": 2805,
+    "start_page": 209,
+    "end_page": 312,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "1. Item 13.",
+    "match_scores": {
+      "full": 53.333333333333336,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 59.035947712418306
+    },
+    "page_number": 76,
+    "node_index": 616,
+    "start_node_index": 616,
+    "end_node_index": 1190,
+    "start_page": 76,
+    "end_page": 147,
+    "alignment_score": 0.4738562091503268,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "AND",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.967320261437905
+    },
+    "page_number": 147,
+    "node_index": 1191,
+    "start_node_index": 1191,
+    "end_node_index": 1190,
+    "start_page": 147,
+    "end_page": 147,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "Item 15 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "Item 16 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "3. Item 17.",
+    "match_scores": {
+      "full": 53.333333333333336,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 59.035947712418306
+    },
+    "page_number": 73,
+    "node_index": 593,
+    "start_node_index": 593,
+    "end_node_index": 599,
+    "start_page": 73,
+    "end_page": 74,
+    "alignment_score": 0.4738562091503268,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "Item 18 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "Item 19 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "AND",
+    "match_scores": {
+      "full": 100.0,
+      "label": 0,
+      "keywords": 0.0,
+      "final": 54.967320261437905
+    },
+    "page_number": 147,
+    "node_index": 1191,
+    "start_node_index": 1191,
+    "end_node_index": 1748,
+    "start_page": 147,
+    "end_page": 209,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "Item 21 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "Item 22 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "Item 23 - Not Found",
+    "match_scores": {
+      "full": 0,
+      "label": 0,
+      "keywords": 0,
+      "final": 0
+    },
+    "page_number": null,
+    "node_index": null,
+    "start_node_index": null,
+    "end_node_index": null,
+    "start_page": null,
+    "end_page": null,
+    "alignment_score": 0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pirtek_USA_LLC_FDD_2024_ID635721.pdf-d8c8292c-5a02-426e-ac1b-12cffdc5ec7a\\157ceeb9-88f3-41c5-9254-3253f18acd8c_origin.pdf"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRANCHISOR AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.1981792717087
+    },
+    "page_number": 8,
+    "node_index": 68,
+    "start_node_index": 68,
+    "end_node_index": 87,
+    "start_page": 8,
+    "end_page": 9,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.03209396966332
+    },
+    "page_number": 9,
+    "node_index": 88,
+    "start_node_index": 88,
+    "end_node_index": 95,
+    "start_page": 9,
+    "end_page": 9,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 9,
+    "node_index": 96,
+    "start_node_index": 96,
+    "end_node_index": 99,
+    "start_page": 9,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 10,
+    "node_index": 100,
+    "start_node_index": 100,
+    "end_node_index": 101,
+    "start_page": 10,
+    "end_page": 10,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7097787833082
+    },
+    "page_number": 10,
+    "node_index": 102,
+    "start_node_index": 102,
+    "end_node_index": 114,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 11,
+    "node_index": 115,
+    "start_node_index": 115,
+    "end_node_index": 163,
+    "start_page": 11,
+    "end_page": 17,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.80974708724071
+    },
+    "page_number": 17,
+    "node_index": 164,
+    "start_node_index": 164,
+    "end_node_index": 203,
+    "start_page": 17,
+    "end_page": 21,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.54137961490902
+    },
+    "page_number": 21,
+    "node_index": 204,
+    "start_node_index": 204,
+    "end_node_index": 250,
+    "start_page": 21,
+    "end_page": 25,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.60270774976658
+    },
+    "page_number": 25,
+    "node_index": 251,
+    "start_node_index": 251,
+    "end_node_index": 253,
+    "start_page": 25,
+    "end_page": 25,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 25,
+    "node_index": 254,
+    "start_node_index": 254,
+    "end_node_index": 263,
+    "start_page": 25,
+    "end_page": 27,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.67604059167526
+    },
+    "page_number": 27,
+    "node_index": 264,
+    "start_node_index": 264,
+    "end_node_index": 324,
+    "start_page": 27,
+    "end_page": 32,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 32,
+    "node_index": 325,
+    "start_node_index": 325,
+    "end_node_index": 361,
+    "start_page": 32,
+    "end_page": 35,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64047871400813
+    },
+    "page_number": 35,
+    "node_index": 362,
+    "start_node_index": 362,
+    "end_node_index": 374,
+    "start_page": 35,
+    "end_page": 36,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.09897292250234
+    },
+    "page_number": 36,
+    "node_index": 375,
+    "start_node_index": 375,
+    "end_node_index": 382,
+    "start_page": 36,
+    "end_page": 37,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.68553459119497
+    },
+    "page_number": 37,
+    "node_index": 383,
+    "start_node_index": 383,
+    "end_node_index": 386,
+    "start_page": 37,
+    "end_page": 37,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON PRODUCTS AND SERVICES SOLD",
+    "match_scores": {
+      "full": 64.07766990291262,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 67.02249508217527
+    },
+    "page_number": 37,
+    "node_index": 387,
+    "start_node_index": 387,
+    "end_node_index": 389,
+    "start_page": 37,
+    "end_page": 37,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 37,
+    "node_index": 390,
+    "start_node_index": 390,
+    "end_node_index": 413,
+    "start_page": 37,
+    "end_page": 42,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.87254901960785
+    },
+    "page_number": 42,
+    "node_index": 414,
+    "start_node_index": 414,
+    "end_node_index": 416,
+    "start_page": 42,
+    "end_page": 42,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.44237951590894
+    },
+    "page_number": 42,
+    "node_index": 417,
+    "start_node_index": 417,
+    "end_node_index": 472,
+    "start_page": 42,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION TABLE NO. 1 SYSTEMWIDE OUTLET SUMMARY FOR YEARS 2021 to 2023",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.54463574047506
+    },
+    "page_number": 49,
+    "node_index": 473,
+    "start_node_index": 473,
+    "end_node_index": 499,
+    "start_page": 49,
+    "end_page": 52,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.11463708290334
+    },
+    "page_number": 52,
+    "node_index": 500,
+    "start_node_index": 500,
+    "end_node_index": 505,
+    "start_page": 52,
+    "end_page": 53,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 53,
+    "node_index": 506,
+    "start_node_index": 506,
+    "end_node_index": 512,
+    "start_page": 53,
+    "end_page": 53,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.48484848484848
+    },
+    "page_number": 53,
+    "node_index": 513,
+    "start_node_index": 513,
+    "end_node_index": 2434,
+    "start_page": 53,
+    "end_page": 234,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Home_Smiles_Franchising_LLC_FDD_2024_ID636663.pdf-5da1ddd7-32dd-4546-a66d-13c223078bbb\\1fc0f286-66ab-49d8-97d5-6011d9a40538_origin.pdf"
+  }
+]

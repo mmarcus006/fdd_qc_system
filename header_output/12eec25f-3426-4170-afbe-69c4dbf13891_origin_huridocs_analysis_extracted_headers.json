@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE  FRANCHISOR  AND  ANY  PARENTS,  PREDECESSORS  AND AFFILIATES",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.19000933706818
+    },
+    "page_number": 10,
+    "node_index": 71,
+    "start_node_index": 71,
+    "end_node_index": 117,
+    "start_page": 10,
+    "end_page": 15,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.94059070168947
+    },
+    "page_number": 15,
+    "node_index": 118,
+    "start_node_index": 118,
+    "end_node_index": 146,
+    "start_page": 15,
+    "end_page": 18,
+    "alignment_score": 0.576797385620915,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATION",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.92436974789916
+    },
+    "page_number": 18,
+    "node_index": 147,
+    "start_node_index": 147,
+    "end_node_index": 161,
+    "start_page": 18,
+    "end_page": 19,
+    "alignment_score": 0.47058823529411764,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BANKRUPTCY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.98972922502334
+    },
+    "page_number": 19,
+    "node_index": 162,
+    "start_node_index": 162,
+    "end_node_index": 164,
+    "start_page": 19,
+    "end_page": 19,
+    "alignment_score": 0.4836601307189542,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 INITIAL FEES",
+    "match_scores": {
+      "full": 97.43589743589743,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.11990950226244
+    },
+    "page_number": 19,
+    "node_index": 165,
+    "start_node_index": 165,
+    "end_node_index": 180,
+    "start_page": 19,
+    "end_page": 21,
+    "alignment_score": 0.48039215686274506,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.96521942110178
+    },
+    "page_number": 21,
+    "node_index": 181,
+    "start_node_index": 181,
+    "end_node_index": 218,
+    "start_page": 21,
+    "end_page": 29,
+    "alignment_score": 0.4787581699346405,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 98.59154929577466,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.64544785050171
+    },
+    "page_number": 29,
+    "node_index": 219,
+    "start_node_index": 219,
+    "end_node_index": 255,
+    "start_page": 29,
+    "end_page": 34,
+    "alignment_score": 0.6699346405228759,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 99.09909909909909,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.181902490726
+    },
+    "page_number": 34,
+    "node_index": 256,
+    "start_node_index": 256,
+    "end_node_index": 308,
+    "start_page": 34,
+    "end_page": 40,
+    "alignment_score": 0.9264705882352942,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.82166199813258
+    },
+    "page_number": 40,
+    "node_index": 309,
+    "start_node_index": 309,
+    "end_node_index": 317,
+    "start_page": 40,
+    "end_page": 42,
+    "alignment_score": 0.6405228758169934,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FINANCING",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.89169000933707
+    },
+    "page_number": 42,
+    "node_index": 318,
+    "start_node_index": 318,
+    "end_node_index": 319,
+    "start_page": 42,
+    "end_page": 42,
+    "alignment_score": 0.46405228758169936,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11 FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS AND TRAINING",
+    "match_scores": {
+      "full": 97.36842105263158,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.66787065703474
+    },
+    "page_number": 42,
+    "node_index": 320,
+    "start_node_index": 320,
+    "end_node_index": 458,
+    "start_page": 42,
+    "end_page": 57,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.90802987861811
+    },
+    "page_number": 57,
+    "node_index": 459,
+    "start_node_index": 459,
+    "end_node_index": 504,
+    "start_page": 57,
+    "end_page": 62,
+    "alignment_score": 0.4673202614379085,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.10779897544603
+    },
+    "page_number": 62,
+    "node_index": 505,
+    "start_node_index": 505,
+    "end_node_index": 541,
+    "start_page": 62,
+    "end_page": 66,
+    "alignment_score": 0.49183006535947715,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.75583566760038
+    },
+    "page_number": 66,
+    "node_index": 542,
+    "start_node_index": 542,
+    "end_node_index": 582,
+    "start_page": 66,
+    "end_page": 70,
+    "alignment_score": 0.9297385620915033,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATION  TO  PARTICIPATE  IN  THE  ACTUAL  OPERATION  OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 99.37106918238993,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.66919472191393
+    },
+    "page_number": 70,
+    "node_index": 583,
+    "start_node_index": 583,
+    "end_node_index": 588,
+    "start_page": 70,
+    "end_page": 71,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 99.04761904761905,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.9437441643324
+    },
+    "page_number": 71,
+    "node_index": 589,
+    "start_node_index": 589,
+    "end_node_index": 592,
+    "start_page": 71,
+    "end_page": 71,
+    "alignment_score": 0.8839869281045751,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.38709677419355,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.16086864853467
+    },
+    "page_number": 71,
+    "node_index": 593,
+    "start_node_index": 593,
+    "end_node_index": 612,
+    "start_page": 71,
+    "end_page": 78,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.4624183006536
+    },
+    "page_number": 78,
+    "node_index": 613,
+    "start_node_index": 613,
+    "end_node_index": 615,
+    "start_page": 78,
+    "end_page": 78,
+    "alignment_score": 0.5147058823529411,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 98.9010989010989,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.54368670545142
+    },
+    "page_number": 78,
+    "node_index": 616,
+    "start_node_index": 616,
+    "end_node_index": 759,
+    "start_page": 78,
+    "end_page": 95,
+    "alignment_score": 0.8186274509803921,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS AND FRANCHISEE INFORMATION Table No. 1 System-Wide Studio Business Summary for Years 2021 to 2023",
+    "match_scores": {
+      "full": 95.1219512195122,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.98091025027898
+    },
+    "page_number": 95,
+    "node_index": 760,
+    "start_node_index": 760,
+    "end_node_index": 788,
+    "start_page": 95,
+    "end_page": 102,
+    "alignment_score": 0.8839869281045751,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.12934296525628
+    },
+    "page_number": 102,
+    "node_index": 789,
+    "start_node_index": 789,
+    "end_node_index": 791,
+    "start_page": 102,
+    "end_page": 103,
+    "alignment_score": 0.6013071895424836,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CONTRACTS",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93253968253968
+    },
+    "page_number": 103,
+    "node_index": 792,
+    "start_node_index": 792,
+    "end_node_index": 794,
+    "start_page": 103,
+    "end_page": 103,
+    "alignment_score": 0.4722222222222222,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.72341057635175
+    },
+    "page_number": 103,
+    "node_index": 795,
+    "start_node_index": 795,
+    "end_node_index": 2490,
+    "start_page": 103,
+    "end_page": 349,
+    "alignment_score": 0.44771241830065356,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\FADS_USA_Inc_FDD_2024_ID636203.pdf-cc106e76-921d-419c-b3a4-36979a56d951\\12eec25f-3426-4170-afbe-69c4dbf13891_origin.pdf"
+  }
+]

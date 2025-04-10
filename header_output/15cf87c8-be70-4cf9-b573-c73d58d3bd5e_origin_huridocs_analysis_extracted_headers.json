@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1. THE FRANCHISOR AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.7535381606711
+    },
+    "page_number": 8,
+    "node_index": 60,
+    "start_node_index": 60,
+    "end_node_index": 85,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9869281045751634,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.92592592592592
+    },
+    "page_number": 10,
+    "node_index": 86,
+    "start_node_index": 86,
+    "end_node_index": 107,
+    "start_page": 10,
+    "end_page": 12,
+    "alignment_score": 0.5555555555555556,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.4607843137255
+    },
+    "page_number": 12,
+    "node_index": 108,
+    "start_node_index": 108,
+    "end_node_index": 111,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.44771241830065356,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.54248366013073
+    },
+    "page_number": 12,
+    "node_index": 112,
+    "start_node_index": 112,
+    "end_node_index": 113,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.46405228758169936,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.79575163398692
+    },
+    "page_number": 12,
+    "node_index": 114,
+    "start_node_index": 114,
+    "end_node_index": 118,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.45915032679738566,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.49346405228759
+    },
+    "page_number": 12,
+    "node_index": 119,
+    "start_node_index": 119,
+    "end_node_index": 135,
+    "start_page": 12,
+    "end_page": 15,
+    "alignment_score": 0.45424836601307195,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. ESTIMATED INITIAL INVESTMENT YOUR ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.8783745382211
+    },
+    "page_number": 15,
+    "node_index": 136,
+    "start_node_index": 136,
+    "end_node_index": 165,
+    "start_page": 15,
+    "end_page": 18,
+    "alignment_score": 0.8104575163398693,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.5842670401494
+    },
+    "page_number": 18,
+    "node_index": 166,
+    "start_node_index": 166,
+    "end_node_index": 205,
+    "start_page": 18,
+    "end_page": 21,
+    "alignment_score": 0.8954248366013072,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.96323529411765
+    },
+    "page_number": 21,
+    "node_index": 206,
+    "start_node_index": 206,
+    "end_node_index": 211,
+    "start_page": 21,
+    "end_page": 22,
+    "alignment_score": 0.6176470588235294,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.43627450980392
+    },
+    "page_number": 22,
+    "node_index": 212,
+    "start_node_index": 212,
+    "end_node_index": 216,
+    "start_page": 22,
+    "end_page": 23,
+    "alignment_score": 0.44281045751633985,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11. FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEM AND TRAINING",
+    "match_scores": {
+      "full": 96.05263157894737,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.99363605091159
+    },
+    "page_number": 23,
+    "node_index": 217,
+    "start_node_index": 217,
+    "end_node_index": 303,
+    "start_page": 23,
+    "end_page": 30,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.4281045751634
+    },
+    "page_number": 30,
+    "node_index": 304,
+    "start_node_index": 304,
+    "end_node_index": 315,
+    "start_page": 30,
+    "end_page": 31,
+    "alignment_score": 0.4411764705882353,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.71319229446163
+    },
+    "page_number": 31,
+    "node_index": 316,
+    "start_node_index": 316,
+    "end_node_index": 328,
+    "start_page": 31,
+    "end_page": 33,
+    "alignment_score": 0.46895424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 97.34513274336283,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.16603042396899
+    },
+    "page_number": 33,
+    "node_index": 329,
+    "start_node_index": 329,
+    "end_node_index": 346,
+    "start_page": 33,
+    "end_page": 34,
+    "alignment_score": 0.8986928104575164,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.28513071895425
+    },
+    "page_number": 34,
+    "node_index": 347,
+    "start_node_index": 347,
+    "end_node_index": 353,
+    "start_page": 34,
+    "end_page": 35,
+    "alignment_score": 0.9820261437908496,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.32947959057836
+    },
+    "page_number": 35,
+    "node_index": 354,
+    "start_node_index": 354,
+    "end_node_index": 356,
+    "start_page": 35,
+    "end_page": 35,
+    "alignment_score": 0.8545751633986928,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 97.6,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.63660130718954
+    },
+    "page_number": 35,
+    "node_index": 357,
+    "start_node_index": 357,
+    "end_node_index": 373,
+    "start_page": 35,
+    "end_page": 39,
+    "alignment_score": 0.9673202614379085,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.28523728331913
+    },
+    "page_number": 39,
+    "node_index": 374,
+    "start_node_index": 374,
+    "end_node_index": 375,
+    "start_page": 39,
+    "end_page": 39,
+    "alignment_score": 0.49183006535947715,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19. FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 97.82608695652173,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.87546177891447
+    },
+    "page_number": 39,
+    "node_index": 376,
+    "start_node_index": 376,
+    "end_node_index": 471,
+    "start_page": 39,
+    "end_page": 49,
+    "alignment_score": 0.7924836601307189,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20. OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 97.67441860465117,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.57903936768507
+    },
+    "page_number": 49,
+    "node_index": 472,
+    "start_node_index": 472,
+    "end_node_index": 505,
+    "start_page": 49,
+    "end_page": 55,
+    "alignment_score": 0.7483660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.14350912778906
+    },
+    "page_number": 55,
+    "node_index": 506,
+    "start_node_index": 506,
+    "end_node_index": 507,
+    "start_page": 55,
+    "end_page": 55,
+    "alignment_score": 0.5735294117647058,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22. CONTRACTS",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.46895424836602
+    },
+    "page_number": 55,
+    "node_index": 508,
+    "start_node_index": 508,
+    "end_node_index": 2212,
+    "start_page": 55,
+    "end_page": 204,
+    "alignment_score": 0.44934640522875813,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.46850861556744
+    },
+    "page_number": 204,
+    "node_index": 2213,
+    "start_node_index": 2213,
+    "end_node_index": 2235,
+    "start_page": 204,
+    "end_page": 206,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\CruiseShipCenters_USA_Inc_FDD_2024_ID635807.pdf-c9deb3d9-48fa-4db4-a3cd-d8a3f2b26709\\15cf87c8-be70-4cf9-b573-c73d58d3bd5e_origin.pdf"
+  }
+]

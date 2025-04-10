@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 9,
+    "node_index": 77,
+    "start_node_index": 77,
+    "end_node_index": 110,
+    "start_page": 9,
+    "end_page": 12,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 12,
+    "node_index": 111,
+    "start_node_index": 111,
+    "end_node_index": 145,
+    "start_page": 12,
+    "end_page": 14,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 14,
+    "node_index": 146,
+    "start_node_index": 146,
+    "end_node_index": 150,
+    "start_page": 14,
+    "end_page": 15,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 75.0
+    },
+    "page_number": 15,
+    "node_index": 151,
+    "start_node_index": 151,
+    "end_node_index": 153,
+    "start_page": 15,
+    "end_page": 15,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.99183006535948
+    },
+    "page_number": 15,
+    "node_index": 154,
+    "start_node_index": 154,
+    "end_node_index": 188,
+    "start_page": 15,
+    "end_page": 18,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.97549019607843
+    },
+    "page_number": 18,
+    "node_index": 189,
+    "start_node_index": 189,
+    "end_node_index": 225,
+    "start_page": 18,
+    "end_page": 25,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 25,
+    "node_index": 226,
+    "start_node_index": 226,
+    "end_node_index": 274,
+    "start_page": 25,
+    "end_page": 32,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.9673202614379
+    },
+    "page_number": 32,
+    "node_index": 275,
+    "start_node_index": 275,
+    "end_node_index": 307,
+    "start_page": 32,
+    "end_page": 35,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9",
+    "match_scores": {
+      "full": 80.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 74.98366013071896
+    },
+    "page_number": 35,
+    "node_index": 308,
+    "start_node_index": 308,
+    "end_node_index": 318,
+    "start_page": 35,
+    "end_page": 37,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 37,
+    "node_index": 319,
+    "start_node_index": 319,
+    "end_node_index": 328,
+    "start_page": 37,
+    "end_page": 38,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 38,
+    "node_index": 329,
+    "start_node_index": 329,
+    "end_node_index": 429,
+    "start_page": 38,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.55508870214753
+    },
+    "page_number": 49,
+    "node_index": 430,
+    "start_node_index": 430,
+    "end_node_index": 470,
+    "start_page": 49,
+    "end_page": 53,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.29010695187165
+    },
+    "page_number": 53,
+    "node_index": 471,
+    "start_node_index": 471,
+    "end_node_index": 489,
+    "start_page": 53,
+    "end_page": 55,
+    "alignment_score": 0.9852941176470589,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 55,
+    "node_index": 490,
+    "start_node_index": 490,
+    "end_node_index": 510,
+    "start_page": 55,
+    "end_page": 57,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 57,
+    "node_index": 511,
+    "start_node_index": 511,
+    "end_node_index": 526,
+    "start_page": 57,
+    "end_page": 59,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 59,
+    "node_index": 527,
+    "start_node_index": 527,
+    "end_node_index": 538,
+    "start_page": 59,
+    "end_page": 60,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 60,
+    "node_index": 539,
+    "start_node_index": 539,
+    "end_node_index": 572,
+    "start_page": 60,
+    "end_page": 69,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 69,
+    "node_index": 573,
+    "start_node_index": 573,
+    "end_node_index": 575,
+    "start_page": 69,
+    "end_page": 69,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.35546642899584
+    },
+    "page_number": 69,
+    "node_index": 576,
+    "start_node_index": 576,
+    "end_node_index": 634,
+    "start_page": 69,
+    "end_page": 76,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 76,
+    "node_index": 635,
+    "start_node_index": 635,
+    "end_node_index": 661,
+    "start_page": 76,
+    "end_page": 80,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 80,
+    "node_index": 662,
+    "start_node_index": 662,
+    "end_node_index": 664,
+    "start_page": 80,
+    "end_page": 80,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.36363636363636
+    },
+    "page_number": 80,
+    "node_index": 665,
+    "start_node_index": 665,
+    "end_node_index": 675,
+    "start_page": 80,
+    "end_page": 81,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.34729649435532
+    },
+    "page_number": 81,
+    "node_index": 676,
+    "start_node_index": 676,
+    "end_node_index": 2538,
+    "start_page": 81,
+    "end_page": 331,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Lightbridge_Franchise_Company_LLC_FDD_2024_ID636107.pdf-a4f3ddfc-75ce-4609-b800-c3c3c05f3ef0\\020ea7d8-d95a-4570-895b-5e8bc66d1054_origin.pdf"
+  }
+]

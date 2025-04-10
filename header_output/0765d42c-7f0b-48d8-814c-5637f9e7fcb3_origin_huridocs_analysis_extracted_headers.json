@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1 THE FRA N CHISOR A N D A N Y PARE N TS, PREDECESSORS A N D AFFILIATES",
+    "match_scores": {
+      "full": 77.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.88071895424837
+    },
+    "page_number": 8,
+    "node_index": 80,
+    "start_node_index": 80,
+    "end_node_index": 112,
+    "start_page": 8,
+    "end_page": 11,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2 BUSI N ESS EXPERIE N CE",
+    "match_scores": {
+      "full": 83.63636363636364,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 76.80184194890077
+    },
+    "page_number": 11,
+    "node_index": 113,
+    "start_node_index": 113,
+    "end_node_index": 117,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3 LITIGATIO N",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.22222222222223
+    },
+    "page_number": 11,
+    "node_index": 118,
+    "start_node_index": 118,
+    "end_node_index": 119,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4 BA N KRUPTCY",
+    "match_scores": {
+      "full": 86.48648648648648,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.21873343932167
+    },
+    "page_number": 11,
+    "node_index": 120,
+    "start_node_index": 120,
+    "end_node_index": 121,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5 I N ITIAL FEES",
+    "match_scores": {
+      "full": 87.8048780487805,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.89426908974973
+    },
+    "page_number": 11,
+    "node_index": 122,
+    "start_node_index": 122,
+    "end_node_index": 138,
+    "start_page": 11,
+    "end_page": 13,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6 OTHER FEES",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 13,
+    "node_index": 139,
+    "start_node_index": 139,
+    "end_node_index": 164,
+    "start_page": 13,
+    "end_page": 17,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7 ESTIMATED I N ITIAL I N VESTME N T",
+    "match_scores": {
+      "full": 87.32394366197182,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 78.6538018963454
+    },
+    "page_number": 17,
+    "node_index": 165,
+    "start_node_index": 165,
+    "end_node_index": 224,
+    "start_page": 17,
+    "end_page": 24,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8 RESTRICTIO N S O N SOURCES OF PRODUCTS A N D SERVICES",
+    "match_scores": {
+      "full": 92.85714285714286,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.41223155929039
+    },
+    "page_number": 24,
+    "node_index": 225,
+    "start_node_index": 225,
+    "end_node_index": 270,
+    "start_page": 24,
+    "end_page": 28,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9 FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 95.23809523809524,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.58636788048553
+    },
+    "page_number": 28,
+    "node_index": 271,
+    "start_node_index": 271,
+    "end_node_index": 278,
+    "start_page": 28,
+    "end_page": 29,
+    "alignment_score": 0.9934640522875817,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10 FI N A N CI N G",
+    "match_scores": {
+      "full": 64.86486486486487,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 67.4160925631514
+    },
+    "page_number": 29,
+    "node_index": 279,
+    "start_node_index": 279,
+    "end_node_index": 280,
+    "start_page": 29,
+    "end_page": 29,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11",
+    "match_scores": {
+      "full": 72.72727272727272,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.33912655971479
+    },
+    "page_number": 29,
+    "node_index": 281,
+    "start_node_index": 281,
+    "end_node_index": 355,
+    "start_page": 29,
+    "end_page": 36,
+    "alignment_score": 0.9950980392156863,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12 TERRITORY",
+    "match_scores": {
+      "full": 97.14285714285714,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.56325863678805
+    },
+    "page_number": 36,
+    "node_index": 356,
+    "start_node_index": 356,
+    "end_node_index": 381,
+    "start_page": 36,
+    "end_page": 38,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13 TRADEMARKS",
+    "match_scores": {
+      "full": 97.29729729729729,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.64864864864865
+    },
+    "page_number": 38,
+    "node_index": 382,
+    "start_node_index": 382,
+    "end_node_index": 398,
+    "start_page": 38,
+    "end_page": 39,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14 PATE N TS, COPYRIGHTS A N D PROPRIETARY I N FORMATIO N",
+    "match_scores": {
+      "full": 88.49557522123894,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.24778761061947
+    },
+    "page_number": 39,
+    "node_index": 399,
+    "start_node_index": 399,
+    "end_node_index": 404,
+    "start_page": 39,
+    "end_page": 40,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15 OBLIGATIO N TO PARTICIPATE I N THE ACTUAL OPERATIO N OF THE FRA N CHISE BUSI N ESS",
+    "match_scores": {
+      "full": 88.60759493670886,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.29562753371391
+    },
+    "page_number": 40,
+    "node_index": 405,
+    "start_node_index": 405,
+    "end_node_index": 407,
+    "start_page": 40,
+    "end_page": 40,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16 RESTRICTIO N S O N PRODUCTS A N D SERVICES SOLD",
+    "match_scores": {
+      "full": 57.69230769230769,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 63.83798391151333
+    },
+    "page_number": 40,
+    "node_index": 408,
+    "start_node_index": 408,
+    "end_node_index": 416,
+    "start_page": 40,
+    "end_page": 42,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17 RE N EWAL, TERMI N ATIO N , TRA N SFER A N D DISPUTE RESOLUTIO N The Franchise Relationship Under a Single Unit Franchise Agreement",
+    "match_scores": {
+      "full": 56.666666666666664,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 63.32516339869281
+    },
+    "page_number": 42,
+    "node_index": 417,
+    "start_node_index": 417,
+    "end_node_index": 452,
+    "start_page": 42,
+    "end_page": 49,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18 PUBLIC FIGURES",
+    "match_scores": {
+      "full": 97.77777777777777,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.88071895424837
+    },
+    "page_number": 49,
+    "node_index": 453,
+    "start_node_index": 453,
+    "end_node_index": 458,
+    "start_page": 49,
+    "end_page": 50,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19 FI N A N CIAL PERFORMA N CE REPRESE N TATIO N S",
+    "match_scores": {
+      "full": 75.26881720430107,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 72.62623866751001
+    },
+    "page_number": 50,
+    "node_index": 459,
+    "start_node_index": 459,
+    "end_node_index": 493,
+    "start_page": 50,
+    "end_page": 53,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20 OUTLETS A N D FRA N CHISEE I N FORMATIO N TABLE N O. 1 SYSTEMWIDE OUTLET SUMMARY FOR YEARS 2021 to 2023",
+    "match_scores": {
+      "full": 46.57534246575342,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 58.28767123287671
+    },
+    "page_number": 53,
+    "node_index": 494,
+    "start_node_index": 494,
+    "end_node_index": 515,
+    "start_page": 53,
+    "end_page": 55,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21 FI N A N CIAL STATEME N TS",
+    "match_scores": {
+      "full": 77.96610169491525,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 73.98305084745763
+    },
+    "page_number": 55,
+    "node_index": 516,
+    "start_node_index": 516,
+    "end_node_index": 520,
+    "start_page": 55,
+    "end_page": 56,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22 CO N TRACTS",
+    "match_scores": {
+      "full": 91.89189189189189,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.93777601130542
+    },
+    "page_number": 56,
+    "node_index": 521,
+    "start_node_index": 521,
+    "end_node_index": 530,
+    "start_page": 56,
+    "end_page": 56,
+    "alignment_score": 0.9983660130718954,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23 RECEIPTS",
+    "match_scores": {
+      "full": 96.96969696969697,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.48484848484848
+    },
+    "page_number": 56,
+    "node_index": 531,
+    "start_node_index": 531,
+    "end_node_index": 2499,
+    "start_page": 56,
+    "end_page": 245,
+    "alignment_score": 1.0,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Bang_Cookies_Franchise_LLC_FDD_2024_ID637176.pdf-3ee798a4-e08d-4f5b-9850-a72c48f0fed0\\0765d42c-7f0b-48d8-814c-5637f9e7fcb3_origin.pdf"
+  }
+]

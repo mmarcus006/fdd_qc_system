@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM 1. THE FRANCHISOR, PARENTS, PREDECESSORS, AND AFFILIATES",
+    "match_scores": {
+      "full": 94.4,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.70980392156864
+    },
+    "page_number": 8,
+    "node_index": 73,
+    "start_node_index": 73,
+    "end_node_index": 99,
+    "start_page": 8,
+    "end_page": 10,
+    "alignment_score": 0.9019607843137255,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.87690631808279
+    },
+    "page_number": 10,
+    "node_index": 100,
+    "start_node_index": 100,
+    "end_node_index": 123,
+    "start_page": 10,
+    "end_page": 11,
+    "alignment_score": 0.5457516339869282,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.51797385620915
+    },
+    "page_number": 11,
+    "node_index": 124,
+    "start_node_index": 124,
+    "end_node_index": 125,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.45915032679738566,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.55065359477125
+    },
+    "page_number": 11,
+    "node_index": 126,
+    "start_node_index": 126,
+    "end_node_index": 127,
+    "start_page": 11,
+    "end_page": 11,
+    "alignment_score": 0.46568627450980393,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.80392156862744
+    },
+    "page_number": 11,
+    "node_index": 128,
+    "start_node_index": 128,
+    "end_node_index": 142,
+    "start_page": 11,
+    "end_page": 12,
+    "alignment_score": 0.4607843137254902,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.49346405228759
+    },
+    "page_number": 12,
+    "node_index": 143,
+    "start_node_index": 143,
+    "end_node_index": 163,
+    "start_page": 12,
+    "end_page": 16,
+    "alignment_score": 0.45424836601307195,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 97.22222222222223,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.81372549019608
+    },
+    "page_number": 16,
+    "node_index": 164,
+    "start_node_index": 164,
+    "end_node_index": 193,
+    "start_page": 16,
+    "end_page": 22,
+    "alignment_score": 0.6405228758169934,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.42903828197946
+    },
+    "page_number": 22,
+    "node_index": 194,
+    "start_node_index": 194,
+    "end_node_index": 241,
+    "start_page": 22,
+    "end_page": 25,
+    "alignment_score": 0.8643790849673203,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.88970588235294
+    },
+    "page_number": 25,
+    "node_index": 242,
+    "start_node_index": 242,
+    "end_node_index": 247,
+    "start_page": 25,
+    "end_page": 26,
+    "alignment_score": 0.6029411764705883,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.43627450980392
+    },
+    "page_number": 26,
+    "node_index": 248,
+    "start_node_index": 248,
+    "end_node_index": 249,
+    "start_page": 26,
+    "end_page": 26,
+    "alignment_score": 0.44281045751633985,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11. FRANCHISOR’S ASSISTANCE, ADVERTISING, COMPUTER SYSTEMS & TRAINING",
+    "match_scores": {
+      "full": 92.71523178807946,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.096177985543
+    },
+    "page_number": 26,
+    "node_index": 250,
+    "start_node_index": 250,
+    "end_node_index": 370,
+    "start_page": 26,
+    "end_page": 38,
+    "alignment_score": 0.9477124183006536,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.4607843137255
+    },
+    "page_number": 38,
+    "node_index": 371,
+    "start_node_index": 371,
+    "end_node_index": 409,
+    "start_page": 38,
+    "end_page": 41,
+    "alignment_score": 0.44771241830065356,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.70502235982111
+    },
+    "page_number": 41,
+    "node_index": 410,
+    "start_node_index": 410,
+    "end_node_index": 421,
+    "start_page": 41,
+    "end_page": 42,
+    "alignment_score": 0.4673202614379085,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHTS, AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 98.24561403508773,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.48555211558308
+    },
+    "page_number": 42,
+    "node_index": 422,
+    "start_node_index": 422,
+    "end_node_index": 427,
+    "start_page": 42,
+    "end_page": 43,
+    "alignment_score": 0.8725490196078431,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION TO PARTICIPATE IN THE ACTUAL OPERATION OF THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.10539215686275
+    },
+    "page_number": 43,
+    "node_index": 428,
+    "start_node_index": 428,
+    "end_node_index": 432,
+    "start_page": 43,
+    "end_page": 43,
+    "alignment_score": 0.946078431372549,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.17425083240843
+    },
+    "page_number": 43,
+    "node_index": 433,
+    "start_node_index": 433,
+    "end_node_index": 440,
+    "start_page": 43,
+    "end_page": 44,
+    "alignment_score": 0.8235294117647058,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER, AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 98.41269841269842,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.84687208216621
+    },
+    "page_number": 44,
+    "node_index": 441,
+    "start_node_index": 441,
+    "end_node_index": 456,
+    "start_page": 44,
+    "end_page": 48,
+    "alignment_score": 0.9281045751633987,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.26072747939756
+    },
+    "page_number": 48,
+    "node_index": 457,
+    "start_node_index": 457,
+    "end_node_index": 458,
+    "start_page": 48,
+    "end_page": 48,
+    "alignment_score": 0.48692810457516345,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "ITEM 19. FINANCIAL PERFORMANCE REPRESENTATIONS",
+    "match_scores": {
+      "full": 97.82608695652173,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.73657289002558
+    },
+    "page_number": 48,
+    "node_index": 459,
+    "start_node_index": 459,
+    "end_node_index": 487,
+    "start_page": 48,
+    "end_page": 52,
+    "alignment_score": 0.7647058823529411,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20. OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 97.67441860465117,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.45649034807722
+    },
+    "page_number": 52,
+    "node_index": 488,
+    "start_node_index": 488,
+    "end_node_index": 520,
+    "start_page": 52,
+    "end_page": 57,
+    "alignment_score": 0.7238562091503268,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.09448951994591
+    },
+    "page_number": 57,
+    "node_index": 521,
+    "start_node_index": 521,
+    "end_node_index": 522,
+    "start_page": 57,
+    "end_page": 57,
+    "alignment_score": 0.5637254901960784,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22. CONTRACTS",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.4607843137255
+    },
+    "page_number": 57,
+    "node_index": 523,
+    "start_node_index": 523,
+    "end_node_index": 529,
+    "start_page": 57,
+    "end_page": 58,
+    "alignment_score": 0.44771241830065356,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23. RECEIPTS",
+    "match_scores": {
+      "full": 94.11764705882354,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.18300653594771
+    },
+    "page_number": 58,
+    "node_index": 530,
+    "start_node_index": 530,
+    "end_node_index": 1585,
+    "start_page": 58,
+    "end_page": 193,
+    "alignment_score": 0.4248366013071896,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\United_Franchise_Holdings_LLC_FDD_2024_ID636617.pdf-55472c91-60e3-4e06-8c85-3ec9b01f4aee\\207be2c7-dd77-4203-9227-7747357ba772_origin.pdf"
+  }
+]

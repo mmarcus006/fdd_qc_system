@@ -1,0 +1,416 @@
+[
+  {
+    "item_number": 1,
+    "text": "ITEM  1 THE FRANCHISOR, AND ANY PARENTS, PREDECESSORS AND AFFILIATES",
+    "match_scores": {
+      "full": 97.63779527559055,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.80255776851423
+    },
+    "page_number": 10,
+    "node_index": 53,
+    "start_node_index": 53,
+    "end_node_index": 77,
+    "start_page": 10,
+    "end_page": 12,
+    "alignment_score": 0.9967320261437909,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 2,
+    "text": "ITEM 2. BUSINESS EXPERIENCE",
+    "match_scores": {
+      "full": 96.29629629629629,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.80337690631809
+    },
+    "page_number": 12,
+    "node_index": 78,
+    "start_node_index": 78,
+    "end_node_index": 83,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.5310457516339869,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 3,
+    "text": "ITEM 3. LITIGATION",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.34640522875817
+    },
+    "page_number": 12,
+    "node_index": 84,
+    "start_node_index": 84,
+    "end_node_index": 86,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.4248366013071896,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 4,
+    "text": "ITEM 4. BANKRUPTCY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.41993464052288
+    },
+    "page_number": 12,
+    "node_index": 87,
+    "start_node_index": 87,
+    "end_node_index": 89,
+    "start_page": 12,
+    "end_page": 12,
+    "alignment_score": 0.4395424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 5,
+    "text": "ITEM 5. INITIAL FEES",
+    "match_scores": {
+      "full": 95.0,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.66503267973856
+    },
+    "page_number": 12,
+    "node_index": 90,
+    "start_node_index": 90,
+    "end_node_index": 98,
+    "start_page": 12,
+    "end_page": 13,
+    "alignment_score": 0.43300653594771243,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 6,
+    "text": "ITEM 6. OTHER FEES",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.36274509803923
+    },
+    "page_number": 13,
+    "node_index": 99,
+    "start_node_index": 99,
+    "end_node_index": 121,
+    "start_page": 13,
+    "end_page": 17,
+    "alignment_score": 0.4281045751633987,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 7,
+    "text": "ITEM 7. ESTIMATED INITIAL INVESTMENT",
+    "match_scores": {
+      "full": 97.22222222222223,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.8218954248366
+    },
+    "page_number": 17,
+    "node_index": 122,
+    "start_node_index": 122,
+    "end_node_index": 138,
+    "start_page": 17,
+    "end_page": 19,
+    "alignment_score": 0.642156862745098,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 8,
+    "text": "ITEM 8. RESTRICTIONS ON SOURCES OF PRODUCTS AND SERVICES",
+    "match_scores": {
+      "full": 98.21428571428571,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.50256769374417
+    },
+    "page_number": 19,
+    "node_index": 139,
+    "start_node_index": 139,
+    "end_node_index": 176,
+    "start_page": 19,
+    "end_page": 23,
+    "alignment_score": 0.8790849673202614,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 9,
+    "text": "ITEM 9. FRANCHISEE’S OBLIGATIONS",
+    "match_scores": {
+      "full": 93.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.85702614379085
+    },
+    "page_number": 23,
+    "node_index": 177,
+    "start_node_index": 177,
+    "end_node_index": 179,
+    "start_page": 23,
+    "end_page": 23,
+    "alignment_score": 0.5964052287581699,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 10,
+    "text": "ITEM 10. FINANCING",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.31372549019608
+    },
+    "page_number": 23,
+    "node_index": 180,
+    "start_node_index": 180,
+    "end_node_index": 181,
+    "start_page": 23,
+    "end_page": 23,
+    "alignment_score": 0.4183006535947712,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 11,
+    "text": "ITEM 11. FRANCHISOR’S  ASSISTANCE,  ADVERTISING,  COMPUTER  SYSTEMS,  AND TRAINING",
+    "match_scores": {
+      "full": 97.40259740259741,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.60325948561243
+    },
+    "page_number": 23,
+    "node_index": 182,
+    "start_node_index": 182,
+    "end_node_index": 240,
+    "start_page": 23,
+    "end_page": 30,
+    "alignment_score": 0.9803921568627451,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 12,
+    "text": "ITEM 12. TERRITORY",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.33006535947713
+    },
+    "page_number": 30,
+    "node_index": 241,
+    "start_node_index": 241,
+    "end_node_index": 247,
+    "start_page": 30,
+    "end_page": 31,
+    "alignment_score": 0.42156862745098034,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 13,
+    "text": "ITEM 13. TRADEMARKS",
+    "match_scores": {
+      "full": 94.73684210526315,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.58247334021327
+    },
+    "page_number": 31,
+    "node_index": 248,
+    "start_node_index": 248,
+    "end_node_index": 257,
+    "start_page": 31,
+    "end_page": 32,
+    "alignment_score": 0.44281045751633985,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 14,
+    "text": "ITEM 14. PATENTS, COPYRIGHTS AND PROPRIETARY INFORMATION",
+    "match_scores": {
+      "full": 97.34513274336283,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.07616114292324
+    },
+    "page_number": 32,
+    "node_index": 258,
+    "start_node_index": 258,
+    "end_node_index": 260,
+    "start_page": 32,
+    "end_page": 32,
+    "alignment_score": 0.880718954248366,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 15,
+    "text": "ITEM 15. OBLIGATION  TO  PARTICIPATE  IN  THE  ACTUAL  OPERATION  OF  THE FRANCHISE BUSINESS",
+    "match_scores": {
+      "full": 98.75,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 84.27696078431373
+    },
+    "page_number": 32,
+    "node_index": 261,
+    "start_node_index": 261,
+    "end_node_index": 263,
+    "start_page": 32,
+    "end_page": 32,
+    "alignment_score": 0.9803921568627451,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 16,
+    "text": "ITEM 16. RESTRICTIONS ON WHAT THE FRANCHISEE MAY SELL",
+    "match_scores": {
+      "full": 98.11320754716981,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.22327044025157
+    },
+    "page_number": 32,
+    "node_index": 264,
+    "start_node_index": 264,
+    "end_node_index": 267,
+    "start_page": 32,
+    "end_page": 33,
+    "alignment_score": 0.8333333333333334,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 17,
+    "text": "ITEM 17. RENEWAL, TERMINATION, TRANSFER AND DISPUTE RESOLUTION",
+    "match_scores": {
+      "full": 97.6,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 83.52222222222223
+    },
+    "page_number": 33,
+    "node_index": 268,
+    "start_node_index": 268,
+    "end_node_index": 273,
+    "start_page": 33,
+    "end_page": 35,
+    "alignment_score": 0.9444444444444444,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 18,
+    "text": "ITEM 18. PUBLIC FIGURES",
+    "match_scores": {
+      "full": 95.65217391304348,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 80.17085819835181
+    },
+    "page_number": 35,
+    "node_index": 274,
+    "start_node_index": 274,
+    "end_node_index": 277,
+    "start_page": 35,
+    "end_page": 36,
+    "alignment_score": 0.46895424836601307,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 19,
+    "text": "The FTC’s Franchise Rule permits a franchisor to provide information about the actual or potential financial performance of its franchised and/or franchisor-owned outlets, if there is a reasonable basis for the  information,  and  if  the  information  is  included  in  the  Disclosure  Document.  Financial  performance information that differs from that included in Item 19 may be given only if: (1) a franchisor provides the actual  records  of  an  existing  outlet  you  are  considering  buying;  or  (2)  a  franchisor  supplements  the information provided in this Item 19, for example, by providing information about possible performance at a particular location or under particular circumstances.",
+    "match_scores": {
+      "full": 72.22222222222223,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 71.00490196078431
+    },
+    "page_number": 36,
+    "node_index": 278,
+    "start_node_index": 278,
+    "end_node_index": 282,
+    "start_page": 36,
+    "end_page": 37,
+    "alignment_score": 0.9787581699346405,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 20,
+    "text": "ITEM 20. OUTLETS AND FRANCHISEE INFORMATION",
+    "match_scores": {
+      "full": 97.67441860465117,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 82.4810001519988
+    },
+    "page_number": 37,
+    "node_index": 283,
+    "start_node_index": 283,
+    "end_node_index": 301,
+    "start_page": 37,
+    "end_page": 41,
+    "alignment_score": 0.7287581699346406,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 21,
+    "text": "ITEM 21. FINANCIAL STATEMENTS",
+    "match_scores": {
+      "full": 96.55172413793103,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 81.0536398467433
+    },
+    "page_number": 41,
+    "node_index": 302,
+    "start_node_index": 302,
+    "end_node_index": 303,
+    "start_page": 41,
+    "end_page": 41,
+    "alignment_score": 0.5555555555555556,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 22,
+    "text": "ITEM 22. CONTRACTS",
+    "match_scores": {
+      "full": 94.44444444444444,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 79.34640522875817
+    },
+    "page_number": 41,
+    "node_index": 304,
+    "start_node_index": 304,
+    "end_node_index": 310,
+    "start_page": 41,
+    "end_page": 42,
+    "alignment_score": 0.4248366013071896,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  },
+  {
+    "item_number": 23,
+    "text": "ITEM 23. ACKNOWLEDGMENT OF RECEIPT",
+    "match_scores": {
+      "full": 58.8235294117647,
+      "label": 100,
+      "keywords": 0.0,
+      "final": 62.58986928104574
+    },
+    "page_number": 42,
+    "node_index": 311,
+    "start_node_index": 311,
+    "end_node_index": 1715,
+    "start_page": 42,
+    "end_page": 191,
+    "alignment_score": 0.6356209150326797,
+    "pdf_file_path": "C:\\Users\\mille\\OneDrive\\FDD_PDFS\\MINERU\\Pet_Passages_Franchising_Inc_FDD_2024_ID637081.pdf-fdf04da7-9d06-4e7b-b6c1-9595d135ae82\\0a16f56c-3d1a-4311-a172-bf5fe0fabd72_origin.pdf"
+  }
+]
