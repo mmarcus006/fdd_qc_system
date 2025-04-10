@@ -1,0 +1,9 @@
+---
+description: Enforces PEP 8, Ruff formatting, and strict line limits.
+globs: 
+alwaysApply: false
+---
+- **Strict PEP 8/Ruff**: Adhere strictly to PEP 8. Assume code will be processed by uff format and uff check --fix.
+- **Line Length**: Max 79 characters per line. Break lines logically.
+- **Imports**: Use absolute imports. Group stdlib, third-party, local. isort compatible. NEVER modify existing imports unless fixing a lint error or explicitly asked.
+- **Whitespace**: Use standard PEP 8 whitespace rules (e.g., around operators, after commas).

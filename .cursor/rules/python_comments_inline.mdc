@@ -1,0 +1,8 @@
+---
+description: 
+globs: ["**/*.py"]
+alwaysApply: false
+---
+- **Detailed Inline Comments**: Use # comments liberally to explain *why* code works a certain way, clarify complex steps, or note assumptions/tradeoffs. Explain the non-obvious.
+- **No Auto-Docstrings**: Do NOT generate function/class docstrings unless explicitly requested by the user.
+- **TODOs**: Insert # TODO: comments for planned work, refactoring needs, or missing pieces identified during generation.

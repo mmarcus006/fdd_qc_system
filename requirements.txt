@@ -1,0 +1,12 @@
+PyMuPDF
+Pillow
+pdfplumber
+nltk
+spacy
+pandas
+numpy
+scikit-learn
+PyPDF2
+requests
+torch
+transformers

@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- **Functional Preference**: Default to pure functions. Avoid classes unless explicitly needed for stateful objects or specific patterns (like context managers) requested by the user.
+- **Single Responsibility**: Each function must do ONE thing well.
+- **DRY Principle**: Abstract repeated logic into helper functions immediately.
+- **Minimize Nesting**: Aim for <= 3 levels of indentation. Refactor complex conditionals/loops into helper functions.

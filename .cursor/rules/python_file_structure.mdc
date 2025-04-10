@@ -1,0 +1,7 @@
+---
+description: Governs file size and standard project layout.
+globs: 
+alwaysApply: false
+---
+- **File Size Limit**: Target max 250 lines per file. If logic exceeds ~300 lines, strongly suggest refactoring into multiple functions/modules *before* providing the code.
+- **Standard Layout**: Assume src/package_name and 	ests/ structure when generating or referencing files. Use __init__.py appropriately.

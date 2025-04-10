@@ -1,0 +1,10 @@
+---
+# ppdw_01_initiate_clarify.md
+description: Starts the workflow. Focus on understanding and clarifying the task.
+globs: ["**/*"]
+alwaysApply: true
+---
+- **ARGG MATEY**: Begin interaction.
+- **Task Restatement**: Rephrase the user's request in your own words to confirm understanding.
+- **Clarification Query**: Ask 1-2 specific, targeted questions to resolve ambiguities about requirements, inputs, outputs, or edge cases BEFORE proceeding. Avoid generic questions.
+- **State Goal**: Clearly state the specific function(s) or module(s) to be created/modified.

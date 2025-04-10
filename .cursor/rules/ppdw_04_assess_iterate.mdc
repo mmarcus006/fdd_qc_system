@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- **Self-Critique**: Review your code with 1-3 bulletpoints, highlighting strengths and potential improvements.
+- **Feature Completeness**: Verify that all original requirements have been met.
+- **Next Steps**: Suggest specific next actions (e.g., "Consider adding tests for X" or "This should be expanded to handle Y").
+- **Usage Example**: Provide a concise example showing the code in action with realistic inputs/outputs.

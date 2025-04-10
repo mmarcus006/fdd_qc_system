@@ -1,0 +1,8 @@
+---
+description: Mandates descriptive names for variables and functions.
+globs: 
+alwaysApply: false
+---
+- **Descriptive Names**: Use clear, unambiguous snake_case names (e.g., calculate_user_discount not calc_disc).
+- **Constants**: Use UPPER_SNAKE_CASE for module-level constants (e.g., DEFAULT_TIMEOUT = 10).
+- **Avoid Abbreviations**: Spell out names unless the abbreviation is universally understood (e.g., http, db).

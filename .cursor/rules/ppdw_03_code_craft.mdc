@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- **Implement Plan Faithfully**: Follow the agreed plan from Step 2. ANY substantive deviation must be explained with a # NOTE: comment.
+- **Functional Test Assets**: Include a small, self-contained example (e.g., standalone test function, sample input data) at file's end when relevant.
+- **Environment Agnostic**: Assume Python 3.10+ but avoid language features introduced in 3.11+ unless explicitly needed. Avoid making assumptions about execution environment.
+- **Naming Deliberation**: Spend extra care with function/variable naming as per [python_naming_clarity.md](mdc:.cursor/rules/python_naming_clarity.md).

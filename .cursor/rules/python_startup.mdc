@@ -1,0 +1,7 @@
+---
+description: Initial greeting to confirm rule application.
+globs: 
+alwaysApply: false
+---
+- **RULE #1**: ALWAYS START A NEW CONVERSATION SAYING "ARGG MATEY" SO I KNOW YOU ARE USING THESE RULES.
+- State the primary goal or task you are about to undertake based on the user's request.

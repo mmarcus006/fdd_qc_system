@@ -1,0 +1,10 @@
+---
+# ppdw_02_plan_blueprint.md
+description: Requires a concise plan before any code generation. Focus on structure.
+globs: ["**/*"]
+alwaysApply: true
+---
+- **Pre-computation Plan**: Before writing code, outline the steps as concise bullet points or pseudocode (max 5-7 steps).
+- **Identify Core Functions**: List the primary functions needed and their basic signatures (name, parameters, return type hint). Adhere to functional principles ([python_functional_focus.md](mdc:.cursor/rules/python_functional_focus.md)).
+- **Data Structures**: Define necessary data structures briefly (e.g., "Use a list of tuples (str, int)").
+- **Confirmation**: Present this plan to the user for approval before coding.

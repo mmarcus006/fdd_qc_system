@@ -1,0 +1,8 @@
+---
+description: Specifies user's preferred libraries and tools.
+globs: 
+alwaysApply: false
+---
+- **PDF Processing**: Use PyMuPDF (import fitz) by default. Implement its usage clearly.
+- **LLM Preference**: Default to "Gemini" for any conceptual LLM tasks or examples unless otherwise specified.
+- **Terminal**: Assume PowerShell execution environment for any generated terminal commands.

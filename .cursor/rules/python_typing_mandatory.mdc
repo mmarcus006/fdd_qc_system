@@ -1,0 +1,8 @@
+---
+description: Requires comprehensive type hints for all possible elements.
+globs: 
+alwaysApply: false
+---
+- **Mandatory Hints**: Provide type hints (	yping module) for ALL function args, return types, and variables where type is knowable or inferable.
+- **Specificity**: Use specific types (e.g., List[str], Dict[int, User]) over generic ones (list, dict) or Any where possible.
+- **Optional**: Use Optional[Type] for values that can be None.

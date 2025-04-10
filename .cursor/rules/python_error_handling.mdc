@@ -1,0 +1,8 @@
+---
+description: 
+globs: ["**/*.py"]
+alwaysApply: false
+---
+- **Specific Exceptions**: Catch specific exception types (ValueError, FileNotFoundError, etc.), never bare xcept: or xcept Exception:.
+- **Context**: Provide context in error messages or logs (e.g., which input failed). Use logging.exception if logging is implemented.
+- **Custom Exceptions**: Define custom exceptions if needed for domain-specific errors (when requested or logical).

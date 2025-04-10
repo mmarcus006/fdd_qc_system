@@ -1,0 +1,28 @@
+# Project specific directories
+output/
+
+# Large directories to exclude from Cursor indexing
+data/
+logs/
+
+# Large files
+*.csv
+*.json
+*.pkl
+*.parquet
+*.h5
+*.hdf5
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Local environment
+venv/
+env/
+.env 
